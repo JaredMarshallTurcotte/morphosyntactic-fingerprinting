@@ -153,9 +153,9 @@ It sees grammatical structure (case chains, verb morphology, syntactic roles) bu
   title={Morphosyntactic Fingerprinting of Editorial Layers in the Greek New Testament},
   author={Turcotte, Jared Marshall},
   year={2026},
-  doi={10.5281/zenodo.19078777},
+  doi={10.5281/zenodo.19103548},
   publisher={Zenodo},
-  url={https://zenodo.org/records/19078777}
+  url={https://zenodo.org/records/19103548}
 }
 ```
 
