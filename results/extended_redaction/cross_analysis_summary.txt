@@ -1,0 +1,26 @@
+================================================================================
+  CROSS-ANALYSIS SUMMARY
+================================================================================
+
+  Catholic J→G:
+    Total flips: 73
+    ROBUST:  3
+    RARE:    4
+    FRAGILE: 66
+    Combined p: < 9.71e-07
+    Mean |Δ| of robust: 0.466
+
+  Catholic G→J:
+    Total flips: 27
+    ROBUST:  0
+    RARE:    1
+    FRAGILE: 26
+
+  Expanded J→G:
+    Total flips: 159
+    ROBUST:  6
+    RARE:    10
+    FRAGILE: 143
+    Combined p: < 9.42e-13
+    Mean |Δ| of robust: 0.456
+

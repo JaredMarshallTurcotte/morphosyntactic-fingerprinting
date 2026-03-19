@@ -1,0 +1,2682 @@
+[
+  {
+    "book": "Matt",
+    "book_full": "Matthew",
+    "category": "Gospel",
+    "chapter": 3,
+    "orig_pj": 0.46000845581293104,
+    "orig_std": 0.20047710055147758,
+    "strip_pj": 0.7667584955692291,
+    "strip_std": 0.11824774649380228,
+    "delta": -0.3067500397562981,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "sacramental",
+      "pneumatological"
+    ],
+    "orig_text": "αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ ⸂καὶ πυρί⸃·",
+    "stripped_text": "αὐτὸς ὑμᾶς ⸂καὶ πυρί⸃·",
+    "tokens_removed": [
+      "βαπτίσει",
+      "ἐν",
+      "πνεύματι",
+      "ἁγίῳ"
+    ],
+    "random_flip_count": 78,
+    "p_value": 0.7821782178217822,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Matt",
+    "book_full": "Matthew",
+    "category": "Gospel",
+    "chapter": 11,
+    "orig_pj": 0.4924191780388355,
+    "orig_std": 0.3046849015199812,
+    "strip_pj": 0.4950218703597784,
+    "strip_std": 0.33546220325632997,
+    "delta": -0.002602692320942901,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ἐγένοντο αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ μετενόησαν.",
+    "stripped_text": "ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ἐγένοντο αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ",
+    "tokens_removed": [
+      "μετενόησαν."
+    ]
+  },
+  {
+    "book": "Matt",
+    "book_full": "Matthew",
+    "category": "Gospel",
+    "chapter": 12,
+    "orig_pj": 0.44827553555369376,
+    "orig_std": 0.34915417539984617,
+    "strip_pj": 0.3564127210061997,
+    "strip_std": 0.3189641654949999,
+    "delta": 0.09186281454749406,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 5,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "ὃς δ’ ἂν εἴπῃ κατὰ τοῦ πνεύματος τοῦ ἁγίου, οὐκ ἀφεθήσεται αὐτῷ οὔτε ἐν ⸂τούτῳ τῷ⸃ αἰῶνι οὔτε ἐν τῷ μέλλοντι.",
+    "stripped_text": "ὃς δ’ ἂν εἴπῃ οὐκ ἀφεθήσεται αὐτῷ οὔτε ἐν ⸂τούτῳ τῷ⸃ αἰῶνι οὔτε ἐν τῷ μέλλοντι.",
+    "tokens_removed": [
+      "κατὰ",
+      "τοῦ",
+      "πνεύματος",
+      "τοῦ",
+      "ἁγίου,"
+    ]
+  },
+  {
+    "book": "Matt",
+    "book_full": "Matthew",
+    "category": "Gospel",
+    "chapter": 16,
+    "orig_pj": 0.30517947264015677,
+    "orig_std": 0.17994638745087868,
+    "strip_pj": 0.11586375404149293,
+    "strip_std": 0.08728699532188887,
+    "delta": 0.18931571859866383,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "ἀμὴν λέγω ὑμῖν ⸀ὅτι εἰσίν τινες ⸂τῶν ὧδε ἑστώτων⸃ οἵτινες οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν τῇ βασιλείᾳ αὐτοῦ.",
+    "stripped_text": "ἀμὴν λέγω ὑμῖν ⸀ὅτι εἰσίν τινες ⸂τῶν ὧδε ἑστώτων⸃ οἵτινες οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον αὐτοῦ.",
+    "tokens_removed": [
+      "ἐν",
+      "τῇ",
+      "βασιλείᾳ"
+    ]
+  },
+  {
+    "book": "Matt",
+    "book_full": "Matthew",
+    "category": "Gospel",
+    "chapter": 18,
+    "orig_pj": 0.3176325621083379,
+    "orig_std": 0.20873314715683516,
+    "strip_pj": 0.2142024226486683,
+    "strip_std": 0.13224336643379114,
+    "delta": 0.10343013945966961,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 5,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "Ἀμὴν λέγω ὑμῖν, ἐὰν μὴ στραφῆτε καὶ γένησθε ὡς τὰ παιδία, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν.",
+    "stripped_text": "Ἀμὴν λέγω ὑμῖν, ἐὰν μὴ στραφῆτε καὶ γένησθε ὡς τὰ παιδία, οὐ μὴ εἰσέλθητε",
+    "tokens_removed": [
+      "εἰς",
+      "τὴν",
+      "βασιλείαν",
+      "τῶν",
+      "οὐρανῶν."
+    ]
+  },
+  {
+    "book": "Matt",
+    "book_full": "Matthew",
+    "category": "Gospel",
+    "chapter": 20,
+    "orig_pj": 0.2181934447376989,
+    "orig_std": 0.23690482228159754,
+    "strip_pj": 0.1598974087741226,
+    "strip_std": 0.1515632403210794,
+    "delta": 0.0582960359635763,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "ἀλλ’ ὃς ⸀ἂν θέλῃ ἐν ὑμῖν μέγας γενέσθαι ἔσται ὑμῶν διάκονος, καὶ ὃς ⸀ἂν θέλῃ ἐν ὑμῖν εἶναι πρῶτος ⸀ἔσται ὑμῶν δοῦλος·",
+    "stripped_text": "ἀλλ’ ὃς ⸀ἂν θέλῃ ἐν ὑμῖν μέγας γενέσθαι ἔσται ὑμῶν καὶ ὃς ⸀ἂν θέλῃ ἐν ὑμῖν εἶναι πρῶτος ⸀ἔσται ὑμῶν δοῦλος·",
+    "tokens_removed": [
+      "διάκονος,"
+    ]
+  },
+  {
+    "book": "Matt",
+    "book_full": "Matthew",
+    "category": "Gospel",
+    "chapter": 21,
+    "orig_pj": 0.4138937398791313,
+    "orig_std": 0.1303191265689667,
+    "fully_editorial": true,
+    "flipped": false,
+    "categories_hit": [
+      "sacramental"
+    ],
+    "orig_text": "τὸ βάπτισμα ⸀τὸ Ἰωάννου πόθεν ἦν;"
+  },
+  {
+    "book": "Matt",
+    "book_full": "Matthew",
+    "category": "Gospel",
+    "chapter": 26,
+    "orig_pj": 0.3837676435709,
+    "orig_std": 0.14084699895425046,
+    "strip_pj": 0.6324735105037689,
+    "strip_std": 0.08518945889019336,
+    "delta": -0.2487058669328689,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τὸ μὲν πνεῦμα πρόθυμον ἡ δὲ σὰρξ ἀσθενής.",
+    "stripped_text": "μὲν ἡ δὲ σὰρξ ἀσθενής.",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμα",
+      "πρόθυμον"
+    ],
+    "random_flip_count": 63,
+    "p_value": 0.6336633663366337,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Mark",
+    "book_full": "Mark",
+    "category": "Gospel",
+    "chapter": 3,
+    "orig_pj": 0.4314052425324917,
+    "orig_std": 0.1833120913915192,
+    "strip_pj": 0.29401466250419617,
+    "strip_std": 0.15136579580368234,
+    "delta": 0.13739058002829552,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "ὅτι ἔλεγον· Πνεῦμα ἀκάθαρτον ἔχει.",
+    "stripped_text": "ὅτι ἔλεγον· ἔχει.",
+    "tokens_removed": [
+      "Πνεῦμα",
+      "ἀκάθαρτον"
+    ]
+  },
+  {
+    "book": "Mark",
+    "book_full": "Mark",
+    "category": "Gospel",
+    "chapter": 9,
+    "orig_pj": 0.06879061069339514,
+    "orig_std": 0.05382539310485232,
+    "strip_pj": 0.030950158089399337,
+    "strip_std": 0.014426341981309546,
+    "delta": 0.037840452603995794,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "Ἀμὴν λέγω ὑμῖν ὅτι εἰσίν τινες ⸂τῶν ὧδε⸃ ἑστηκότων οἵτινες οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὴν βασιλείαν τοῦ θεοῦ ἐληλυθυῖαν ἐν δυνάμει.",
+    "stripped_text": "Ἀμὴν λέγω ὑμῖν ὅτι εἰσίν τινες ⸂τῶν ὧδε⸃ ἑστηκότων οἵτινες οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν ἐληλυθυῖαν ἐν δυνάμει.",
+    "tokens_removed": [
+      "τὴν",
+      "βασιλείαν",
+      "τοῦ",
+      "θεοῦ"
+    ]
+  },
+  {
+    "book": "Mark",
+    "book_full": "Mark",
+    "category": "Gospel",
+    "chapter": 9,
+    "orig_pj": 0.23949965946376323,
+    "orig_std": 0.1487351914619004,
+    "strip_pj": 0.11124927140772342,
+    "strip_std": 0.0790590204348732,
+    "delta": 0.1282503880560398,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 6,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "καλόν ⸀σέ ἐστιν μονόφθαλμον εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ ἢ δύο ὀφθαλμοὺς ἔχοντα βληθῆναι εἰς ⸀τὴν ⸀γέενναν, ὅπου ὁ σκώληξ αὐτῶν οὐ τελευτᾷ καὶ τὸ πῦρ οὐ σβέννυται.",
+    "stripped_text": "καλόν ⸀σέ ἐστιν εἰσελθεῖν ἢ δύο ὀφθαλμοὺς ἔχοντα βληθῆναι εἰς ⸀τὴν ⸀γέενναν, ὅπου ὁ σκώληξ αὐτῶν οὐ τελευτᾷ καὶ τὸ πῦρ οὐ σβέννυται.",
+    "tokens_removed": [
+      "μονόφθαλμον",
+      "εἰς",
+      "τὴν",
+      "βασιλείαν",
+      "τοῦ",
+      "θεοῦ"
+    ]
+  },
+  {
+    "book": "Mark",
+    "book_full": "Mark",
+    "category": "Gospel",
+    "chapter": 10,
+    "orig_pj": 0.20414476320147515,
+    "orig_std": 0.14115922395951935,
+    "strip_pj": 0.13923676777631044,
+    "strip_std": 0.0979410166767334,
+    "delta": 0.0649079954251647,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "ἀμὴν λέγω ὑμῖν, ὃς ⸀ἂν μὴ δέξηται τὴν βασιλείαν τοῦ θεοῦ ὡς παιδίον, οὐ μὴ εἰσέλθῃ εἰς αὐτήν.",
+    "stripped_text": "ἀμὴν λέγω ὑμῖν, ὃς ⸀ἂν μὴ δέξηται ὡς παιδίον, οὐ μὴ εἰσέλθῃ εἰς αὐτήν.",
+    "tokens_removed": [
+      "τὴν",
+      "βασιλείαν",
+      "τοῦ",
+      "θεοῦ"
+    ]
+  },
+  {
+    "book": "Mark",
+    "book_full": "Mark",
+    "category": "Gospel",
+    "chapter": 10,
+    "orig_pj": 0.4828274831175804,
+    "orig_std": 0.2216793450298319,
+    "strip_pj": 0.24110006988048555,
+    "strip_std": 0.1376169256793151,
+    "delta": 0.24172741323709485,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "sacramental"
+    ],
+    "orig_text": "⸀Τὸ ποτήριον ὃ ἐγὼ πίνω πίεσθε καὶ τὸ βάπτισμα ὃ ἐγὼ βαπτίζομαι βαπτισθήσεσθε, τὸ δὲ καθίσαι ἐκ δεξιῶν μου ⸀ἢ ἐξ εὐωνύμων οὐκ ἔστιν ἐμὸν δοῦναι, ἀλλ’ οἷς ἡτοίμασται.",
+    "stripped_text": "⸀Τὸ ποτήριον ὃ ἐγὼ πίνω πίεσθε καὶ ὃ ἐγὼ τὸ δὲ καθίσαι ἐκ δεξιῶν μου ⸀ἢ ἐξ εὐωνύμων οὐκ ἔστιν ἐμὸν δοῦναι, ἀλλ’ οἷς ἡτοίμασται.",
+    "tokens_removed": [
+      "τὸ",
+      "βάπτισμα",
+      "βαπτίζομαι",
+      "βαπτισθήσεσθε,"
+    ]
+  },
+  {
+    "book": "Mark",
+    "book_full": "Mark",
+    "category": "Gospel",
+    "chapter": 10,
+    "orig_pj": 0.29231273108161987,
+    "orig_std": 0.2528337746415835,
+    "strip_pj": 0.31359508549794557,
+    "strip_std": 0.2390346940628692,
+    "delta": -0.0212823544163257,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "ἀλλ’ ὃς ⸀ἂν θέλῃ ⸂μέγας γενέσθαι⸃ ἐν ὑμῖν, ἔσται ὑμῶν διάκονος, καὶ ὃς ⸀ἂν θέλῃ ⸂ἐν ὑμῖν εἶναι⸃ πρῶτος, ἔσται πάντων δοῦλος·",
+    "stripped_text": "ἀλλ’ ὃς ⸀ἂν θέλῃ ⸂μέγας γενέσθαι⸃ ἐν ὑμῖν, ἔσται ὑμῶν καὶ ὃς ⸀ἂν θέλῃ ⸂ἐν ὑμῖν εἶναι⸃ πρῶτος, ἔσται πάντων δοῦλος·",
+    "tokens_removed": [
+      "διάκονος,"
+    ]
+  },
+  {
+    "book": "Mark",
+    "book_full": "Mark",
+    "category": "Gospel",
+    "chapter": 14,
+    "orig_pj": 0.3837676435709,
+    "orig_std": 0.14084699895425046,
+    "strip_pj": 0.6324735105037689,
+    "strip_std": 0.08518945889019336,
+    "delta": -0.2487058669328689,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τὸ μὲν πνεῦμα πρόθυμον ἡ δὲ σὰρξ ἀσθενής.",
+    "stripped_text": "μὲν ἡ δὲ σὰρξ ἀσθενής.",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμα",
+      "πρόθυμον"
+    ],
+    "random_flip_count": 54,
+    "p_value": 0.5445544554455446,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 2,
+    "orig_pj": 0.42514309138059614,
+    "orig_std": 0.20694068877144142,
+    "strip_pj": 0.288778954744339,
+    "strip_std": 0.2723219093960875,
+    "delta": 0.13636413663625713,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "creedal"
+    ],
+    "orig_text": "Ἰδοὺ οὗτος κεῖται εἰς πτῶσιν καὶ ἀνάστασιν πολλῶν ἐν τῷ Ἰσραὴλ καὶ εἰς σημεῖον ἀντιλεγόμενον, καὶ σοῦ ⸀δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία, ὅπως ἂν ἀποκαλυφθῶσιν ἐκ πολλῶν καρδιῶν διαλογισμοί.",
+    "stripped_text": "Ἰδοὺ οὗτος κεῖται εἰς πτῶσιν καὶ ἐν τῷ Ἰσραὴλ καὶ εἰς σημεῖον ἀντιλεγόμενον, καὶ σοῦ ⸀δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία, ὅπως ἂν ἀποκαλυφθῶσιν ἐκ πολλῶν καρδιῶν διαλογισμοί.",
+    "tokens_removed": [
+      "ἀνάστασιν",
+      "πολλῶν"
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 3,
+    "orig_pj": 0.3871597796678543,
+    "orig_std": 0.1486776444496284,
+    "strip_pj": 0.4901211768388748,
+    "strip_std": 0.09359869543772463,
+    "delta": -0.10296139717102049,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "ποιήσατε οὖν καρποὺς ἀξίους τῆς μετανοίας·",
+    "stripped_text": "ποιήσατε οὖν καρποὺς ἀξίους",
+    "tokens_removed": [
+      "τῆς",
+      "μετανοίας·"
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 3,
+    "orig_pj": 0.46000845581293104,
+    "orig_std": 0.20047710055147758,
+    "strip_pj": 0.7667584955692291,
+    "strip_std": 0.11824774649380228,
+    "delta": -0.3067500397562981,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "sacramental",
+      "pneumatological"
+    ],
+    "orig_text": "αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί·",
+    "stripped_text": "αὐτὸς ὑμᾶς καὶ πυρί·",
+    "tokens_removed": [
+      "βαπτίσει",
+      "ἐν",
+      "πνεύματι",
+      "ἁγίῳ"
+    ],
+    "random_flip_count": 70,
+    "p_value": 0.7029702970297029,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 5,
+    "orig_pj": 0.38473598212003707,
+    "orig_std": 0.18081355345745045,
+    "strip_pj": 0.42389138638973234,
+    "strip_std": 0.15331230613536792,
+    "delta": -0.03915540426969527,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "τίς δύναται ⸂ἁμαρτίας ἀφεῖναι⸃ εἰ μὴ μόνος ὁ θεός;",
+    "stripped_text": "τίς δύναται ἀφεῖναι⸃ εἰ μὴ μόνος ὁ θεός;",
+    "tokens_removed": [
+      "⸂ἁμαρτίας"
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 9,
+    "orig_pj": 0.14813053626567124,
+    "orig_std": 0.0646287683282392,
+    "strip_pj": 0.12710365727543832,
+    "strip_std": 0.06658917142973998,
+    "delta": 0.021026878990232922,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "λέγω δὲ ὑμῖν ἀληθῶς, εἰσίν τινες τῶν ⸀αὐτοῦ ⸀ἑστηκότων οἳ οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὴν βασιλείαν τοῦ θεοῦ.",
+    "stripped_text": "λέγω δὲ ὑμῖν ἀληθῶς, εἰσίν τινες τῶν ⸀αὐτοῦ ⸀ἑστηκότων οἳ οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν",
+    "tokens_removed": [
+      "τὴν",
+      "βασιλείαν",
+      "τοῦ",
+      "θεοῦ."
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 10,
+    "orig_pj": 0.4494323328137398,
+    "orig_std": 0.29018745443218336,
+    "strip_pj": 0.49496911466121674,
+    "strip_std": 0.2601600784651278,
+    "delta": -0.04553678184747695,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ⸀ἐγενήθησαν αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ ⸀καθήμενοι μετενόησαν.",
+    "stripped_text": "ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ⸀ἐγενήθησαν αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ ⸀καθήμενοι",
+    "tokens_removed": [
+      "μετενόησαν."
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 10,
+    "orig_pj": 0.2877319062128663,
+    "orig_std": 0.2441276693279454,
+    "strip_pj": 0.49904172122478485,
+    "strip_std": 0.3157452908480715,
+    "delta": -0.21130981501191853,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "πλὴν ἐν τούτῳ μὴ χαίρετε ὅτι τὰ πνεύματα ὑμῖν ὑποτάσσεται, χαίρετε δὲ ὅτι τὰ ὀνόματα ὑμῶν ⸀ἐγγέγραπται ἐν τοῖς οὐρανοῖς.",
+    "stripped_text": "πλὴν ἐν τούτῳ μὴ χαίρετε ὅτι ὑμῖν ὑποτάσσεται, χαίρετε δὲ ὅτι τὰ ὀνόματα ὑμῶν ⸀ἐγγέγραπται ἐν τοῖς οὐρανοῖς.",
+    "tokens_removed": [
+      "τὰ",
+      "πνεύματα"
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 15,
+    "orig_pj": 0.3975789356976748,
+    "orig_std": 0.21211326768157723,
+    "strip_pj": 0.2541615040972829,
+    "strip_std": 0.1894161143713911,
+    "delta": 0.1434174316003919,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "λέγω ὑμῖν ὅτι οὕτως χαρὰ ⸂ἐν τῷ οὐρανῷ ἔσται⸃ ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι ἢ ἐπὶ ἐνενήκοντα ἐννέα δικαίοις οἵτινες οὐ χρείαν ἔχουσιν μετανοίας.",
+    "stripped_text": "λέγω ὑμῖν ὅτι οὕτως χαρὰ ⸂ἐν τῷ οὐρανῷ ἔσται⸃ ἐπὶ ἑνὶ ἁμαρτωλῷ ἢ ἐπὶ ἐνενήκοντα ἐννέα δικαίοις οἵτινες οὐ χρείαν ἔχουσιν",
+    "tokens_removed": [
+      "μετανοοῦντι",
+      "μετανοίας."
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 18,
+    "orig_pj": 0.20414476320147515,
+    "orig_std": 0.14115922395951935,
+    "strip_pj": 0.13923676777631044,
+    "strip_std": 0.0979410166767334,
+    "delta": 0.0649079954251647,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "ἀμὴν λέγω ὑμῖν, ὃς ⸀ἂν μὴ δέξηται τὴν βασιλείαν τοῦ θεοῦ ὡς παιδίον, οὐ μὴ εἰσέλθῃ εἰς αὐτήν.",
+    "stripped_text": "ἀμὴν λέγω ὑμῖν, ὃς ⸀ἂν μὴ δέξηται ὡς παιδίον, οὐ μὴ εἰσέλθῃ εἰς αὐτήν.",
+    "tokens_removed": [
+      "τὴν",
+      "βασιλείαν",
+      "τοῦ",
+      "θεοῦ"
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 18,
+    "orig_pj": 0.38267275020480157,
+    "orig_std": 0.22417211100868498,
+    "strip_pj": 0.12151027088984848,
+    "strip_std": 0.09749545880106138,
+    "delta": 0.26116247931495307,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 5,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "Ἀμὴν λέγω ὑμῖν ὅτι οὐδείς ἐστιν ὃς ἀφῆκεν οἰκίαν ἢ ⸂γυναῖκα ἢ ἀδελφοὺς ἢ γονεῖς⸃ ἢ τέκνα ἕνεκεν τῆς βασιλείας τοῦ θεοῦ, ὃς ⸀οὐχὶ μὴ ⸀ἀπολάβῃ πολλαπλασίονα ἐν τῷ καιρῷ τούτῳ καὶ ἐν τῷ αἰῶνι τῷ ἐρχομένῳ ζωὴν αἰώνιον.",
+    "stripped_text": "Ἀμὴν λέγω ὑμῖν ὅτι οὐδείς ἐστιν ὃς ἀφῆκεν οἰκίαν ἢ ⸂γυναῖκα ἢ ἀδελφοὺς ἢ γονεῖς⸃ ἢ τέκνα ὃς ⸀οὐχὶ μὴ ⸀ἀπολάβῃ πολλαπλασίονα ἐν τῷ καιρῷ τούτῳ καὶ ἐν τῷ αἰῶνι τῷ ἐρχομένῳ ζωὴν αἰώνιον.",
+    "tokens_removed": [
+      "ἕνεκεν",
+      "τῆς",
+      "βασιλείας",
+      "τοῦ",
+      "θεοῦ,"
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 20,
+    "orig_pj": 0.40933417677879336,
+    "orig_std": 0.0674059855488332,
+    "fully_editorial": true,
+    "flipped": false,
+    "categories_hit": [
+      "sacramental"
+    ],
+    "orig_text": "Τὸ βάπτισμα Ἰωάννου ἐξ οὐρανοῦ ἦν ἢ ἐξ ἀνθρώπων;"
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 21,
+    "orig_pj": 0.47359770387411115,
+    "orig_std": 0.26950529987470434,
+    "strip_pj": 0.5895880371332168,
+    "strip_std": 0.1300106955018262,
+    "delta": -0.11599033325910568,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "οὕτως καὶ ὑμεῖς, ὅταν ἴδητε ταῦτα γινόμενα, γινώσκετε ὅτι ἐγγύς ἐστιν ἡ βασιλεία τοῦ θεοῦ.",
+    "stripped_text": "οὕτως καὶ ὑμεῖς, ὅταν ἴδητε ταῦτα γινόμενα, γινώσκετε ὅτι ἐγγύς ἐστιν",
+    "tokens_removed": [
+      "ἡ",
+      "βασιλεία",
+      "τοῦ",
+      "θεοῦ."
+    ],
+    "random_flip_count": 74,
+    "p_value": 0.7425742574257426,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 23,
+    "orig_pj": 0.4085639126598835,
+    "orig_std": 0.27936621981279547,
+    "strip_pj": 0.3786180816590786,
+    "strip_std": 0.19623261683065873,
+    "delta": 0.02994583100080489,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "creedal"
+    ],
+    "orig_text": "καὶ ὅτε ⸀ἦλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους, ὃν μὲν ἐκ δεξιῶν ὃν δὲ ἐξ ἀριστερῶν.",
+    "stripped_text": "καὶ ὅτε ⸀ἦλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ αὐτὸν καὶ τοὺς κακούργους, ὃν μὲν ἐκ δεξιῶν ὃν δὲ ἐξ ἀριστερῶν.",
+    "tokens_removed": [
+      "ἐσταύρωσαν"
+    ]
+  },
+  {
+    "book": "Luke",
+    "book_full": "Luke",
+    "category": "Gospel",
+    "chapter": 24,
+    "orig_pj": 0.25407674964517357,
+    "orig_std": 0.2405213788051792,
+    "strip_pj": 0.2052762309089303,
+    "strip_std": 0.18420428263931746,
+    "delta": 0.048800518736243276,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "ψηλαφήσατέ με καὶ ἴδετε, ὅτι πνεῦμα σάρκα καὶ ὀστέα οὐκ ἔχει καθὼς ἐμὲ θεωρεῖτε ἔχοντα.",
+    "stripped_text": "ψηλαφήσατέ με καὶ ἴδετε, ὅτι σάρκα καὶ ὀστέα οὐκ ἔχει καθὼς ἐμὲ θεωρεῖτε ἔχοντα.",
+    "tokens_removed": [
+      "πνεῦμα"
+    ]
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 1,
+    "orig_pj": 0.13546149441972374,
+    "orig_std": 0.1411581901752989,
+    "strip_pj": 0.203095097001642,
+    "strip_std": 0.16419849460909688,
+    "delta": -0.06763360258191825,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "sacramental"
+    ],
+    "orig_text": "Τί οὖν βαπτίζεις εἰ σὺ οὐκ εἶ ὁ χριστὸς ⸂οὐδὲ Ἠλίας οὐδὲ⸃ ὁ προφήτης;",
+    "stripped_text": "Τί οὖν εἰ σὺ οὐκ εἶ ὁ χριστὸς ⸂οὐδὲ Ἠλίας οὐδὲ⸃ ὁ προφήτης;",
+    "tokens_removed": [
+      "βαπτίζεις"
+    ]
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 1,
+    "orig_pj": 0.2537355604581535,
+    "orig_std": 0.22117448635449927,
+    "strip_pj": 0.3050339937210083,
+    "strip_std": 0.18520719595549437,
+    "delta": -0.051298433262854826,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 7,
+    "categories_hit": [
+      "sacramental",
+      "pneumatological"
+    ],
+    "orig_text": "Ἐφ’ ὃν ἂν ἴδῃς τὸ πνεῦμα καταβαῖνον καὶ μένον ἐπ’ αὐτόν, οὗτός ἐστιν ὁ βαπτίζων ἐν πνεύματι ἁγίῳ·",
+    "stripped_text": "Ἐφ’ ὃν ἂν ἴδῃς καταβαῖνον καὶ μένον ἐπ’ αὐτόν, οὗτός ἐστιν",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμα",
+      "ὁ",
+      "βαπτίζων",
+      "ἐν",
+      "πνεύματι",
+      "ἁγίῳ·"
+    ]
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 3,
+    "orig_pj": 0.2495250079780817,
+    "orig_std": 0.2174280156770547,
+    "strip_pj": 0.3197141237556934,
+    "strip_std": 0.14361108057821362,
+    "delta": -0.07018911577761172,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "Ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἄνωθεν, οὐ δύναται ἰδεῖν τὴν βασιλείαν τοῦ θεοῦ.",
+    "stripped_text": "Ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἄνωθεν, οὐ δύναται ἰδεῖν",
+    "tokens_removed": [
+      "τὴν",
+      "βασιλείαν",
+      "τοῦ",
+      "θεοῦ."
+    ]
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 3,
+    "orig_pj": 0.3768251113593578,
+    "orig_std": 0.20989132721546278,
+    "strip_pj": 0.35730106979608534,
+    "strip_std": 0.17817589617445345,
+    "delta": 0.019524041563272476,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 6,
+    "categories_hit": [
+      "pneumatological",
+      "eschatological"
+    ],
+    "orig_text": "⸀ἀπεκρίθη Ἰησοῦς· Ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ.",
+    "stripped_text": "⸀ἀπεκρίθη Ἰησοῦς· Ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ οὐ δύναται εἰσελθεῖν",
+    "tokens_removed": [
+      "πνεύματος,",
+      "εἰς",
+      "τὴν",
+      "βασιλείαν",
+      "τοῦ",
+      "θεοῦ."
+    ]
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 3,
+    "orig_pj": 0.34447763934731485,
+    "orig_std": 0.172700852090266,
+    "strip_pj": 0.7613108158111572,
+    "strip_std": 0.16988998900739455,
+    "delta": -0.4168331764638424,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τὸ πνεῦμα ὅπου θέλει πνεῖ, καὶ τὴν φωνὴν αὐτοῦ ἀκούεις, ἀλλ’ οὐκ οἶδας πόθεν ἔρχεται καὶ ποῦ ὑπάγει·",
+    "stripped_text": "ὅπου θέλει πνεῖ, καὶ τὴν φωνὴν αὐτοῦ ἀκούεις, ἀλλ’ οὐκ οἶδας πόθεν ἔρχεται καὶ ποῦ ὑπάγει·",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμα"
+    ],
+    "random_flip_count": 13,
+    "p_value": 0.13861386138613863,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 6,
+    "orig_pj": 0.32907871156930923,
+    "orig_std": 0.06892257530976006,
+    "strip_pj": 0.3521100074052811,
+    "strip_std": 0.11954668498088315,
+    "delta": -0.023031295835971854,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν·",
+    "stripped_text": "ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν·",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμά"
+    ]
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 9,
+    "orig_pj": 0.41916976124048233,
+    "orig_std": 0.1620609787058418,
+    "strip_pj": 0.4036205857992172,
+    "strip_std": 0.1607879402300669,
+    "delta": 0.015549175441265106,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "Εἰ τυφλοὶ ἦτε, οὐκ ἂν εἴχετε ἁμαρτίαν·",
+    "stripped_text": "Εἰ τυφλοὶ ἦτε, οὐκ ἂν εἴχετε",
+    "tokens_removed": [
+      "ἁμαρτίαν·"
+    ]
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 12,
+    "orig_pj": 0.4529745664447546,
+    "orig_std": 0.2659224374274274,
+    "strip_pj": 0.4910499833524227,
+    "strip_std": 0.3061356496815821,
+    "delta": -0.038075416907668136,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "ἐὰν ἐμοί ⸂τις διακονῇ⸃ ἐμοὶ ἀκολουθείτω, καὶ ὅπου εἰμὶ ἐγὼ ἐκεῖ καὶ ὁ διάκονος ὁ ἐμὸς ἔσται·",
+    "stripped_text": "ἐὰν ἐμοί ⸂τις διακονῇ⸃ ἐμοὶ ἀκολουθείτω, καὶ ὅπου εἰμὶ ἐγὼ ἐκεῖ καὶ ἔσται·",
+    "tokens_removed": [
+      "ὁ",
+      "διάκονος",
+      "ὁ",
+      "ἐμὸς"
+    ]
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 13,
+    "orig_pj": 0.38969586342573165,
+    "orig_std": 0.14589721735495512,
+    "strip_pj": 0.7416253983974457,
+    "strip_std": 0.1517850003382558,
+    "delta": -0.35192953497171403,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "ἀμὴν ἀμὴν λέγω ὑμῖν, οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ οὐδὲ ἀπόστολος μείζων τοῦ πέμψαντος αὐτόν.",
+    "stripped_text": "ἀμὴν ἀμὴν λέγω ὑμῖν, οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ οὐδὲ τοῦ πέμψαντος αὐτόν.",
+    "tokens_removed": [
+      "ἀπόστολος",
+      "μείζων"
+    ],
+    "random_flip_count": 63,
+    "p_value": 0.6336633663366337,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 18,
+    "orig_pj": 0.49757424741983414,
+    "orig_std": 0.13791117228035962,
+    "strip_pj": 0.5430385917425156,
+    "strip_std": 0.13601259667156215,
+    "delta": -0.04546434432268143,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν.",
+    "stripped_text": "νῦν δὲ οὐκ ἔστιν ἐντεῦθεν.",
+    "tokens_removed": [
+      "ἡ",
+      "βασιλεία",
+      "ἡ",
+      "ἐμὴ"
+    ],
+    "random_flip_count": 88,
+    "p_value": 0.8811881188118812,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "John",
+    "book_full": "John",
+    "category": "Gospel",
+    "chapter": 19,
+    "orig_pj": 0.3371486857533455,
+    "orig_std": 0.20253339424091385,
+    "strip_pj": 0.5959094978868962,
+    "strip_std": 0.2512096465446745,
+    "delta": -0.2587608121335507,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "creedal"
+    ],
+    "orig_text": "οὐκ οἶδας ὅτι ἐξουσίαν ἔχω ⸂ἀπολῦσαί σε καὶ ἐξουσίαν ἔχω σταυρῶσαί⸃ σε;",
+    "stripped_text": "οὐκ οἶδας ὅτι ἐξουσίαν ἔχω ⸂ἀπολῦσαί σε καὶ ἐξουσίαν ἔχω σε;",
+    "tokens_removed": [
+      "σταυρῶσαί⸃"
+    ],
+    "random_flip_count": 28,
+    "p_value": 0.2871287128712871,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 1,
+    "orig_pj": 0.31060783565044403,
+    "orig_std": 0.21263255607576195,
+    "strip_pj": 0.2563544325530529,
+    "strip_std": 0.15150168910403405,
+    "delta": 0.05425340309739113,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 8,
+    "categories_hit": [
+      "ecclesiological",
+      "pneumatological"
+    ],
+    "orig_text": "Τὸν μὲν πρῶτον λόγον ἐποιησάμην περὶ πάντων, ὦ Θεόφιλε, ὧν ἤρξατο ⸀ὁ Ἰησοῦς ποιεῖν τε καὶ διδάσκειν ἄχρι ἧς ἡμέρας ἐντειλάμενος τοῖς ἀποστόλοις διὰ πνεύματος ἁγίου οὓς ἐξελέξατο ἀνελήμφθη·",
+    "stripped_text": "Τὸν μὲν πρῶτον λόγον Θεόφιλε, ὧν ἤρξατο ⸀ὁ Ἰησοῦς ποιεῖν τε καὶ διδάσκειν ἄχρι ἧς ἡμέρας ἐντειλάμενος ἁγίου οὓς ἐξελέξατο ἀνελήμφθη·",
+    "tokens_removed": [
+      "ἐποιησάμην",
+      "περὶ",
+      "πάντων,",
+      "ὦ",
+      "τοῖς",
+      "ἀποστόλοις",
+      "διὰ",
+      "πνεύματος"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 1,
+    "orig_pj": 0.40650992169976236,
+    "orig_std": 0.18856079446618723,
+    "strip_pj": 0.30778590887784957,
+    "strip_std": 0.1721519134461452,
+    "delta": 0.09872401282191279,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 5,
+    "categories_hit": [
+      "sacramental",
+      "pneumatological"
+    ],
+    "orig_text": "ὅτι Ἰωάννης μὲν ἐβάπτισεν ὕδατι, ὑμεῖς δὲ ⸂ἐν πνεύματι βαπτισθήσεσθε⸃ ἁγίῳ οὐ μετὰ πολλὰς ταύτας ἡμέρας.",
+    "stripped_text": "ὅτι Ἰωάννης μὲν ὕδατι, ὑμεῖς δὲ οὐ μετὰ πολλὰς ταύτας ἡμέρας.",
+    "tokens_removed": [
+      "ἐβάπτισεν",
+      "⸂ἐν",
+      "πνεύματι",
+      "βαπτισθήσεσθε⸃",
+      "ἁγίῳ"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 4,
+    "orig_pj": 0.3925343982875347,
+    "orig_std": 0.23634624509872934,
+    "strip_pj": 0.35511754006147384,
+    "strip_std": 0.1711462331142744,
+    "delta": 0.03741685822606089,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "ὅσοι γὰρ κτήτορες χωρίων ἢ οἰκιῶν ὑπῆρχον, πωλοῦντες ἔφερον τὰς τιμὰς τῶν πιπρασκομένων καὶ ἐτίθουν παρὰ τοὺς πόδας τῶν ἀποστόλων·",
+    "stripped_text": "ὅσοι γὰρ κτήτορες χωρίων ἢ οἰκιῶν ὑπῆρχον, πωλοῦντες ἔφερον τὰς τιμὰς τῶν πιπρασκομένων καὶ ἐτίθουν παρὰ τοὺς πόδας",
+    "tokens_removed": [
+      "τῶν",
+      "ἀποστόλων·"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 7,
+    "orig_pj": 0.3096886346116662,
+    "orig_std": 0.30420154595763665,
+    "strip_pj": 0.373796584457159,
+    "strip_std": 0.2579699726193369,
+    "delta": -0.06410794984549284,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Σκληροτράχηλοι καὶ ἀπερίτμητοι ⸀καρδίαις καὶ τοῖς ὠσίν, ὑμεῖς ἀεὶ τῷ πνεύματι τῷ ἁγίῳ ἀντιπίπτετε, ὡς οἱ πατέρες ὑμῶν καὶ ὑμεῖς.",
+    "stripped_text": "Σκληροτράχηλοι καὶ ἀπερίτμητοι ⸀καρδίαις καὶ τοῖς ὠσίν, ὑμεῖς ἀεὶ ἀντιπίπτετε, ὡς οἱ πατέρες ὑμῶν καὶ ὑμεῖς.",
+    "tokens_removed": [
+      "τῷ",
+      "πνεύματι",
+      "τῷ",
+      "ἁγίῳ"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 8,
+    "orig_pj": 0.4228798270225525,
+    "orig_std": 0.20556816462025082,
+    "strip_pj": 0.41736630648374556,
+    "strip_std": 0.1955458825390577,
+    "delta": 0.0055135205388069375,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "sacramental"
+    ],
+    "orig_text": "ὁ δὲ Σίμων καὶ αὐτὸς ἐπίστευσεν, καὶ βαπτισθεὶς ἦν προσκαρτερῶν τῷ Φιλίππῳ, θεωρῶν τε ⸂σημεῖα καὶ δυνάμεις μεγάλας γινομένας⸃ ἐξίστατο.",
+    "stripped_text": "ὁ δὲ Σίμων καὶ αὐτὸς ἐπίστευσεν, καὶ ἦν προσκαρτερῶν τῷ Φιλίππῳ, θεωρῶν τε ⸂σημεῖα καὶ δυνάμεις μεγάλας γινομένας⸃ ἐξίστατο.",
+    "tokens_removed": [
+      "βαπτισθεὶς"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 10,
+    "orig_pj": 0.2968393512070179,
+    "orig_std": 0.16730764103373194,
+    "strip_pj": 0.17572485506534577,
+    "strip_std": 0.12449511771148972,
+    "delta": 0.1211144961416721,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 5,
+    "categories_hit": [
+      "sacramental",
+      "pneumatological"
+    ],
+    "orig_text": "Μήτι τὸ ὕδωρ ⸂δύναται κωλῦσαί⸃ τις τοῦ μὴ βαπτισθῆναι τούτους οἵτινες τὸ πνεῦμα τὸ ἅγιον ἔλαβον ⸀ὡς καὶ ἡμεῖς;",
+    "stripped_text": "Μήτι τὸ ὕδωρ ⸂δύναται κωλῦσαί⸃ τις τοῦ μὴ τούτους οἵτινες ἔλαβον ⸀ὡς καὶ ἡμεῖς;",
+    "tokens_removed": [
+      "βαπτισθῆναι",
+      "τὸ",
+      "πνεῦμα",
+      "τὸ",
+      "ἅγιον"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 17,
+    "orig_pj": 0.17350798808038234,
+    "orig_std": 0.11340099782409602,
+    "strip_pj": 0.44087049812078477,
+    "strip_std": 0.22602675096253855,
+    "delta": -0.26736251004040246,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "creedal"
+    ],
+    "orig_text": "Ἀκούσαντες δὲ ἀνάστασιν νεκρῶν οἱ μὲν ἐχλεύαζον οἱ δὲ εἶπαν Ἀκουσόμεθά σου ⸂περὶ τούτου καὶ πάλιν⸃.",
+    "stripped_text": "Ἀκούσαντες δὲ οἱ μὲν ἐχλεύαζον οἱ δὲ εἶπαν Ἀκουσόμεθά σου ⸂περὶ τούτου καὶ πάλιν⸃.",
+    "tokens_removed": [
+      "ἀνάστασιν",
+      "νεκρῶν"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 19,
+    "orig_pj": 0.17338531762361525,
+    "orig_std": 0.06999878756171286,
+    "strip_pj": 0.22628011479973792,
+    "strip_std": 0.13233489893860315,
+    "delta": -0.052894797176122665,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Εἰ πνεῦμα ἅγιον ἐλάβετε πιστεύσαντες;",
+    "stripped_text": "Εἰ ἐλάβετε πιστεύσαντες;",
+    "tokens_removed": [
+      "πνεῦμα",
+      "ἅγιον"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 19,
+    "orig_pj": 0.4889393329620361,
+    "orig_std": 0.11234644960214021,
+    "strip_pj": 0.3393924318253994,
+    "strip_std": 0.16528142657729233,
+    "delta": 0.1495469011366367,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Ἀλλ’ οὐδ’ εἰ πνεῦμα ἅγιον ἔστιν ἠκούσαμεν.",
+    "stripped_text": "Ἀλλ’ οὐδ’ εἰ ἔστιν ἠκούσαμεν.",
+    "tokens_removed": [
+      "πνεῦμα",
+      "ἅγιον"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 19,
+    "orig_pj": 0.4344028264284134,
+    "orig_std": 0.19800334207264159,
+    "strip_pj": 0.5630102246999741,
+    "strip_std": 0.15094197602044385,
+    "delta": -0.1286073982715607,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Δυνάμεις τε οὐ τὰς τυχούσας ⸂ὁ θεὸς ἐποίει⸃ διὰ τῶν χειρῶν Παύλου, ὥστε καὶ ἐπὶ τοὺς ἀσθενοῦντας ⸀ἀποφέρεσθαι ἀπὸ τοῦ χρωτὸς αὐτοῦ σουδάρια ἢ σιμικίνθια καὶ ἀπαλλάσσεσθαι ἀπ’ αὐτῶν τὰς νόσους, τά τε πνεύματα τὰ πονηρὰ ⸀ἐκπορεύεσθαι.",
+    "stripped_text": "Δυνάμεις τε οὐ τὰς τυχούσας ⸂ὁ θεὸς ἐποίει⸃ διὰ τῶν χειρῶν Παύλου, ὥστε καὶ ἐπὶ τοὺς ἀσθενοῦντας ⸀ἀποφέρεσθαι ἀπὸ τοῦ χρωτὸς αὐτοῦ σουδάρια ἢ σιμικίνθια καὶ ἀπαλλάσσεσθαι ἀπ’ αὐτῶν τὰς νόσους, τε ⸀ἐκπορεύεσθαι.",
+    "tokens_removed": [
+      "τά",
+      "πνεύματα",
+      "τὰ",
+      "πονηρὰ"
+    ],
+    "random_flip_count": 44,
+    "p_value": 0.44554455445544555,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 19,
+    "orig_pj": 0.3793684758245945,
+    "orig_std": 0.207226458071171,
+    "strip_pj": 0.40438096672296525,
+    "strip_std": 0.20451896784309567,
+    "delta": -0.025012490898370765,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "ἄλλοι μὲν οὖν ἄλλο τι ἔκραζον, ἦν γὰρ ἡ ἐκκλησία συγκεχυμένη, καὶ οἱ πλείους οὐκ ᾔδεισαν τίνος ἕνεκα συνεληλύθεισαν.",
+    "stripped_text": "ἄλλοι μὲν οὖν ἄλλο τι ἔκραζον, ἦν γὰρ συγκεχυμένη, καὶ οἱ πλείους οὐκ ᾔδεισαν τίνος ἕνεκα συνεληλύθεισαν.",
+    "tokens_removed": [
+      "ἡ",
+      "ἐκκλησία"
+    ]
+  },
+  {
+    "book": "Acts",
+    "book_full": "Acts",
+    "category": "Disputed",
+    "chapter": 23,
+    "orig_pj": 0.28436325378715993,
+    "orig_std": 0.16998554487950385,
+    "strip_pj": 0.2207091309130192,
+    "strip_std": 0.13367114824353868,
+    "delta": 0.06365412287414074,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "creedal",
+      "pneumatological"
+    ],
+    "orig_text": "Σαδδουκαῖοι ⸀μὲν γὰρ λέγουσιν μὴ εἶναι ἀνάστασιν ⸀μήτε ἄγγελον μήτε πνεῦμα, Φαρισαῖοι δὲ ὁμολογοῦσιν τὰ ἀμφότερα.",
+    "stripped_text": "Σαδδουκαῖοι ⸀μὲν γὰρ λέγουσιν μὴ εἶναι ⸀μήτε ἄγγελον μήτε Φαρισαῖοι δὲ ὁμολογοῦσιν τὰ ἀμφότερα.",
+    "tokens_removed": [
+      "ἀνάστασιν",
+      "πνεῦμα,"
+    ]
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 3,
+    "orig_pj": 0.2481332503259182,
+    "orig_std": 0.1310442326637057,
+    "strip_pj": 0.2408216893672943,
+    "strip_std": 0.07078573731444607,
+    "delta": 0.007311560958623897,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "οὐ πάντως, προῃτιασάμεθα γὰρ Ἰουδαίους τε καὶ Ἕλληνας πάντας ὑφ’ ἁμαρτίαν εἶναι, καθὼς γέγραπται ὅτι Οὐκ ἔστιν δίκαιος οὐδὲ εἷς, οὐκ ἔστιν ⸀ὁ συνίων, οὐκ ἔστιν ⸁ὁ ἐκζητῶν τὸν θεόν·",
+    "stripped_text": "οὐ πάντως, προῃτιασάμεθα γὰρ Ἰουδαίους τε καὶ Ἕλληνας πάντας εἶναι, καθὼς γέγραπται ὅτι Οὐκ ἔστιν δίκαιος οὐδὲ εἷς, οὐκ ἔστιν ⸀ὁ συνίων, οὐκ ἔστιν ⸁ὁ ἐκζητῶν τὸν θεόν·",
+    "tokens_removed": [
+      "ὑφ’",
+      "ἁμαρτίαν"
+    ]
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 6,
+    "orig_pj": 0.4279626041650772,
+    "orig_std": 0.1817186335440596,
+    "strip_pj": 0.5738328278064728,
+    "strip_std": 0.24064846393168607,
+    "delta": -0.14587022364139562,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "⸀ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ;",
+    "stripped_text": "⸀ἐπιμένωμεν ἵνα ἡ χάρις πλεονάσῃ;",
+    "tokens_removed": [
+      "τῇ",
+      "ἁμαρτίᾳ,"
+    ],
+    "random_flip_count": 71,
+    "p_value": 0.7128712871287128,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 6,
+    "orig_pj": 0.3503263399004936,
+    "orig_std": 0.13832380051443718,
+    "strip_pj": 0.2914602212607861,
+    "strip_std": 0.20655113209678358,
+    "delta": 0.05886611863970753,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς ⸂εἶναι νεκροὺς μὲν⸃ τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ ⸀Ἰησοῦ.",
+    "stripped_text": "οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς ⸂εἶναι μὲν⸃ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ ⸀Ἰησοῦ.",
+    "tokens_removed": [
+      "νεκροὺς",
+      "τῇ",
+      "ἁμαρτίᾳ"
+    ]
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 6,
+    "orig_pj": 0.49402686655521394,
+    "orig_std": 0.19110380499330518,
+    "strip_pj": 0.5944720402359962,
+    "strip_std": 0.1789706018674253,
+    "delta": -0.10044517368078226,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει, οὐ γάρ ἐστε ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν.",
+    "stripped_text": "γὰρ ὑμῶν οὐ κυριεύσει, οὐ γάρ ἐστε ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν.",
+    "tokens_removed": [
+      "ἁμαρτία"
+    ],
+    "random_flip_count": 63,
+    "p_value": 0.6336633663366337,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 7,
+    "orig_pj": 0.3994647413492203,
+    "orig_std": 0.1904902654432104,
+    "strip_pj": 0.6301757127046586,
+    "strip_std": 0.1695834551504176,
+    "delta": -0.23071097135543828,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "εἰ δὲ ὃ οὐ ⸀θέλω τοῦτο ποιῶ, οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλὰ ἡ οἰκοῦσα ἐν ἐμοὶ ἁμαρτία.",
+    "stripped_text": "εἰ δὲ ὃ οὐ ⸀θέλω τοῦτο ποιῶ, οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλὰ ἡ οἰκοῦσα ἐν ἐμοὶ",
+    "tokens_removed": [
+      "ἁμαρτία."
+    ],
+    "random_flip_count": 34,
+    "p_value": 0.3465346534653465,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 8,
+    "orig_pj": 0.3829082101583481,
+    "orig_std": 0.11094028007374775,
+    "strip_pj": 0.41946121156215666,
+    "strip_std": 0.1403833008525858,
+    "delta": -0.03655300140380857,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τὸ γὰρ φρόνημα τῆς σαρκὸς θάνατος, τὸ δὲ φρόνημα τοῦ πνεύματος ζωὴ καὶ εἰρήνη·",
+    "stripped_text": "τὸ γὰρ φρόνημα τῆς σαρκὸς θάνατος, τὸ δὲ φρόνημα ζωὴ καὶ εἰρήνη·",
+    "tokens_removed": [
+      "τοῦ",
+      "πνεύματος"
+    ]
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 8,
+    "orig_pj": 0.493164986371994,
+    "orig_std": 0.2371649286833924,
+    "strip_pj": 0.7352949231863022,
+    "strip_std": 0.1556899272994849,
+    "delta": -0.24212993681430817,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Ὑμεῖς δὲ οὐκ ἐστὲ ἐν σαρκὶ ἀλλὰ ἐν πνεύματι, εἴπερ πνεῦμα θεοῦ οἰκεῖ ἐν ὑμῖν.",
+    "stripped_text": "Ὑμεῖς δὲ οὐκ ἐστὲ ἐν σαρκὶ ἀλλὰ εἴπερ οἰκεῖ ἐν ὑμῖν.",
+    "tokens_removed": [
+      "ἐν",
+      "πνεύματι,",
+      "πνεῦμα",
+      "θεοῦ"
+    ],
+    "random_flip_count": 79,
+    "p_value": 0.7920792079207921,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 8,
+    "orig_pj": 0.2194733738899231,
+    "orig_std": 0.0716437811336109,
+    "strip_pj": 0.3578326553106308,
+    "strip_std": 0.13549061644919694,
+    "delta": -0.1383592814207077,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "hamartiology",
+      "pneumatological"
+    ],
+    "orig_text": "εἰ δὲ Χριστὸς ἐν ὑμῖν, τὸ μὲν σῶμα νεκρὸν διὰ ἁμαρτίαν, τὸ δὲ πνεῦμα ζωὴ διὰ δικαιοσύνην.",
+    "stripped_text": "εἰ δὲ Χριστὸς ἐν ὑμῖν, τὸ μὲν σῶμα νεκρὸν δὲ ζωὴ διὰ δικαιοσύνην.",
+    "tokens_removed": [
+      "διὰ",
+      "ἁμαρτίαν,",
+      "τὸ",
+      "πνεῦμα"
+    ]
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 8,
+    "orig_pj": 0.274782919511199,
+    "orig_std": 0.15179380395568906,
+    "strip_pj": 0.2623190201818943,
+    "strip_std": 0.10301114407933314,
+    "delta": 0.012463899329304695,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "οὐ μόνον δέ, ἀλλὰ ⸂καὶ αὐτοὶ⸃ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες ⸂ἡμεῖς καὶ⸃ αὐτοὶ ἐν ἑαυτοῖς στενάζομεν, υἱοθεσίαν ἀπεκδεχόμενοι τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν.",
+    "stripped_text": "οὐ μόνον δέ, ἀλλὰ ⸂καὶ αὐτοὶ⸃ τὴν ἀπαρχὴν ἔχοντες ⸂ἡμεῖς καὶ⸃ αὐτοὶ ἐν ἑαυτοῖς στενάζομεν, υἱοθεσίαν ἀπεκδεχόμενοι τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν.",
+    "tokens_removed": [
+      "τοῦ",
+      "πνεύματος"
+    ]
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 8,
+    "orig_pj": 0.3578526057302952,
+    "orig_std": 0.19346735383361294,
+    "strip_pj": 0.7001984655857086,
+    "strip_std": 0.15689956134955232,
+    "delta": -0.34234585985541344,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Ὡσαύτως δὲ καὶ τὸ πνεῦμα συναντιλαμβάνεται ⸂τῇ ἀσθενείᾳ⸃ ἡμῶν·",
+    "stripped_text": "Ὡσαύτως δὲ καὶ συναντιλαμβάνεται ⸂τῇ ἀσθενείᾳ⸃ ἡμῶν·",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμα"
+    ],
+    "random_flip_count": 78,
+    "p_value": 0.7821782178217822,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 8,
+    "orig_pj": 0.43623822201043366,
+    "orig_std": 0.24501863791867676,
+    "strip_pj": 0.26257403902709486,
+    "strip_std": 0.1849837827335589,
+    "delta": 0.1736641829833388,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 6,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τὸ γὰρ τί ⸀προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ τὸ πνεῦμα ⸀ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις, ὁ δὲ ἐραυνῶν τὰς καρδίας οἶδεν τί τὸ φρόνημα τοῦ πνεύματος, ὅτι κατὰ θεὸν ἐντυγχάνει ὑπὲρ ἁγίων.",
+    "stripped_text": "τί ⸀προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ ⸀ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις, ὁ δὲ ἐραυνῶν τὰς καρδίας οἶδεν τί τὸ φρόνημα ὅτι κατὰ θεὸν ἐντυγχάνει ὑπὲρ ἁγίων.",
+    "tokens_removed": [
+      "τὸ",
+      "γὰρ",
+      "τὸ",
+      "πνεῦμα",
+      "τοῦ",
+      "πνεύματος,"
+    ]
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 11,
+    "orig_pj": 0.2800788069609553,
+    "orig_std": 0.16508385027170258,
+    "strip_pj": 0.28236778937280177,
+    "strip_std": 0.2409016872598772,
+    "delta": -0.0022889824118464963,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "ἐφ’ ὅσον μὲν ⸀οὖν εἰμι ἐγὼ ἐθνῶν ἀπόστολος, τὴν διακονίαν μου δοξάζω, εἴ πως παραζηλώσω μου τὴν σάρκα καὶ σώσω τινὰς ἐξ αὐτῶν.",
+    "stripped_text": "ἐφ’ ὅσον μὲν ⸀οὖν εἰμι ἐγὼ ἐθνῶν τὴν διακονίαν μου δοξάζω, εἴ πως παραζηλώσω μου τὴν σάρκα καὶ σώσω τινὰς ἐξ αὐτῶν.",
+    "tokens_removed": [
+      "ἀπόστολος,"
+    ]
+  },
+  {
+    "book": "Rom",
+    "book_full": "Romans",
+    "category": "KnownPauline",
+    "chapter": 14,
+    "orig_pj": 0.4929127775132656,
+    "orig_std": 0.24068342248773092,
+    "strip_pj": 0.3115214116871357,
+    "strip_std": 0.15570987041326378,
+    "delta": 0.1813913658261299,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 7,
+    "categories_hit": [
+      "pneumatological",
+      "eschatological"
+    ],
+    "orig_text": "οὐ γάρ ἐστιν ἡ βασιλεία τοῦ θεοῦ βρῶσις καὶ πόσις, ἀλλὰ δικαιοσύνη καὶ εἰρήνη καὶ χαρὰ ἐν πνεύματι ἁγίῳ·",
+    "stripped_text": "οὐ γάρ ἐστιν βρῶσις καὶ πόσις, ἀλλὰ δικαιοσύνη καὶ εἰρήνη καὶ χαρὰ",
+    "tokens_removed": [
+      "ἡ",
+      "βασιλεία",
+      "τοῦ",
+      "θεοῦ",
+      "ἐν",
+      "πνεύματι",
+      "ἁγίῳ·"
+    ]
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 4,
+    "orig_pj": 0.4252265468239784,
+    "orig_std": 0.20754943774492096,
+    "strip_pj": 0.5873454570770263,
+    "strip_std": 0.17306275632915027,
+    "delta": -0.16211891025304792,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τί θέλετε; ἐν ῥάβδῳ ἔλθω πρὸς ὑμᾶς, ἢ ἐν ἀγάπῃ πνεύματί τε πραΰτητος;",
+    "stripped_text": "τί θέλετε; ἐν ῥάβδῳ ἔλθω πρὸς ὑμᾶς, ἢ ἐν ἀγάπῃ τε",
+    "tokens_removed": [
+      "πνεύματί",
+      "πραΰτητος;"
+    ],
+    "random_flip_count": 85,
+    "p_value": 0.8514851485148515,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 6,
+    "orig_pj": 0.021920968955964782,
+    "orig_std": 0.041408309139702004,
+    "strip_pj": 0.014012211604131153,
+    "strip_std": 0.030752560854525685,
+    "delta": 0.007908757351833629,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 6,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται οὔτε ⸂κλέπται οὔτε πλεονέκται⸃, ⸀οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες βασιλείαν ⸀θεοῦ κληρονομήσουσιν.",
+    "stripped_text": "πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται οὔτε ⸂κλέπται οὔτε πλεονέκται⸃, ⸀οὐ μέθυσοι, οὐ λοίδοροι, οὐχ κληρονομήσουσιν.",
+    "tokens_removed": [
+      "μὴ",
+      "πλανᾶσθε·",
+      "οὔτε",
+      "ἅρπαγες",
+      "βασιλείαν",
+      "⸀θεοῦ"
+    ]
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 9,
+    "orig_pj": 0.3901405595242977,
+    "orig_std": 0.14456443043126935,
+    "fully_editorial": true,
+    "flipped": false,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "οὐκ εἰμὶ ἀπόστολος⸃;"
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 11,
+    "orig_pj": 0.4322695627808571,
+    "orig_std": 0.15943980810585567,
+    "strip_pj": 0.3640917330980301,
+    "strip_std": 0.14100570821953406,
+    "delta": 0.06817782968282698,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "πρῶτον μὲν γὰρ συνερχομένων ὑμῶν ἐν ἐκκλησίᾳ ἀκούω σχίσματα ἐν ὑμῖν ὑπάρχειν, καὶ μέρος τι πιστεύω.",
+    "stripped_text": "πρῶτον μὲν γὰρ συνερχομένων ὑμῶν ἀκούω σχίσματα ἐν ὑμῖν ὑπάρχειν, καὶ μέρος τι πιστεύω.",
+    "tokens_removed": [
+      "ἐν",
+      "ἐκκλησίᾳ"
+    ]
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 12,
+    "orig_pj": 0.344343987852335,
+    "orig_std": 0.1580954880970749,
+    "strip_pj": 0.41408336758613584,
+    "strip_std": 0.15502627015332252,
+    "delta": -0.06973937973380084,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Διαιρέσεις δὲ χαρισμάτων εἰσίν, τὸ δὲ αὐτὸ πνεῦμα·",
+    "stripped_text": "Διαιρέσεις δὲ χαρισμάτων εἰσίν, δὲ",
+    "tokens_removed": [
+      "τὸ",
+      "αὐτὸ",
+      "πνεῦμα·"
+    ]
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 12,
+    "orig_pj": 0.35042310506105423,
+    "orig_std": 0.08259885998829447,
+    "fully_editorial": true,
+    "flipped": false,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "μὴ πάντες ἀπόστολοι;"
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 14,
+    "orig_pj": 0.4178542271256447,
+    "orig_std": 0.1223374495706466,
+    "strip_pj": 0.4129506215453148,
+    "strip_std": 0.11297530889180814,
+    "delta": 0.004903605580329873,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "ὁ γὰρ λαλῶν γλώσσῃ οὐκ ἀνθρώποις λαλεῖ ⸀ἀλλὰ θεῷ, οὐδεὶς γὰρ ἀκούει, πνεύματι δὲ λαλεῖ μυστήρια·",
+    "stripped_text": "ὁ γὰρ λαλῶν γλώσσῃ οὐκ ἀνθρώποις λαλεῖ ⸀ἀλλὰ θεῷ, οὐδεὶς γὰρ ἀκούει, δὲ λαλεῖ μυστήρια·",
+    "tokens_removed": [
+      "πνεύματι"
+    ]
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 14,
+    "orig_pj": 0.4830904617905617,
+    "orig_std": 0.2592131303890577,
+    "strip_pj": 0.7315667033195495,
+    "strip_std": 0.23916612856835587,
+    "delta": -0.24847624152898784,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "προσεύξομαι τῷ πνεύματι, προσεύξομαι δὲ καὶ τῷ νοΐ·",
+    "stripped_text": "προσεύξομαι προσεύξομαι δὲ καὶ τῷ νοΐ·",
+    "tokens_removed": [
+      "τῷ",
+      "πνεύματι,"
+    ],
+    "random_flip_count": 67,
+    "p_value": 0.6732673267326733,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 14,
+    "orig_pj": 0.29722330989316104,
+    "orig_std": 0.22927053719809914,
+    "strip_pj": 0.5870481804013252,
+    "strip_std": 0.26694498938618777,
+    "delta": -0.2898248705081642,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "ψαλῶ τῷ πνεύματι, ψαλῶ δὲ καὶ τῷ νοΐ·",
+    "stripped_text": "ψαλῶ ψαλῶ δὲ καὶ τῷ νοΐ·",
+    "tokens_removed": [
+      "τῷ",
+      "πνεύματι,"
+    ],
+    "random_flip_count": 45,
+    "p_value": 0.45544554455445546,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 14,
+    "orig_pj": 0.3367748998105526,
+    "orig_std": 0.22876352621360282,
+    "strip_pj": 0.3340256132185459,
+    "strip_std": 0.17218543761655172,
+    "delta": 0.0027492865920066833,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "ἐὰν οὖν συνέλθῃ ἡ ἐκκλησία ὅλη ἐπὶ τὸ αὐτὸ καὶ πάντες ⸂λαλῶσιν γλώσσαις⸃, εἰσέλθωσιν δὲ ἰδιῶται ἢ ἄπιστοι, οὐκ ἐροῦσιν ὅτι μαίνεσθε;",
+    "stripped_text": "ἐὰν οὖν συνέλθῃ ἐπὶ τὸ αὐτὸ καὶ πάντες ⸂λαλῶσιν γλώσσαις⸃, εἰσέλθωσιν δὲ ἰδιῶται ἢ ἄπιστοι, οὐκ ἐροῦσιν ὅτι μαίνεσθε;",
+    "tokens_removed": [
+      "ἡ",
+      "ἐκκλησία",
+      "ὅλη"
+    ]
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 14,
+    "orig_pj": 0.3965544179081917,
+    "orig_std": 0.22027411000850067,
+    "strip_pj": 0.27553189769387243,
+    "strip_std": 0.16141875602557565,
+    "delta": 0.12102252021431925,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 23,
+    "categories_hit": [
+      "ecclesiological",
+      "pneumatological"
+    ],
+    "orig_text": "δύνασθε γὰρ καθ’ ἕνα πάντες προφητεύειν, ἵνα πάντες μανθάνωσιν καὶ πάντες παρακαλῶνται (καὶ πνεύματα προφητῶν προφήταις ὑποτάσσεται, οὐ γάρ ἐστιν ἀκαταστασίας ὁ θεὸς ἀλλὰ εἰρήνης), ὡς ἐν πάσαις ταῖς ἐκκλησίαις τῶν ἁγίων.",
+    "stripped_text": "δύνασθε προφητεύειν, ἵνα μανθάνωσιν (καὶ οὐ θεὸς ἀλλὰ ὡς",
+    "tokens_removed": [
+      "γὰρ",
+      "καθ’",
+      "ἕνα",
+      "πάντες",
+      "πάντες",
+      "καὶ",
+      "πάντες",
+      "παρακαλῶνται",
+      "πνεύματα",
+      "προφητῶν",
+      "προφήταις",
+      "ὑποτάσσεται,",
+      "γάρ",
+      "ἐστιν",
+      "ἀκαταστασίας",
+      "ὁ",
+      "εἰρήνης),",
+      "ἐν",
+      "πάσαις",
+      "ταῖς",
+      "ἐκκλησίαις",
+      "τῶν",
+      "ἁγίων."
+    ]
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 14,
+    "orig_pj": 0.41332219541072845,
+    "orig_std": 0.16874833511597842,
+    "strip_pj": 0.4862538367509842,
+    "strip_std": 0.17251260745277655,
+    "delta": -0.07293164134025576,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "Αἱ ⸀γυναῖκες ἐν ταῖς ἐκκλησίαις σιγάτωσαν, οὐ γὰρ ⸀ἐπιτρέπεται αὐταῖς λαλεῖν·",
+    "stripped_text": "Αἱ ⸀γυναῖκες σιγάτωσαν, οὐ γὰρ ⸀ἐπιτρέπεται αὐταῖς λαλεῖν·",
+    "tokens_removed": [
+      "ἐν",
+      "ταῖς",
+      "ἐκκλησίαις"
+    ]
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 15,
+    "orig_pj": 0.34605671316385267,
+    "orig_std": 0.1735543692023127,
+    "strip_pj": 0.51020587682724,
+    "strip_std": 0.1396336968826951,
+    "delta": -0.16414916366338728,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "creedal"
+    ],
+    "orig_text": "εἰ δὲ ἀνάστασις νεκρῶν οὐκ ἔστιν, οὐδὲ Χριστὸς ἐγήγερται·",
+    "stripped_text": "εἰ δὲ οὐκ ἔστιν, οὐδὲ Χριστὸς ἐγήγερται·",
+    "tokens_removed": [
+      "ἀνάστασις",
+      "νεκρῶν"
+    ],
+    "random_flip_count": 34,
+    "p_value": 0.3465346534653465,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "1Cor",
+    "book_full": "1 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 15,
+    "orig_pj": 0.11727450899779797,
+    "orig_std": 0.09198499339657189,
+    "strip_pj": 0.08351998766884208,
+    "strip_std": 0.05656559972722638,
+    "delta": 0.033754521328955886,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "Τοῦτο δέ φημι, ἀδελφοί, ὅτι σὰρξ καὶ αἷμα βασιλείαν θεοῦ κληρονομῆσαι οὐ ⸀δύναται, οὐδὲ ἡ φθορὰ τὴν ἀφθαρσίαν κληρονομεῖ.",
+    "stripped_text": "Τοῦτο δέ φημι, ἀδελφοί, ὅτι σὰρξ καὶ αἷμα κληρονομῆσαι οὐ ⸀δύναται, οὐδὲ ἡ φθορὰ τὴν ἀφθαρσίαν κληρονομεῖ.",
+    "tokens_removed": [
+      "βασιλείαν",
+      "θεοῦ"
+    ]
+  },
+  {
+    "book": "2Cor",
+    "book_full": "2 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 3,
+    "orig_pj": 0.3739425875246525,
+    "orig_std": 0.21956075067940084,
+    "strip_pj": 0.1931456822901964,
+    "strip_std": 0.15467028550539844,
+    "delta": 0.18079690523445607,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 18,
+    "categories_hit": [
+      "ecclesiological",
+      "pneumatological"
+    ],
+    "orig_text": "οὐχ ὅτι ⸂ἀφ’ ἑαυτῶν ἱκανοί ἐσμεν⸃ λογίσασθαί τι ὡς ἐξ ⸀αὑτῶν, ἀλλ’ ἡ ἱκανότης ἡμῶν ἐκ τοῦ θεοῦ, ὃς καὶ ἱκάνωσεν ἡμᾶς διακόνους καινῆς διαθήκης, οὐ γράμματος ἀλλὰ πνεύματος, τὸ γὰρ γράμμα ἀποκτέννει, τὸ δὲ πνεῦμα ζῳοποιεῖ.",
+    "stripped_text": "οὐχ ὅτι ⸂ἀφ’ ἑαυτῶν τι ἀλλ’ ἡ ἱκανότης ἡμῶν ὃς καὶ ἱκάνωσεν ἡμᾶς οὐ τὸ γὰρ γράμμα ἀποκτέννει, ζῳοποιεῖ.",
+    "tokens_removed": [
+      "ἱκανοί",
+      "ἐσμεν⸃",
+      "λογίσασθαί",
+      "ὡς",
+      "ἐξ",
+      "⸀αὑτῶν,",
+      "ἐκ",
+      "τοῦ",
+      "θεοῦ,",
+      "διακόνους",
+      "καινῆς",
+      "διαθήκης,",
+      "γράμματος",
+      "ἀλλὰ",
+      "πνεύματος,",
+      "τὸ",
+      "δὲ",
+      "πνεῦμα"
+    ]
+  },
+  {
+    "book": "2Cor",
+    "book_full": "2 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 6,
+    "orig_pj": 0.36462738960981367,
+    "orig_std": 0.21920136906289456,
+    "strip_pj": 0.3231212139129639,
+    "strip_std": 0.16501640230970152,
+    "delta": 0.04150617569684978,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 9,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "ἐν ὑπομονῇ πολλῇ, ἐν θλίψεσιν, ἐν ἀνάγκαις, ἐν στενοχωρίαις, ἐν πληγαῖς, ἐν φυλακαῖς, ἐν ἀκαταστασίαις, ἐν κόποις, ἐν ἀγρυπνίαις, ἐν νηστείαις, ἐν ἁγνότητι, ἐν γνώσει, ἐν μακροθυμίᾳ, ἐν χρηστότητι, ἐν πνεύματι ἁγίῳ, ἐν ἀγάπῃ ἀνυποκρίτῳ, ἐν λόγῳ ἀληθείας, ἐν δυνάμει θεοῦ·",
+    "stripped_text": "ἐν θλίψεσιν, ἐν ἀνάγκαις, ἐν στενοχωρίαις, ἐν πληγαῖς, ἐν φυλακαῖς, ἐν ἀκαταστασίαις, ἐν κόποις, νηστείαις, ἐν ἁγνότητι, ἐν γνώσει, ἐν μακροθυμίᾳ, ἐν χρηστότητι, ἐν ἀγάπῃ ἀνυποκρίτῳ, ἐν λόγῳ ἀληθείας, ἐν δυνάμει θεοῦ·",
+    "tokens_removed": [
+      "ἐν",
+      "ὑπομονῇ",
+      "πολλῇ,",
+      "ἐν",
+      "ἀγρυπνίαις,",
+      "ἐν",
+      "ἐν",
+      "πνεύματι",
+      "ἁγίῳ,"
+    ]
+  },
+  {
+    "book": "2Cor",
+    "book_full": "2 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 10,
+    "orig_pj": 0.2521542891860008,
+    "orig_std": 0.11208776537957736,
+    "strip_pj": 0.2804870180785656,
+    "strip_std": 0.1283100044137025,
+    "delta": -0.028332728892564774,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 7,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "ὅτι Αἱ ⸂ἐπιστολαὶ μέν⸃, φησίν, βαρεῖαι καὶ ἰσχυραί, ἡ δὲ παρουσία τοῦ σώματος ἀσθενὴς καὶ ὁ λόγος ἐξουθενημένος.",
+    "stripped_text": "ὅτι Αἱ ⸂ἐπιστολαὶ μέν⸃, φησίν, καὶ δὲ καὶ ὁ λόγος ἐξουθενημένος.",
+    "tokens_removed": [
+      "βαρεῖαι",
+      "ἰσχυραί,",
+      "ἡ",
+      "παρουσία",
+      "τοῦ",
+      "σώματος",
+      "ἀσθενὴς"
+    ]
+  },
+  {
+    "book": "2Cor",
+    "book_full": "2 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 11,
+    "orig_pj": 0.23048076890408992,
+    "orig_std": 0.14368469102616746,
+    "strip_pj": 0.22018527016043662,
+    "strip_std": 0.1193956721393679,
+    "delta": 0.010295498743653292,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ⸀ἀνέχεσθε.",
+    "stripped_text": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ⸀ἀνέχεσθε.",
+    "tokens_removed": [
+      "πνεῦμα",
+      "ἕτερον"
+    ]
+  },
+  {
+    "book": "2Cor",
+    "book_full": "2 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 12,
+    "orig_pj": 0.45500587970018386,
+    "orig_std": 0.15455059633872587,
+    "strip_pj": 0.5466790571808815,
+    "strip_std": 0.2095841008162649,
+    "delta": -0.09167317748069764,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "οὐδὲν γὰρ ὑστέρησα τῶν ὑπερλίαν ἀποστόλων, εἰ καὶ οὐδέν εἰμι·",
+    "stripped_text": "γὰρ ὑστέρησα ὑπερλίαν εἰ καὶ εἰμι·",
+    "tokens_removed": [
+      "οὐδὲν",
+      "τῶν",
+      "ἀποστόλων,",
+      "οὐδέν"
+    ],
+    "random_flip_count": 46,
+    "p_value": 0.46534653465346537,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "2Cor",
+    "book_full": "2 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 12,
+    "orig_pj": 0.31670371890068055,
+    "orig_std": 0.1529844666731228,
+    "strip_pj": 0.2568993762135506,
+    "strip_std": 0.08378691393936832,
+    "delta": 0.059804342687129974,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "τὰ μὲν σημεῖα τοῦ ἀποστόλου κατειργάσθη ἐν ὑμῖν ἐν πάσῃ ⸀ὑπομονῇ, σημείοις ⸀τε καὶ τέρασιν καὶ δυνάμεσιν.",
+    "stripped_text": "τὰ μὲν σημεῖα κατειργάσθη ἐν ὑμῖν ἐν πάσῃ ⸀ὑπομονῇ, σημείοις ⸀τε καὶ τέρασιν καὶ δυνάμεσιν.",
+    "tokens_removed": [
+      "τοῦ",
+      "ἀποστόλου"
+    ]
+  },
+  {
+    "book": "2Cor",
+    "book_full": "2 Corinthians",
+    "category": "KnownPauline",
+    "chapter": 12,
+    "orig_pj": 0.33672310411930084,
+    "orig_std": 0.11559141926280121,
+    "fully_editorial": true,
+    "flipped": false,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "οὐ τῷ αὐτῷ πνεύματι περιεπατήσαμεν;"
+  },
+  {
+    "book": "Gal",
+    "book_full": "Galatians",
+    "category": "KnownPauline",
+    "chapter": 1,
+    "orig_pj": 0.49047333002090454,
+    "orig_std": 0.2015520985628174,
+    "strip_pj": 0.47309921234846114,
+    "strip_std": 0.15418051937958088,
+    "delta": 0.0173741176724434,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 20,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "Παῦλος ἀπόστολος, οὐκ ἀπ’ ἀνθρώπων οὐδὲ δι’ ἀνθρώπου ἀλλὰ διὰ Ἰησοῦ Χριστοῦ καὶ θεοῦ πατρὸς τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν, καὶ οἱ σὺν ἐμοὶ πάντες ἀδελφοί, ταῖς ἐκκλησίαις τῆς Γαλατίας·",
+    "stripped_text": "Παῦλος οὐδὲ καὶ τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν, καὶ ἀδελφοί,",
+    "tokens_removed": [
+      "ἀπόστολος,",
+      "οὐκ",
+      "ἀπ’",
+      "ἀνθρώπων",
+      "δι’",
+      "ἀνθρώπου",
+      "ἀλλὰ",
+      "διὰ",
+      "Ἰησοῦ",
+      "Χριστοῦ",
+      "θεοῦ",
+      "πατρὸς",
+      "οἱ",
+      "σὺν",
+      "ἐμοὶ",
+      "πάντες",
+      "ταῖς",
+      "ἐκκλησίαις",
+      "τῆς",
+      "Γαλατίας·"
+    ]
+  },
+  {
+    "book": "Gal",
+    "book_full": "Galatians",
+    "category": "KnownPauline",
+    "chapter": 4,
+    "orig_pj": 0.392651355266571,
+    "orig_std": 0.12973888970661926,
+    "strip_pj": 0.4857750415802002,
+    "strip_std": 0.1308570494900037,
+    "delta": -0.09312368631362916,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "ἀλλ’ ὥσπερ τότε ὁ κατὰ σάρκα γεννηθεὶς ἐδίωκε τὸν κατὰ πνεῦμα, οὕτως καὶ νῦν.",
+    "stripped_text": "ἀλλ’ ὥσπερ τότε ὁ κατὰ σάρκα γεννηθεὶς ἐδίωκε οὕτως καὶ νῦν.",
+    "tokens_removed": [
+      "τὸν",
+      "κατὰ",
+      "πνεῦμα,"
+    ]
+  },
+  {
+    "book": "Gal",
+    "book_full": "Galatians",
+    "category": "KnownPauline",
+    "chapter": 5,
+    "orig_pj": 0.3352987304329872,
+    "orig_std": 0.2220468742739603,
+    "strip_pj": 0.532759889960289,
+    "strip_std": 0.256575762751481,
+    "delta": -0.1974611595273018,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "εἰ δὲ πνεύματι ἄγεσθε, οὐκ ἐστὲ ὑπὸ νόμον.",
+    "stripped_text": "εἰ δὲ ἄγεσθε, οὐκ ἐστὲ ὑπὸ νόμον.",
+    "tokens_removed": [
+      "πνεύματι"
+    ],
+    "random_flip_count": 47,
+    "p_value": 0.4752475247524752,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Gal",
+    "book_full": "Galatians",
+    "category": "KnownPauline",
+    "chapter": 5,
+    "orig_pj": 0.3974044770002365,
+    "orig_std": 0.14551130055713993,
+    "strip_pj": 0.30621237903833387,
+    "strip_std": 0.10267216194613055,
+    "delta": 0.09119209796190264,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν.",
+    "stripped_text": "εἰ ζῶμεν καὶ στοιχῶμεν.",
+    "tokens_removed": [
+      "πνεύματι,",
+      "πνεύματι"
+    ]
+  },
+  {
+    "book": "Gal",
+    "book_full": "Galatians",
+    "category": "KnownPauline",
+    "chapter": 6,
+    "orig_pj": 0.37928397208452225,
+    "orig_std": 0.2061900087110946,
+    "strip_pj": 0.464948745071888,
+    "strip_std": 0.22760070842670777,
+    "delta": -0.08566477298736574,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Ἀδελφοί, ἐὰν καὶ προλημφθῇ ἄνθρωπος ἔν τινι παραπτώματι, ὑμεῖς οἱ πνευματικοὶ καταρτίζετε τὸν τοιοῦτον ἐν πνεύματι πραΰτητος, σκοπῶν σεαυτόν, μὴ καὶ σὺ πειρασθῇς.",
+    "stripped_text": "Ἀδελφοί, ἐὰν καὶ προλημφθῇ ἄνθρωπος ἔν τινι παραπτώματι, ὑμεῖς οἱ πνευματικοὶ καταρτίζετε τὸν τοιοῦτον σκοπῶν σεαυτόν, μὴ καὶ σὺ πειρασθῇς.",
+    "tokens_removed": [
+      "ἐν",
+      "πνεύματι",
+      "πραΰτητος,"
+    ]
+  },
+  {
+    "book": "1Thess",
+    "book_full": "1 Thessalonians",
+    "category": "KnownPauline",
+    "chapter": 2,
+    "orig_pj": 0.3756825655698776,
+    "orig_std": 0.21778547807274995,
+    "strip_pj": 0.48216667473316194,
+    "strip_std": 0.17961413408830532,
+    "delta": -0.10648410916328432,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "οὔτε γάρ ποτε ἐν λόγῳ κολακείας ἐγενήθημεν, καθὼς οἴδατε, οὔτε ⸀ἐν προφάσει πλεονεξίας, θεὸς μάρτυς, οὔτε ζητοῦντες ἐξ ἀνθρώπων δόξαν, οὔτε ἀφ’ ὑμῶν οὔτε ἀπ’ ἄλλων, δυνάμενοι ἐν βάρει εἶναι ὡς Χριστοῦ ἀπόστολοι·",
+    "stripped_text": "οὔτε γάρ ποτε ἐν λόγῳ κολακείας καθὼς οἴδατε, οὔτε ⸀ἐν προφάσει πλεονεξίας, θεὸς μάρτυς, οὔτε ζητοῦντες ἐξ ἀνθρώπων δόξαν, οὔτε ὑμῶν οὔτε ἀπ’ ἄλλων, δυνάμενοι ἐν βάρει εἶναι ὡς Χριστοῦ",
+    "tokens_removed": [
+      "ἐγενήθημεν,",
+      "ἀφ’",
+      "ἀπόστολοι·"
+    ]
+  },
+  {
+    "book": "1Thess",
+    "book_full": "1 Thessalonians",
+    "category": "KnownPauline",
+    "chapter": 4,
+    "orig_pj": 0.46859665066003797,
+    "orig_std": 0.16173363021774512,
+    "strip_pj": 0.3115984871983528,
+    "strip_std": 0.14034286329934081,
+    "delta": 0.15699816346168516,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 3,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τοιγαροῦν ὁ ἀθετῶν οὐκ ἄνθρωπον ἀθετεῖ ἀλλὰ τὸν θεὸν τὸν ⸀καὶ ⸀διδόντα τὸ πνεῦμα αὐτοῦ τὸ ἅγιον εἰς ὑμᾶς.",
+    "stripped_text": "τοιγαροῦν ὁ ἀθετῶν οὐκ ἄνθρωπον ἀθετεῖ ἀλλὰ τὸν θεὸν ⸀καὶ ⸀διδόντα αὐτοῦ τὸ ἅγιον εἰς ὑμᾶς.",
+    "tokens_removed": [
+      "τὸν",
+      "τὸ",
+      "πνεῦμα"
+    ]
+  },
+  {
+    "book": "1Thess",
+    "book_full": "1 Thessalonians",
+    "category": "KnownPauline",
+    "chapter": 5,
+    "orig_pj": 0.3143075525760651,
+    "orig_std": 0.1676664143208943,
+    "strip_pj": 0.638724422454834,
+    "strip_std": 0.1359011040884369,
+    "delta": -0.3244168698787689,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τὸ πνεῦμα μὴ σβέννυτε, προφητείας μὴ ἐξουθενεῖτε·",
+    "stripped_text": "μὴ σβέννυτε, ἐξουθενεῖτε·",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμα",
+      "προφητείας",
+      "μὴ"
+    ],
+    "random_flip_count": 2,
+    "p_value": 0.0297029702970297,
+    "robustness": "RARE"
+  },
+  {
+    "book": "1Tim",
+    "book_full": "1 Timothy",
+    "category": "Disputed",
+    "chapter": 5,
+    "orig_pj": 0.370490119419992,
+    "orig_std": 0.18210540330397218,
+    "strip_pj": 0.30598120093345643,
+    "strip_std": 0.13791150392135598,
+    "delta": 0.06450891848653556,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "κατὰ πρεσβυτέρου κατηγορίαν μὴ παραδέχου, ἐκτὸς εἰ μὴ ἐπὶ δύο ἢ τριῶν μαρτύρων·",
+    "stripped_text": "κατηγορίαν μὴ παραδέχου, ἐκτὸς εἰ μὴ ἐπὶ δύο ἢ τριῶν μαρτύρων·",
+    "tokens_removed": [
+      "κατὰ",
+      "πρεσβυτέρου"
+    ]
+  },
+  {
+    "book": "Titus",
+    "book_full": "Titus",
+    "category": "Disputed",
+    "chapter": 1,
+    "orig_pj": 0.43252829909324647,
+    "orig_std": 0.21442575137779588,
+    "strip_pj": 0.56308973133564,
+    "strip_std": 0.19183917775761042,
+    "delta": -0.13056143224239353,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "Τούτου χάριν ⸀ἀπέλιπόν σε ἐν Κρήτῃ ἵνα τὰ λείποντα ἐπιδιορθώσῃ, καὶ καταστήσῃς κατὰ πόλιν πρεσβυτέρους, ὡς ἐγώ σοι διεταξάμην, εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα.",
+    "stripped_text": "Τούτου χάριν ⸀ἀπέλιπόν σε ἐν Κρήτῃ ἵνα τὰ λείποντα ἐπιδιορθώσῃ, καὶ καταστήσῃς κατὰ πόλιν ὡς ἐγώ σοι διεταξάμην, εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἀνυπότακτα.",
+    "tokens_removed": [
+      "πρεσβυτέρους,",
+      "ἢ"
+    ],
+    "random_flip_count": 48,
+    "p_value": 0.48514851485148514,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Heb",
+    "book_full": "Hebrews",
+    "category": "Disputed",
+    "chapter": 10,
+    "orig_pj": 0.45858595073223113,
+    "orig_std": 0.17622859882335554,
+    "strip_pj": 0.5339035138487815,
+    "strip_std": 0.1698368032760833,
+    "delta": -0.07531756311655041,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "ἐπεὶ οὐκ ἂν ἐπαύσαντο προσφερόμεναι, διὰ τὸ μηδεμίαν ἔχειν ἔτι συνείδησιν ἁμαρτιῶν τοὺς λατρεύοντας ἅπαξ ⸀κεκαθαρισμένους;",
+    "stripped_text": "ἐπεὶ οὐκ ἂν ἐπαύσαντο προσφερόμεναι, διὰ τὸ μηδεμίαν ἔχειν ἔτι συνείδησιν λατρεύοντας ἅπαξ ⸀κεκαθαρισμένους;",
+    "tokens_removed": [
+      "ἁμαρτιῶν",
+      "τοὺς"
+    ],
+    "random_flip_count": 43,
+    "p_value": 0.43564356435643564,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "Heb",
+    "book_full": "Hebrews",
+    "category": "Disputed",
+    "chapter": 10,
+    "orig_pj": 0.48664344996213915,
+    "orig_std": 0.14660950580590035,
+    "strip_pj": 0.45582432448863985,
+    "strip_std": 0.15845037788678848,
+    "delta": 0.030819125473499298,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 6,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "μαρτυρεῖ δὲ ἡμῖν καὶ τὸ πνεῦμα τὸ ἅγιον, μετὰ γὰρ τὸ ⸀εἰρηκέναι·",
+    "stripped_text": "μαρτυρεῖ δὲ ἡμῖν καὶ γὰρ ⸀εἰρηκέναι·",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμα",
+      "τὸ",
+      "ἅγιον,",
+      "μετὰ",
+      "τὸ"
+    ]
+  },
+  {
+    "book": "Heb",
+    "book_full": "Hebrews",
+    "category": "Disputed",
+    "chapter": 12,
+    "orig_pj": 0.4837676599621773,
+    "orig_std": 0.3082155230845089,
+    "strip_pj": 0.412896067276597,
+    "strip_std": 0.26462806015213924,
+    "delta": 0.0708715926855803,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "οὐ ⸀πολὺ μᾶλλον ὑποταγησόμεθα τῷ πατρὶ τῶν πνευμάτων καὶ ζήσομεν;",
+    "stripped_text": "οὐ ⸀πολὺ μᾶλλον ὑποταγησόμεθα τῷ πατρὶ καὶ ζήσομεν;",
+    "tokens_removed": [
+      "τῶν",
+      "πνευμάτων"
+    ]
+  },
+  {
+    "book": "Heb",
+    "book_full": "Hebrews",
+    "category": "Disputed",
+    "chapter": 12,
+    "orig_pj": 0.3301894009113312,
+    "orig_std": 0.16387381090261702,
+    "strip_pj": 0.5011903211474419,
+    "strip_std": 0.1273857836434617,
+    "delta": -0.1710009202361107,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 4,
+    "categories_hit": [
+      "eschatological"
+    ],
+    "orig_text": "διὸ βασιλείαν ἀσάλευτον παραλαμβάνοντες ἔχωμεν χάριν, δι’ ἧς ⸀λατρεύωμεν εὐαρέστως τῷ θεῷ μετὰ ⸂εὐλαβείας καὶ δέους⸃, καὶ γὰρ ὁ θεὸς ἡμῶν πῦρ καταναλίσκον.",
+    "stripped_text": "διὸ παραλαμβάνοντες ἔχωμεν χάριν, δι’ ἧς ⸀λατρεύωμεν εὐαρέστως τῷ θεῷ μετὰ ⸂εὐλαβείας καὶ δέους⸃, καὶ θεὸς ἡμῶν πῦρ καταναλίσκον.",
+    "tokens_removed": [
+      "βασιλείαν",
+      "ἀσάλευτον",
+      "γὰρ",
+      "ὁ"
+    ],
+    "random_flip_count": 41,
+    "p_value": 0.4158415841584158,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "1Pet",
+    "book_full": "1 Peter",
+    "category": "Catholic",
+    "chapter": 1,
+    "orig_pj": 0.30818616077303884,
+    "orig_std": 0.14951817479381885,
+    "strip_pj": 0.3146094262599945,
+    "strip_std": 0.18291217922184722,
+    "delta": -0.006423265486955654,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 10,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "Περὶ ἧς σωτηρίας ἐξεζήτησαν καὶ ἐξηραύνησαν προφῆται οἱ περὶ τῆς εἰς ὑμᾶς χάριτος προφητεύσαντες, ἐραυνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ προμαρτυρόμενον τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας·",
+    "stripped_text": "Περὶ ἧς σωτηρίας ἐξεζήτησαν καὶ ἐξηραύνησαν προφῆται χάριτος προφητεύσαντες, ἐραυνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου προμαρτυρόμενον τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας·",
+    "tokens_removed": [
+      "οἱ",
+      "περὶ",
+      "τῆς",
+      "εἰς",
+      "ὑμᾶς",
+      "τὸ",
+      "ἐν",
+      "αὐτοῖς",
+      "πνεῦμα",
+      "Χριστοῦ"
+    ]
+  },
+  {
+    "book": "2Pet",
+    "book_full": "2 Peter",
+    "category": "Catholic",
+    "chapter": 1,
+    "orig_pj": 0.20263646095991134,
+    "orig_std": 0.17770369785442025,
+    "strip_pj": 0.1326591894030571,
+    "strip_std": 0.15783025438930667,
+    "delta": 0.06997727155685424,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 10,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "τοῦτο πρῶτον γινώσκοντες ὅτι πᾶσα προφητεία γραφῆς ἰδίας ἐπιλύσεως οὐ γίνεται, οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη ⸂προφητεία ποτέ⸃, ἀλλὰ ὑπὸ πνεύματος ἁγίου φερόμενοι ἐλάλησαν ⸀ἀπὸ θεοῦ ἄνθρωποι.",
+    "stripped_text": "τοῦτο πρῶτον γινώσκοντες ὅτι πᾶσα προφητεία γραφῆς οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη ⸂προφητεία ποτέ⸃, φερόμενοι ἐλάλησαν ἄνθρωποι.",
+    "tokens_removed": [
+      "ἰδίας",
+      "ἐπιλύσεως",
+      "οὐ",
+      "γίνεται,",
+      "ἀλλὰ",
+      "ὑπὸ",
+      "πνεύματος",
+      "ἁγίου",
+      "⸀ἀπὸ",
+      "θεοῦ"
+    ]
+  },
+  {
+    "book": "1John",
+    "book_full": "1 John",
+    "category": "Catholic",
+    "chapter": 5,
+    "orig_pj": 0.43172584399580954,
+    "orig_std": 0.30424020012159536,
+    "strip_pj": 0.593170054256916,
+    "strip_std": 0.29025854394923367,
+    "delta": -0.1614442102611065,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 5,
+    "categories_hit": [
+      "pneumatological"
+    ],
+    "orig_text": "καὶ τὸ πνεῦμά ἐστιν τὸ μαρτυροῦν, ὅτι τὸ πνεῦμά ἐστιν ἡ ἀλήθεια.",
+    "stripped_text": "καὶ ἐστιν μαρτυροῦν, ὅτι ἐστιν ἡ ἀλήθεια.",
+    "tokens_removed": [
+      "τὸ",
+      "πνεῦμά",
+      "τὸ",
+      "τὸ",
+      "πνεῦμά"
+    ],
+    "random_flip_count": 28,
+    "p_value": 0.2871287128712871,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "1John",
+    "book_full": "1 John",
+    "category": "Catholic",
+    "chapter": 5,
+    "orig_pj": 0.4979345440864563,
+    "orig_std": 0.12619420860921204,
+    "strip_pj": 0.6586516797542572,
+    "strip_std": 0.07135813490588871,
+    "delta": -0.16071713566780088,
+    "flipped": true,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "πᾶσα ἀδικία ἁμαρτία ἐστίν, καὶ ἔστιν ἁμαρτία οὐ πρὸς θάνατον.",
+    "stripped_text": "πᾶσα ἀδικία ἐστίν, καὶ ἔστιν οὐ πρὸς θάνατον.",
+    "tokens_removed": [
+      "ἁμαρτία",
+      "ἁμαρτία"
+    ],
+    "random_flip_count": 71,
+    "p_value": 0.7128712871287128,
+    "robustness": "FRAGILE"
+  },
+  {
+    "book": "3John",
+    "book_full": "3 John",
+    "category": "Catholic",
+    "chapter": 1,
+    "orig_pj": 0.45708817467093465,
+    "orig_std": 0.23995934132786037,
+    "strip_pj": 0.2377654085867107,
+    "strip_std": 0.2078722278574261,
+    "delta": 0.21932276608422396,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 6,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "Ἀγαπητέ, πιστὸν ποιεῖς ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ ⸀τοῦτο ξένους, οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ ἐνώπιον ἐκκλησίας, οὓς καλῶς ποιήσεις προπέμψας ἀξίως τοῦ θεοῦ·",
+    "stripped_text": "Ἀγαπητέ, πιστὸν ποιεῖς ὃ ἐὰν τοὺς ἀδελφοὺς καὶ ⸀τοῦτο ξένους, οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ οὓς καλῶς ποιήσεις προπέμψας ἀξίως",
+    "tokens_removed": [
+      "ἐργάσῃ",
+      "εἰς",
+      "ἐνώπιον",
+      "ἐκκλησίας,",
+      "τοῦ",
+      "θεοῦ·"
+    ]
+  },
+  {
+    "book": "Rev",
+    "book_full": "Revelation",
+    "category": "Apocalyptic",
+    "chapter": 3,
+    "orig_pj": 0.30507744327187536,
+    "orig_std": 0.22360418804935173,
+    "strip_pj": 0.41854827143251894,
+    "strip_std": 0.15470676968529617,
+    "delta": -0.11347082816064358,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 1,
+    "categories_hit": [
+      "hamartiology"
+    ],
+    "orig_text": "⸀ζήλευε οὖν καὶ μετανόησον.",
+    "stripped_text": "⸀ζήλευε οὖν καὶ",
+    "tokens_removed": [
+      "μετανόησον."
+    ]
+  },
+  {
+    "book": "Rev",
+    "book_full": "Revelation",
+    "category": "Apocalyptic",
+    "chapter": 5,
+    "orig_pj": 0.4821833401918411,
+    "orig_std": 0.14882271940866043,
+    "strip_pj": 0.3924724891781807,
+    "strip_std": 0.18795806487972866,
+    "delta": 0.08971085101366044,
+    "flipped": false,
+    "fully_editorial": false,
+    "n_stripped": 2,
+    "categories_hit": [
+      "ecclesiological"
+    ],
+    "orig_text": "Ἀμήν. καὶ οἱ πρεσβύτεροι ἔπεσαν καὶ προσεκύνησαν.",
+    "stripped_text": "Ἀμήν. καὶ ἔπεσαν καὶ προσεκύνησαν.",
+    "tokens_removed": [
+      "οἱ",
+      "πρεσβύτεροι"
+    ]
+  }
+]

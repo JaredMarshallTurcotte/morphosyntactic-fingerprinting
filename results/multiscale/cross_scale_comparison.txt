@@ -1,0 +1,68 @@
+====================================================================================================
+  CROSS-SCALE COMPARISON: Book rankings at each granularity
+====================================================================================================
+
+  Book                 Tokens (10w/5s)              Clause               Verse       2-Verse Block       3-Verse Block
+  ----------------  ------------------  ------------------  ------------------  ------------------  ------------------
+  Matthew           0.780 J ±0.096  0.796 J ±0.089  0.855 J ±0.073  0.890 J ±0.061  0.926 J ±0.043
+  Mark              0.783 J ±0.093  0.808 J ±0.083  0.873 J ±0.067  0.913 J ±0.060  0.949 J ±0.041
+  Luke              0.787 J ±0.094  0.803 J ±0.085  0.861 J ±0.071  0.902 J ±0.062  0.935 J ±0.044
+  John              0.796 J ±0.099  0.817 J ±0.088  0.865 J ±0.076  0.910 J ±0.062  0.943 J ±0.041
+  Acts              0.778 J ±0.094  0.821 J ±0.082  0.846 J ±0.077  0.871 J ±0.069  0.908 J ±0.059
+  Romans            0.743 J ±0.100  0.754 J ±0.097  0.773 J ±0.094  0.792 J ±0.095  0.838 J ±0.080
+  1 Corinthians     0.670 J ±0.113  0.683 J ±0.109  0.692 J ±0.112  0.700 J ±0.125  0.704 J ±0.118
+  2 Corinthians     0.738 J ±0.100  0.756 J ±0.099  0.771 J ±0.099  0.791 J ±0.102  0.803 J ±0.094
+  Galatians         0.725 J ±0.105  0.737 J ±0.110  0.752 J ±0.111  0.772 J ±0.118  0.780 J ±0.113
+  Ephesians         0.771 J ±0.096  0.827 J ±0.075  0.820 J ±0.087  0.877 J ±0.066  0.914 J ±0.049
+  Philippians       0.697 J ±0.114  0.725 J ±0.099  0.711 J ±0.106  0.766 J ±0.105  0.762 J ±0.090
+  Colossians        0.780 J ±0.093  0.813 J ±0.093  0.830 J ±0.083  0.896 J ±0.061  0.952 J ±0.041
+  1 Thessalonians   0.715 J ±0.101  0.735 J ±0.113  0.710 J ±0.110  0.756 J ±0.117  0.802 J ±0.105
+  2 Thessalonians   0.799 J ±0.084  0.864 J ±0.059  0.861 J ±0.071  0.920 J ±0.049  0.945 J ±0.041
+  1 Timothy         0.704 J ±0.101  0.764 J ±0.087  0.748 J ±0.088  0.743 J ±0.101  0.816 J ±0.081
+  2 Timothy         0.769 J ±0.097  0.800 J ±0.094  0.801 J ±0.085  0.863 J ±0.075  0.883 J ±0.070
+  Titus             0.752 J ±0.094  0.763 J ±0.102  0.786 J ±0.096  0.821 J ±0.099  0.842 J ±0.101
+  Philemon          0.777 J ±0.098  0.874 J ±0.069  0.818 J ±0.085  0.838 J ±0.084  0.860 J ±0.077
+  Hebrews           0.742 J ±0.098  0.763 J ±0.092  0.771 J ±0.093  0.778 J ±0.097  0.796 J ±0.081
+  James             0.738 J ±0.106  0.731 J ±0.101  0.785 J ±0.102  0.820 J ±0.091  0.828 J ±0.081
+  1 Peter           0.707 J ±0.108  0.738 J ±0.109  0.714 J ±0.113  0.758 J ±0.116  0.837 J ±0.092
+  2 Peter           0.767 J ±0.090  0.819 J ±0.073  0.827 J ±0.076  0.890 J ±0.059  0.931 J ±0.047
+  1 John            0.781 J ±0.105  0.838 J ±0.084  0.866 J ±0.068  0.927 J ±0.043  0.969 J ±0.027
+  2 John            0.815 J ±0.092  0.935 J ±0.048  0.932 J ±0.045  0.975 J ±0.016  0.986 J ±0.009
+  3 John            0.716 J ±0.120  0.682 J ±0.132  0.735 J ±0.130  0.781 J ±0.140  0.907 J ±0.082
+  Jude              0.735 J ±0.107  0.802 J ±0.090  0.796 J ±0.089  0.821 J ±0.105  0.835 J ±0.098
+  Revelation        0.791 J ±0.093  0.861 J ±0.067  0.907 J ±0.051  0.963 J ±0.026  0.980 J ±0.017
+
+
+  TOTALS                mean=0.754           mean=0.789           mean=0.804           mean=0.842           mean=0.875     
+
+
+====================================================================================================
+  STABILITY: Books whose signal changes across scales
+====================================================================================================
+
+  Matthew              spread=0.146  most Jewish at 3-Verse Block (0.926), most Gentile at Tokens (10w/5s) (0.780)
+  Mark                 spread=0.166  most Jewish at 3-Verse Block (0.949), most Gentile at Tokens (10w/5s) (0.783)
+  Luke                 spread=0.149  most Jewish at 3-Verse Block (0.935), most Gentile at Tokens (10w/5s) (0.787)
+  John                 spread=0.147  most Jewish at 3-Verse Block (0.943), most Gentile at Tokens (10w/5s) (0.796)
+  Acts                 spread=0.130  most Jewish at 3-Verse Block (0.908), most Gentile at Tokens (10w/5s) (0.778)
+  Romans               spread=0.095  most Jewish at 3-Verse Block (0.838), most Gentile at Tokens (10w/5s) (0.743)
+  2 Corinthians        spread=0.065  most Jewish at 3-Verse Block (0.803), most Gentile at Tokens (10w/5s) (0.738)
+  Galatians            spread=0.056  most Jewish at 3-Verse Block (0.780), most Gentile at Tokens (10w/5s) (0.725)
+  Ephesians            spread=0.143  most Jewish at 3-Verse Block (0.914), most Gentile at Tokens (10w/5s) (0.771)
+  Philippians          spread=0.069  most Jewish at 2-Verse Block (0.766), most Gentile at Tokens (10w/5s) (0.697)
+  Colossians           spread=0.172  most Jewish at 3-Verse Block (0.952), most Gentile at Tokens (10w/5s) (0.780)
+  1 Thessalonians      spread=0.092  most Jewish at 3-Verse Block (0.802), most Gentile at Verse (0.710)
+  2 Thessalonians      spread=0.145  most Jewish at 3-Verse Block (0.945), most Gentile at Tokens (10w/5s) (0.799)
+  1 Timothy            spread=0.111  most Jewish at 3-Verse Block (0.816), most Gentile at Tokens (10w/5s) (0.704)
+  2 Timothy            spread=0.114  most Jewish at 3-Verse Block (0.883), most Gentile at Tokens (10w/5s) (0.769)
+  Titus                spread=0.091  most Jewish at 3-Verse Block (0.842), most Gentile at Tokens (10w/5s) (0.752)
+  Philemon             spread=0.097  most Jewish at Clause (0.874), most Gentile at Tokens (10w/5s) (0.777)
+  Hebrews              spread=0.054  most Jewish at 3-Verse Block (0.796), most Gentile at Tokens (10w/5s) (0.742)
+  James                spread=0.097  most Jewish at 3-Verse Block (0.828), most Gentile at Clause (0.731)
+  1 Peter              spread=0.130  most Jewish at 3-Verse Block (0.837), most Gentile at Tokens (10w/5s) (0.707)
+  2 Peter              spread=0.164  most Jewish at 3-Verse Block (0.931), most Gentile at Tokens (10w/5s) (0.767)
+  1 John               spread=0.188  most Jewish at 3-Verse Block (0.969), most Gentile at Tokens (10w/5s) (0.781)
+  2 John               spread=0.171  most Jewish at 3-Verse Block (0.986), most Gentile at Tokens (10w/5s) (0.815)
+  3 John               spread=0.225  most Jewish at 3-Verse Block (0.907), most Gentile at Clause (0.682)
+  Jude                 spread=0.100  most Jewish at 3-Verse Block (0.835), most Gentile at Tokens (10w/5s) (0.735)
+  Revelation           spread=0.189  most Jewish at 3-Verse Block (0.980), most Gentile at Tokens (10w/5s) (0.791)

@@ -1,0 +1,2672 @@
+# sent_id = Gal.1.1
+# text = Παῦλος ἀπόστολος, οὐκ ἀπ’ ἀνθρώπων οὐδὲ δι’ ἀνθρώπου ἀλλὰ διὰ Ἰησοῦ Χριστοῦ καὶ θεοῦ πατρὸς τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν,
+1	Παῦλος	Παῦλος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	verse=1:1
+2	ἀπόστολος,	ἀπόστολος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	verse=1:1
+3	οὐκ	οὐ	ADV	D---------	_	17	advmod	_	verse=1:1
+4	ἀπ’	ἀπό	ADP	R---------	_	5	case	_	verse=1:1
+5	ἀνθρώπων	ἄνθρωπος	NOUN	N-p---mg--	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	verse=1:1
+6	οὐδὲ	οὐδέ	CCONJ	C---------	_	7	cc	_	verse=1:1
+7	δι’	διά	ADP	R---------	_	8	case	_	verse=1:1
+8	ἀνθρώπου	ἄνθρωπος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	verse=1:1
+9	ἀλλὰ	ἀλλά	CCONJ	C---------	_	10	cc	_	verse=1:1
+10	διὰ	διά	ADP	R---------	_	11	case	_	verse=1:1
+11	Ἰησοῦ	Ἰησοῦς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	verse=1:1
+12	Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	verse=1:1
+13	καὶ	καί	CCONJ	C---------	_	14	cc	_	verse=1:1
+14	θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	verse=1:1
+15	πατρὸς	πατήρ	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	verse=1:1
+16	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	18	det	_	verse=1:1
+17	ἐγείραντος	ἐγείρω	VERB	V-sapamg--	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	verse=1:1
+18	αὐτὸν	αὐτός	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	17	obj	_	verse=1:1
+19	ἐκ	ἐκ	ADP	R---------	_	20	case	_	verse=1:1
+20	νεκρῶν,	νεκρός	ADJ	A-p---mg--	Case=Gen|Gender=Masc|Number=Plur	18	amod	_	verse=1:1
+
+# sent_id = Gal.1.2
+# text = καὶ οἱ σὺν ἐμοὶ πάντες ἀδελφοί, ταῖς ἐκκλησίαις τῆς Γαλατίας·
+1	καὶ	καί	CCONJ	C---------	_	2	cc	_	verse=1:2
+2	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	4	det	_	verse=1:2
+3	σὺν	σύν	ADP	R---------	_	4	case	_	verse=1:2
+4	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	0	root	_	verse=1:2
+5	πάντες	πᾶς	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	verse=1:2
+6	ἀδελφοί,	ἀδελφός	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	verse=1:2
+7	ταῖς	ὁ	DET	S-p---fd--	Case=Dat|Gender=Fem|Number=Plur	8	det	_	verse=1:2
+8	ἐκκλησίαις	ἐκκλησία	NOUN	N-p---fd--	Case=Dat|Gender=Fem|Number=Plur	4	obl	_	verse=1:2
+9	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	10	det	_	verse=1:2
+10	Γαλατίας·	Γαλατία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	verse=1:2
+
+# sent_id = Gal.1.3
+# text = χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ⸂καὶ κυρίου ἡμῶν⸃ Ἰησοῦ Χριστοῦ,
+1	χάρις	χάρις	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	0	root	_	verse=1:3
+2	ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	1	obl	_	verse=1:3
+3	καὶ	καί	CCONJ	C---------	_	4	cc	_	verse=1:3
+4	εἰρήνη	εἰρήνη	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	verse=1:3
+5	ἀπὸ	ἀπό	ADP	R---------	_	6	case	_	verse=1:3
+6	θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	verse=1:3
+7	πατρὸς	πατήρ	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=1:3
+8	⸂καὶ	καί	CCONJ	C---------	_	9	cc	_	verse=1:3
+9	κυρίου	κύριος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	verse=1:3
+10	ἡμῶν⸃	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	1	obl	_	verse=1:3
+11	Ἰησοῦ	Ἰησοῦς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	verse=1:3
+12	Χριστοῦ,	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	verse=1:3
+
+# sent_id = Gal.1.4
+# text = τοῦ δόντος ἑαυτὸν ⸀ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ ⸂αἰῶνος τοῦ ἐνεστῶτος⸃ πονηροῦ κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν,
+1	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	3	det	_	verse=1:4
+2	δόντος	δίδωμι	VERB	V-sapamg--	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	verse=1:4
+3	ἑαυτὸν	ἑαυτοῦ	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	2	obj	_	verse=1:4
+4	⸀ὑπὲρ	ὑπέρ	ADP	R---------	_	6	case	_	verse=1:4
+5	τῶν	ὁ	DET	S-p---fg--	Case=Gen|Gender=Fem|Number=Plur	6	det	_	verse=1:4
+6	ἁμαρτιῶν	ἁμαρτία	NOUN	N-p---fg--	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	verse=1:4
+7	ἡμῶν	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	9	obl	_	verse=1:4
+8	ὅπως	ὅπως	CCONJ	C---------	_	9	cc	_	verse=1:4
+9	ἐξέληται	ἐξαιρέω	VERB	V3sasm----	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	verse=1:4
+10	ἡμᾶς	ἐγώ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	9	obj	_	verse=1:4
+11	ἐκ	ἐκ	ADP	R---------	_	13	case	_	verse=1:4
+12	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	13	det	_	verse=1:4
+13	⸂αἰῶνος	αἰών	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=1:4
+14	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	16	det	_	verse=1:4
+15	ἐνεστῶτος⸃	ἐνίστημι	VERB	V-srpamg--	Case=Gen|Gender=Masc|Number=Sing|Tense=Perf|VerbForm=Part|Voice=Act	9	advcl	_	verse=1:4
+16	πονηροῦ	πονηρός	ADJ	A-s---mg--	Case=Gen|Gender=Masc|Number=Sing	19	amod	_	verse=1:4
+17	κατὰ	κατά	ADP	R---------	_	19	case	_	verse=1:4
+18	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	19	det	_	verse=1:4
+19	θέλημα	θέλημα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	verse=1:4
+20	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	21	det	_	verse=1:4
+21	θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	verse=1:4
+22	καὶ	καί	CCONJ	C---------	_	23	cc	_	verse=1:4
+23	πατρὸς	πατήρ	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	verse=1:4
+24	ἡμῶν,	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	15	obl	_	verse=1:4
+
+# sent_id = Gal.1.5
+# text = ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.
+1	ᾧ	ὅς	PRON	P-s---md--	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	0	root	_	verse=1:5
+2	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	3	det	_	verse=1:5
+3	δόξα	δόξα	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	verse=1:5
+4	εἰς	εἰς	ADP	R---------	_	6	case	_	verse=1:5
+5	τοὺς	ὁ	DET	S-p---ma--	Case=Acc|Gender=Masc|Number=Plur	6	det	_	verse=1:5
+6	αἰῶνας	αἰών	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	verse=1:5
+7	τῶν	ὁ	DET	S-p---mg--	Case=Gen|Gender=Masc|Number=Plur	8	det	_	verse=1:5
+8	αἰώνων·	αἰών	NOUN	N-p---mg--	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	verse=1:5
+9	ἀμήν.	ἀμήν	PART	G---------	_	1	discourse	_	verse=1:5
+
+# sent_id = Gal.1.6
+# text = Θαυμάζω ὅτι οὕτως ταχέως μετατίθεσθε ἀπὸ τοῦ καλέσαντος ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον,
+1	Θαυμάζω	θαυμάζω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=1:6
+2	ὅτι	ὅτι	CCONJ	C---------	_	3	cc	_	verse=1:6
+3	οὕτως	οὕτω(ς)	ADV	D---------	_	1	advmod	_	verse=1:6
+4	ταχέως	ταχέως	ADV	D---------	_	5	advmod	_	verse=1:6
+5	μετατίθεσθε	μετατίθημι	VERB	V2ppim----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	verse=1:6
+6	ἀπὸ	ἀπό	ADP	R---------	_	9	case	_	verse=1:6
+7	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	9	det	_	verse=1:6
+8	καλέσαντος	καλέω	VERB	V-sapamg--	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	verse=1:6
+9	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	8	obj	_	verse=1:6
+10	ἐν	ἐν	ADP	R---------	_	11	case	_	verse=1:6
+11	χάριτι	χάρις	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	verse=1:6
+12	Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	verse=1:6
+13	εἰς	εἰς	ADP	R---------	_	14	case	_	verse=1:6
+14	ἕτερον	ἕτερος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	15	amod	_	verse=1:6
+15	εὐαγγέλιον,	εὐαγγέλιον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	verse=1:6
+
+# sent_id = Gal.1.7
+# text = ὃ οὐκ ἔστιν ἄλλο· εἰ μή τινές εἰσιν οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ.
+1	ὃ	ὅς	PRON	P-s---nn--	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	verse=1:7
+2	οὐκ	οὐ	ADV	D---------	_	3	advmod	_	verse=1:7
+3	ἔστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=1:7
+4	ἄλλο·	ἄλλος	ADJ	A-s---nn--	Case=Nom|Gender=Neut|Number=Sing	7	amod	_	verse=1:7
+5	εἰ	εἰ	CCONJ	C---------	_	6	cc	_	verse=1:7
+6	μή	μή	ADV	D---------	_	8	advmod	_	verse=1:7
+7	τινές	τις	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Int	3	nsubj	_	verse=1:7
+8	εἰσιν	εἰμί	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	verse=1:7
+9	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	11	det	_	verse=1:7
+10	ταράσσοντες	ταράσσω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	verse=1:7
+11	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	10	obj	_	verse=1:7
+12	καὶ	καί	CCONJ	C---------	_	13	cc	_	verse=1:7
+13	θέλοντες	θέλω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	verse=1:7
+14	μεταστρέψαι	μεταστρέφω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	13	xcomp	_	verse=1:7
+15	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	16	det	_	verse=1:7
+16	εὐαγγέλιον	εὐαγγέλιον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	verse=1:7
+17	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	18	det	_	verse=1:7
+18	Χριστοῦ.	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	verse=1:7
+
+# sent_id = Gal.1.8
+# text = ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ ⸀εὐαγγελίζηται ⸀ὑμῖν παρ’ ὃ εὐηγγελισάμεθα ὑμῖν, ἀνάθεμα ἔστω.
+1	ἀλλὰ	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=1:8
+2	καὶ	καί	ADV	D---------	_	9	advmod	_	verse=1:8
+3	ἐὰν	ἐάν	CCONJ	C---------	_	4	cc	_	verse=1:8
+4	ἡμεῖς	ἐγώ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	13	nsubj	_	verse=1:8
+5	ἢ	ἤ	CCONJ	C---------	_	6	cc	_	verse=1:8
+6	ἄγγελος	ἄγγελος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	verse=1:8
+7	ἐξ	ἐκ	ADP	R---------	_	8	case	_	verse=1:8
+8	οὐρανοῦ	οὐρανός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=1:8
+9	⸀εὐαγγελίζηται	εὐαγγελίζω	VERB	V3spsm----	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	conj	_	verse=1:8
+10	⸀ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	9	obl	_	verse=1:8
+11	παρ’	παρά	ADP	R---------	_	12	case	_	verse=1:8
+12	ὃ	ὅς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obj	_	verse=1:8
+13	εὐηγγελισάμεθα	εὐαγγελίζω	VERB	V1paim----	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	verse=1:8
+14	ὑμῖν,	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	13	obl	_	verse=1:8
+15	ἀνάθεμα	ἀνάθεμα	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	verse=1:8
+16	ἔστω.	εἰμί	VERB	V3spma----	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	verse=1:8
+
+# sent_id = Gal.1.9
+# text = ὡς προειρήκαμεν, καὶ ἄρτι πάλιν λέγω, εἴ τις ὑμᾶς εὐαγγελίζεται παρ’ ὃ παρελάβετε, ἀνάθεμα ἔστω.
+1	ὡς	ὡς	CCONJ	C---------	_	2	cc	_	verse=1:9
+2	προειρήκαμεν,	προλέγω	VERB	V1pria----	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	0	root	_	verse=1:9
+3	καὶ	καί	ADV	D---------	_	2	advmod	_	verse=1:9
+4	ἄρτι	ἄρτι	ADV	D---------	_	2	advmod	_	verse=1:9
+5	πάλιν	πάλιν	ADV	D---------	_	6	advmod	_	verse=1:9
+6	λέγω,	λέγω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=1:9
+7	εἴ	εἰ	CCONJ	C---------	_	8	cc	_	verse=1:9
+8	τις	τις	PRON	P-s---mn--	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	verse=1:9
+9	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	10	obj	_	verse=1:9
+10	εὐαγγελίζεται	εὐαγγελίζω	VERB	V3spim----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	verse=1:9
+11	παρ’	παρά	ADP	R---------	_	12	case	_	verse=1:9
+12	ὃ	ὅς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obj	_	verse=1:9
+13	παρελάβετε,	παραλαμβάνω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	verse=1:9
+14	ἀνάθεμα	ἀνάθεμα	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	verse=1:9
+15	ἔστω.	εἰμί	VERB	V3spma----	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=1:9
+
+# sent_id = Gal.1.10
+# text = Ἄρτι γὰρ ἀνθρώπους πείθω ἢ τὸν θεόν; ἢ ζητῶ ἀνθρώποις ἀρέσκειν; ⸀εἰ ἔτι ἀνθρώποις ἤρεσκον, Χριστοῦ δοῦλος οὐκ ἂν ἤμην.
+1	Ἄρτι	ἄρτι	ADV	D---------	_	4	advmod	_	verse=1:10
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=1:10
+3	ἀνθρώπους	ἄνθρωπος	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	verse=1:10
+4	πείθω	πείθω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=1:10
+5	ἢ	ἤ	CCONJ	C---------	_	6	cc	_	verse=1:10
+6	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	7	det	_	verse=1:10
+7	θεόν;	θεός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	verse=1:10
+8	ἢ	ἤ	CCONJ	C---------	_	9	cc	_	verse=1:10
+9	ζητῶ	ζητέω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=1:10
+10	ἀνθρώποις	ἄνθρωπος	NOUN	N-p---md--	Case=Dat|Gender=Masc|Number=Plur	9	obl	_	verse=1:10
+11	ἀρέσκειν;	ἀρέσκω	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	verse=1:10
+12	⸀εἰ	εἰ	CCONJ	C---------	_	13	cc	_	verse=1:10
+13	ἔτι	ἔτι	ADV	D---------	_	11	advmod	_	verse=1:10
+14	ἀνθρώποις	ἄνθρωπος	NOUN	N-p---md--	Case=Dat|Gender=Masc|Number=Plur	15	obl	_	verse=1:10
+15	ἤρεσκον,	ἀρέσκω	VERB	V1siia----	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	4	conj	_	verse=1:10
+16	Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	verse=1:10
+17	δοῦλος	δοῦλος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	verse=1:10
+18	οὐκ	οὐ	ADV	D---------	_	20	advmod	_	verse=1:10
+19	ἂν	ἄν	PART	G---------	_	20	discourse	_	verse=1:10
+20	ἤμην.	εἰμί	VERB	V1siim----	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Mid	4	conj	_	verse=1:10
+
+# sent_id = Gal.1.11
+# text = Γνωρίζω ⸀γὰρ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ’ ἐμοῦ ὅτι οὐκ ἔστιν κατὰ ἄνθρωπον·
+1	Γνωρίζω	γνωρίζω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=1:11
+2	⸀γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=1:11
+3	ὑμῖν,	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	1	obl	_	verse=1:11
+4	ἀδελφοί,	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	verse=1:11
+5	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	6	det	_	verse=1:11
+6	εὐαγγέλιον	εὐαγγέλιον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	verse=1:11
+7	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	10	det	_	verse=1:11
+8	εὐαγγελισθὲν	εὐαγγελίζω	VERB	V-sappna--	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	verse=1:11
+9	ὑπ’	ὑπό	ADP	R---------	_	10	case	_	verse=1:11
+10	ἐμοῦ	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	8	obl	_	verse=1:11
+11	ὅτι	ὅτι	CCONJ	C---------	_	12	cc	_	verse=1:11
+12	οὐκ	οὐ	ADV	D---------	_	13	advmod	_	verse=1:11
+13	ἔστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=1:11
+14	κατὰ	κατά	ADP	R---------	_	15	case	_	verse=1:11
+15	ἄνθρωπον·	ἄνθρωπος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	verse=1:11
+
+# sent_id = Gal.1.12
+# text = οὐδὲ γὰρ ἐγὼ παρὰ ἀνθρώπου παρέλαβον αὐτό, ⸀οὔτε ἐδιδάχθην, ἀλλὰ δι’ ἀποκαλύψεως Ἰησοῦ Χριστοῦ.
+1	οὐδὲ	οὐδέ	ADV	D---------	_	6	advmod	_	verse=1:12
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=1:12
+3	ἐγὼ	ἐγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	6	nsubj	_	verse=1:12
+4	παρὰ	παρά	ADP	R---------	_	5	case	_	verse=1:12
+5	ἀνθρώπου	ἄνθρωπος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=1:12
+6	παρέλαβον	παραλαμβάνω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=1:12
+7	αὐτό,	αὐτός	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	6	obj	_	verse=1:12
+8	⸀οὔτε	οὔτε	CCONJ	C---------	_	9	cc	_	verse=1:12
+9	ἐδιδάχθην,	διδάσκω	VERB	V1saip----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	6	conj	_	verse=1:12
+10	ἀλλὰ	ἀλλά	CCONJ	C---------	_	11	cc	_	verse=1:12
+11	δι’	διά	ADP	R---------	_	12	case	_	verse=1:12
+12	ἀποκαλύψεως	ἀποκάλυψις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	verse=1:12
+13	Ἰησοῦ	Ἰησοῦς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	verse=1:12
+14	Χριστοῦ.	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	verse=1:12
+
+# sent_id = Gal.1.13
+# text = Ἠκούσατε γὰρ τὴν ἐμὴν ἀναστροφήν ποτε ἐν τῷ Ἰουδαϊσμῷ, ὅτι καθ’ ὑπερβολὴν ἐδίωκον τὴν ἐκκλησίαν τοῦ θεοῦ καὶ ἐπόρθουν αὐτήν,
+1	Ἠκούσατε	ἀκούω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=1:13
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=1:13
+3	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	4	det	_	verse=1:13
+4	ἐμὴν	ἐμός	ADJ	A-s---fa--	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	verse=1:13
+5	ἀναστροφήν	ἀναστροφή	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	verse=1:13
+6	ποτε	ποτέ	ADV	D---------	_	1	advmod	_	verse=1:13
+7	ἐν	ἐν	ADP	R---------	_	9	case	_	verse=1:13
+8	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	9	det	_	verse=1:13
+9	Ἰουδαϊσμῷ,	Ἰουδαϊσμός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	verse=1:13
+10	ὅτι	ὅτι	ADV	D---------	_	13	advmod	_	verse=1:13
+11	καθ’	κατά	ADP	R---------	_	12	case	_	verse=1:13
+12	ὑπερβολὴν	ὑπερβολή	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	verse=1:13
+13	ἐδίωκον	διώκω	VERB	V1siia----	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	1	conj	_	verse=1:13
+14	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	15	det	_	verse=1:13
+15	ἐκκλησίαν	ἐκκλησία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	verse=1:13
+16	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	17	det	_	verse=1:13
+17	θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	verse=1:13
+18	καὶ	καί	CCONJ	C---------	_	19	cc	_	verse=1:13
+19	ἐπόρθουν	πορθέω	VERB	V1siia----	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	1	conj	_	verse=1:13
+20	αὐτήν,	αὐτός	PRON	P-s---fa--	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	19	obj	_	verse=1:13
+
+# sent_id = Gal.1.14
+# text = καὶ προέκοπτον ἐν τῷ Ἰουδαϊσμῷ ὑπὲρ πολλοὺς συνηλικιώτας ἐν τῷ γένει μου, περισσοτέρως ζηλωτὴς ὑπάρχων τῶν πατρικῶν μου παραδόσεων.
+1	καὶ	καί	CCONJ	C---------	_	2	cc	_	verse=1:14
+2	προέκοπτον	προκόπτω	VERB	V1siia----	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=1:14
+3	ἐν	ἐν	ADP	R---------	_	5	case	_	verse=1:14
+4	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	5	det	_	verse=1:14
+5	Ἰουδαϊσμῷ	Ἰουδαϊσμός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	verse=1:14
+6	ὑπὲρ	ὑπέρ	ADP	R---------	_	7	case	_	verse=1:14
+7	πολλοὺς	πολύς	ADJ	A-p---ma--	Case=Acc|Gender=Masc|Number=Plur	8	amod	_	verse=1:14
+8	συνηλικιώτας	συνηλικιώτης	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	verse=1:14
+9	ἐν	ἐν	ADP	R---------	_	11	case	_	verse=1:14
+10	τῷ	ὁ	DET	S-s---nd--	Case=Dat|Gender=Neut|Number=Sing	11	det	_	verse=1:14
+11	γένει	γένος	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	15	obl	_	verse=1:14
+12	μου,	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	15	obl	_	verse=1:14
+13	περισσοτέρως	περισσοτέρως	ADV	D---------	_	15	advmod	_	verse=1:14
+14	ζηλωτὴς	ζηλωτής	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	verse=1:14
+15	ὑπάρχων	ὑπάρχω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	verse=1:14
+16	τῶν	ὁ	DET	S-p---fg--	Case=Gen|Gender=Fem|Number=Plur	17	det	_	verse=1:14
+17	πατρικῶν	πατρικός	ADJ	A-p---fg--	Case=Gen|Gender=Fem|Number=Plur	18	amod	_	verse=1:14
+18	μου	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	15	obl	_	verse=1:14
+19	παραδόσεων.	παράδοσις	NOUN	N-p---fg--	Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	verse=1:14
+
+# sent_id = Gal.1.15
+# text = ὅτε δὲ ⸀εὐδόκησεν ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ
+1	ὅτε	ὅτε	CCONJ	C---------	_	2	cc	_	verse=1:15
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=1:15
+3	⸀εὐδόκησεν	εὐδοκέω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=1:15
+4	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	det	_	verse=1:15
+5	ἀφορίσας	ἀφορίζω	VERB	V-sapamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	verse=1:15
+6	με	ἐγώ	PRON	P-s----a--	Case=Acc|Number=Sing|PronType=Prs	5	obj	_	verse=1:15
+7	ἐκ	ἐκ	ADP	R---------	_	8	case	_	verse=1:15
+8	κοιλίας	κοιλία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	verse=1:15
+9	μητρός	μήτηρ	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	verse=1:15
+10	μου	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	12	obl	_	verse=1:15
+11	καὶ	καί	CCONJ	C---------	_	12	cc	_	verse=1:15
+12	καλέσας	καλέω	VERB	V-sapamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	verse=1:15
+13	διὰ	διά	ADP	R---------	_	15	case	_	verse=1:15
+14	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	15	det	_	verse=1:15
+15	χάριτος	χάρις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	verse=1:15
+16	αὐτοῦ	αὐτός	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	12	obl	_	verse=1:15
+
+# sent_id = Gal.1.16
+# text = ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοὶ ἵνα εὐαγγελίζωμαι αὐτὸν ἐν τοῖς ἔθνεσιν, εὐθέως οὐ προσανεθέμην σαρκὶ καὶ αἵματι,
+1	ἀποκαλύψαι	ἀποκαλύπτω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	8	xcomp	_	verse=1:16
+2	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	3	det	_	verse=1:16
+3	υἱὸν	υἱός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	verse=1:16
+4	αὐτοῦ	αὐτός	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	1	obl	_	verse=1:16
+5	ἐν	ἐν	ADP	R---------	_	6	case	_	verse=1:16
+6	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	8	obl	_	verse=1:16
+7	ἵνα	ἵνα	CCONJ	C---------	_	8	cc	_	verse=1:16
+8	εὐαγγελίζωμαι	εὐαγγελίζω	VERB	V1spsm----	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	15	conj	_	verse=1:16
+9	αὐτὸν	αὐτός	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	8	obj	_	verse=1:16
+10	ἐν	ἐν	ADP	R---------	_	12	case	_	verse=1:16
+11	τοῖς	ὁ	DET	S-p---nd--	Case=Dat|Gender=Neut|Number=Plur	12	det	_	verse=1:16
+12	ἔθνεσιν,	ἔθνος	NOUN	N-p---nd--	Case=Dat|Gender=Neut|Number=Plur	15	obl	_	verse=1:16
+13	εὐθέως	εὐθέως	ADV	D---------	_	15	advmod	_	verse=1:16
+14	οὐ	οὐ	ADV	D---------	_	15	advmod	_	verse=1:16
+15	προσανεθέμην	προσανατίθημι	VERB	V1saim----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	verse=1:16
+16	σαρκὶ	σάρξ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	verse=1:16
+17	καὶ	καί	CCONJ	C---------	_	18	cc	_	verse=1:16
+18	αἵματι,	αἷμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	15	obl	_	verse=1:16
+
+# sent_id = Gal.1.17
+# text = οὐδὲ ἀνῆλθον εἰς Ἱεροσόλυμα πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους, ἀλλὰ ἀπῆλθον εἰς Ἀραβίαν, καὶ πάλιν ὑπέστρεψα εἰς Δαμασκόν.
+1	οὐδὲ	οὐδέ	CCONJ	C---------	_	2	cc	_	verse=1:17
+2	ἀνῆλθον	ἀνέρχομαι	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=1:17
+3	εἰς	εἰς	ADP	R---------	_	4	case	_	verse=1:17
+4	Ἱεροσόλυμα	Ἱεροσόλυμα	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	verse=1:17
+5	πρὸς	πρός	ADP	R---------	_	8	case	_	verse=1:17
+6	τοὺς	ὁ	DET	S-p---ma--	Case=Acc|Gender=Masc|Number=Plur	8	det	_	verse=1:17
+7	πρὸ	πρό	ADP	R---------	_	8	case	_	verse=1:17
+8	ἐμοῦ	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	11	obl	_	verse=1:17
+9	ἀποστόλους,	ἀπόστολος	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	verse=1:17
+10	ἀλλὰ	ἀλλά	CCONJ	C---------	_	11	cc	_	verse=1:17
+11	ἀπῆλθον	ἀπέρχομαι	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	verse=1:17
+12	εἰς	εἰς	ADP	R---------	_	13	case	_	verse=1:17
+13	Ἀραβίαν,	Ἀραβία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	verse=1:17
+14	καὶ	καί	CCONJ	C---------	_	15	cc	_	verse=1:17
+15	πάλιν	πάλιν	ADV	D---------	_	16	advmod	_	verse=1:17
+16	ὑπέστρεψα	ὑποστρέφω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	verse=1:17
+17	εἰς	εἰς	ADP	R---------	_	18	case	_	verse=1:17
+18	Δαμασκόν.	Δαμασκός	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	verse=1:17
+
+# sent_id = Gal.1.18
+# text = Ἔπειτα μετὰ ⸂ἔτη τρία⸃ ἀνῆλθον εἰς Ἱεροσόλυμα ἱστορῆσαι ⸀Κηφᾶν, καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε·
+1	Ἔπειτα	ἔπειτα	ADV	D---------	_	5	advmod	_	verse=1:18
+2	μετὰ	μετά	ADP	R---------	_	3	case	_	verse=1:18
+3	⸂ἔτη	ἔτος	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	verse=1:18
+4	τρία⸃	τρεῖς	ADJ	A-p---na--	Case=Acc|Gender=Neut|Number=Plur	3	amod	_	verse=1:18
+5	ἀνῆλθον	ἀνέρχομαι	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=1:18
+6	εἰς	εἰς	ADP	R---------	_	7	case	_	verse=1:18
+7	Ἱεροσόλυμα	Ἱεροσόλυμα	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	verse=1:18
+8	ἱστορῆσαι	ἱστορέω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	5	xcomp	_	verse=1:18
+9	⸀Κηφᾶν,	Κηφᾶς	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	verse=1:18
+10	καὶ	καί	CCONJ	C---------	_	11	cc	_	verse=1:18
+11	ἐπέμεινα	ἐπιμένω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	verse=1:18
+12	πρὸς	πρός	ADP	R---------	_	13	case	_	verse=1:18
+13	αὐτὸν	αὐτός	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	11	obj	_	verse=1:18
+14	ἡμέρας	ἡμέρα	NOUN	N-p---fa--	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	verse=1:18
+15	δεκαπέντε·	δεκαπέντε	ADJ	A-p---fa--	Case=Acc|Gender=Fem|Number=Plur	14	amod	_	verse=1:18
+
+# sent_id = Gal.1.19
+# text = ἕτερον δὲ τῶν ἀποστόλων οὐκ εἶδον, εἰ μὴ Ἰάκωβον τὸν ἀδελφὸν τοῦ κυρίου.
+1	ἕτερον	ἕτερος	ADJ	A-s---ma--	Case=Acc|Gender=Masc|Number=Sing	4	amod	_	verse=1:19
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=1:19
+3	τῶν	ὁ	DET	S-p---mg--	Case=Gen|Gender=Masc|Number=Plur	4	det	_	verse=1:19
+4	ἀποστόλων	ἀπόστολος	NOUN	N-p---mg--	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	verse=1:19
+5	οὐκ	οὐ	ADV	D---------	_	6	advmod	_	verse=1:19
+6	εἶδον,	ὁράω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=1:19
+7	εἰ	εἰ	CCONJ	C---------	_	8	cc	_	verse=1:19
+8	μὴ	μή	ADV	D---------	_	6	advmod	_	verse=1:19
+9	Ἰάκωβον	Ἰάκωβος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	verse=1:19
+10	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	11	det	_	verse=1:19
+11	ἀδελφὸν	ἀδελφός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	verse=1:19
+12	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	13	det	_	verse=1:19
+13	κυρίου.	κύριος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	verse=1:19
+
+# sent_id = Gal.1.20
+# text = ἃ δὲ γράφω ὑμῖν, ἰδοὺ ἐνώπιον τοῦ θεοῦ ὅτι οὐ ψεύδομαι.
+1	ἃ	ὅς	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	3	obj	_	verse=1:20
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=1:20
+3	γράφω	γράφω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=1:20
+4	ὑμῖν,	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	3	obl	_	verse=1:20
+5	ἰδοὺ	ἰδού	PART	G---------	_	3	discourse	_	verse=1:20
+6	ἐνώπιον	ἐνώπιον	ADP	R---------	_	8	case	_	verse=1:20
+7	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	det	_	verse=1:20
+8	θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	verse=1:20
+9	ὅτι	ὅτι	CCONJ	C---------	_	10	cc	_	verse=1:20
+10	οὐ	οὐ	ADV	D---------	_	11	advmod	_	verse=1:20
+11	ψεύδομαι.	ψεύδομαι	VERB	V1spim----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	verse=1:20
+
+# sent_id = Gal.1.21
+# text = ἔπειτα ἦλθον εἰς τὰ κλίματα τῆς Συρίας καὶ τῆς Κιλικίας.
+1	ἔπειτα	ἔπειτα	ADV	D---------	_	2	advmod	_	verse=1:21
+2	ἦλθον	ἔρχομαι	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=1:21
+3	εἰς	εἰς	ADP	R---------	_	5	case	_	verse=1:21
+4	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	5	det	_	verse=1:21
+5	κλίματα	κλίμα	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	verse=1:21
+6	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	7	det	_	verse=1:21
+7	Συρίας	Συρία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	verse=1:21
+8	καὶ	καί	CCONJ	C---------	_	9	cc	_	verse=1:21
+9	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	10	det	_	verse=1:21
+10	Κιλικίας.	Κιλικία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	verse=1:21
+
+# sent_id = Gal.1.22
+# text = ἤμην δὲ ἀγνοούμενος τῷ προσώπῳ ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ,
+1	ἤμην	εἰμί	VERB	V1siim----	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	verse=1:22
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=1:22
+3	ἀγνοούμενος	ἀγνοέω	VERB	V-spppmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	verse=1:22
+4	τῷ	ὁ	DET	S-s---nd--	Case=Dat|Gender=Neut|Number=Sing	5	det	_	verse=1:22
+5	προσώπῳ	πρόσωπον	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	verse=1:22
+6	ταῖς	ὁ	DET	S-p---fd--	Case=Dat|Gender=Fem|Number=Plur	7	det	_	verse=1:22
+7	ἐκκλησίαις	ἐκκλησία	NOUN	N-p---fd--	Case=Dat|Gender=Fem|Number=Plur	3	obl	_	verse=1:22
+8	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	det	_	verse=1:22
+9	Ἰουδαίας	Ἰουδαία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	verse=1:22
+10	ταῖς	ὁ	DET	S-p---fd--	Case=Dat|Gender=Fem|Number=Plur	12	det	_	verse=1:22
+11	ἐν	ἐν	ADP	R---------	_	12	case	_	verse=1:22
+12	Χριστῷ,	Χριστός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	verse=1:22
+
+# sent_id = Gal.1.23
+# text = μόνον δὲ ἀκούοντες ἦσαν ὅτι Ὁ διώκων ἡμᾶς ποτε νῦν εὐαγγελίζεται τὴν πίστιν ἥν ποτε ἐπόρθει,
+1	μόνον	μόνος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	8	amod	_	verse=1:23
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=1:23
+3	ἀκούοντες	ἀκούω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	verse=1:23
+4	ἦσαν	εἰμί	VERB	V3piia----	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=1:23
+5	ὅτι	ὅτι	CCONJ	C---------	_	6	cc	_	verse=1:23
+6	Ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	8	det	_	verse=1:23
+7	διώκων	διώκω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	verse=1:23
+8	ἡμᾶς	ἐγώ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	7	obj	_	verse=1:23
+9	ποτε	ποτέ	ADV	D---------	_	7	advmod	_	verse=1:23
+10	νῦν	νῦν	ADV	D---------	_	11	advmod	_	verse=1:23
+11	εὐαγγελίζεται	εὐαγγελίζω	VERB	V3spim----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	verse=1:23
+12	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	13	det	_	verse=1:23
+13	πίστιν	πίστις	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	verse=1:23
+14	ἥν	ὅς	PRON	P-s---fa--	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	16	obj	_	verse=1:23
+15	ποτε	ποτέ	ADV	D---------	_	16	advmod	_	verse=1:23
+16	ἐπόρθει,	πορθέω	VERB	V3siia----	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	conj	_	verse=1:23
+
+# sent_id = Gal.1.24
+# text = καὶ ἐδόξαζον ἐν ἐμοὶ τὸν θεόν.
+1	καὶ	καί	CCONJ	C---------	_	2	cc	_	verse=1:24
+2	ἐδόξαζον	δοξάζω	VERB	V3piia----	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=1:24
+3	ἐν	ἐν	ADP	R---------	_	4	case	_	verse=1:24
+4	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	2	obl	_	verse=1:24
+5	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	det	_	verse=1:24
+6	θεόν.	θεός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	verse=1:24
+
+# sent_id = Gal.2.1
+# text = Ἔπειτα διὰ δεκατεσσάρων ἐτῶν πάλιν ἀνέβην εἰς Ἱεροσόλυμα μετὰ Βαρναβᾶ συμπαραλαβὼν καὶ Τίτον·
+1	Ἔπειτα	ἔπειτα	ADV	D---------	_	6	advmod	_	verse=2:1
+2	διὰ	διά	ADP	R---------	_	3	case	_	verse=2:1
+3	δεκατεσσάρων	δεκατέσσαρες	ADJ	A-p---ng--	Case=Gen|Gender=Neut|Number=Plur	4	amod	_	verse=2:1
+4	ἐτῶν	ἔτος	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	verse=2:1
+5	πάλιν	πάλιν	ADV	D---------	_	6	advmod	_	verse=2:1
+6	ἀνέβην	ἀναβαίνω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:1
+7	εἰς	εἰς	ADP	R---------	_	8	case	_	verse=2:1
+8	Ἱεροσόλυμα	Ἱεροσόλυμα	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	verse=2:1
+9	μετὰ	μετά	ADP	R---------	_	10	case	_	verse=2:1
+10	Βαρναβᾶ	Βαρναβᾶς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	verse=2:1
+11	συμπαραλαβὼν	συμπαραλαμβάνω	VERB	V-sapamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	verse=2:1
+12	καὶ	καί	ADV	D---------	_	11	advmod	_	verse=2:1
+13	Τίτον·	Τίτος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	verse=2:1
+
+# sent_id = Gal.2.2
+# text = ἀνέβην δὲ κατὰ ἀποκάλυψιν· καὶ ἀνεθέμην αὐτοῖς τὸ εὐαγγέλιον ὃ κηρύσσω ἐν τοῖς ἔθνεσιν, κατ’ ἰδίαν δὲ τοῖς δοκοῦσιν, μή πως εἰς κενὸν τρέχω ἢ ἔδραμον.
+1	ἀνέβην	ἀναβαίνω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:2
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=2:2
+3	κατὰ	κατά	ADP	R---------	_	4	case	_	verse=2:2
+4	ἀποκάλυψιν·	ἀποκάλυψις	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	verse=2:2
+5	καὶ	καί	CCONJ	C---------	_	6	cc	_	verse=2:2
+6	ἀνεθέμην	ἀνατίθεμαι	VERB	V1saim----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	verse=2:2
+7	αὐτοῖς	αὐτός	PRON	P-p---md--	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	6	obl	_	verse=2:2
+8	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	9	det	_	verse=2:2
+9	εὐαγγέλιον	εὐαγγέλιον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	verse=2:2
+10	ὃ	ὅς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	11	obj	_	verse=2:2
+11	κηρύσσω	κηρύσσω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=2:2
+12	ἐν	ἐν	ADP	R---------	_	14	case	_	verse=2:2
+13	τοῖς	ὁ	DET	S-p---nd--	Case=Dat|Gender=Neut|Number=Plur	14	det	_	verse=2:2
+14	ἔθνεσιν,	ἔθνος	NOUN	N-p---nd--	Case=Dat|Gender=Neut|Number=Plur	11	obl	_	verse=2:2
+15	κατ’	κατά	ADP	R---------	_	16	case	_	verse=2:2
+16	ἰδίαν	ἴδιος	ADJ	A-s---fa--	Case=Acc|Gender=Fem|Number=Sing	14	amod	_	verse=2:2
+17	δὲ	δέ	CCONJ	C---------	_	18	cc	_	verse=2:2
+18	τοῖς	ὁ	DET	S-p---md--	Case=Dat|Gender=Masc|Number=Plur	23	det	_	verse=2:2
+19	δοκοῦσιν,	δοκέω	VERB	V-pppamd--	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	verse=2:2
+20	μή	μή	CCONJ	C---------	_	21	cc	_	verse=2:2
+21	πως	πώς	ADV	D---------	_	19	advmod	_	verse=2:2
+22	εἰς	εἰς	ADP	R---------	_	23	case	_	verse=2:2
+23	κενὸν	κενός	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	16	amod	_	verse=2:2
+24	τρέχω	τρέχω	VERB	V1spsa----	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=2:2
+25	ἢ	ἤ	CCONJ	C---------	_	26	cc	_	verse=2:2
+26	ἔδραμον.	τρέχω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	verse=2:2
+
+# sent_id = Gal.2.3
+# text = ἀλλ’ οὐδὲ Τίτος ὁ σὺν ἐμοί, Ἕλλην ὤν, ἠναγκάσθη περιτμηθῆναι·
+1	ἀλλ’	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=2:3
+2	οὐδὲ	οὐδέ	ADV	D---------	_	8	advmod	_	verse=2:3
+3	Τίτος	Τίτος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	verse=2:3
+4	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	det	_	verse=2:3
+5	σὺν	σύν	ADP	R---------	_	6	case	_	verse=2:3
+6	ἐμοί,	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	8	obl	_	verse=2:3
+7	Ἕλλην	Ἕλλην	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	verse=2:3
+8	ὤν,	εἰμί	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	verse=2:3
+9	ἠναγκάσθη	ἀναγκάζω	VERB	V3saip----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=2:3
+10	περιτμηθῆναι·	περιτέμνω	VERB	V--anp----	Tense=Past|VerbForm=Inf|Voice=Pass	9	xcomp	_	verse=2:3
+
+# sent_id = Gal.2.4
+# text = διὰ δὲ τοὺς παρεισάκτους ψευδαδέλφους, οἵτινες παρεισῆλθον κατασκοπῆσαι τὴν ἐλευθερίαν ἡμῶν ἣν ἔχομεν ἐν Χριστῷ Ἰησοῦ, ἵνα ἡμᾶς ⸀καταδουλώσουσιν—
+1	διὰ	διά	ADP	R---------	_	4	case	_	verse=2:4
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=2:4
+3	τοὺς	ὁ	DET	S-p---ma--	Case=Acc|Gender=Masc|Number=Plur	4	det	_	verse=2:4
+4	παρεισάκτους	παρείσακτος	ADJ	A-p---ma--	Case=Acc|Gender=Masc|Number=Plur	5	amod	_	verse=2:4
+5	ψευδαδέλφους,	ψευδάδελφος	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	verse=2:4
+6	οἵτινες	ὅστις	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	7	nsubj	_	verse=2:4
+7	παρεισῆλθον	παρεισέρχομαι	VERB	V3paia----	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:4
+8	κατασκοπῆσαι	κατασκοπέω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	7	xcomp	_	verse=2:4
+9	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	10	det	_	verse=2:4
+10	ἐλευθερίαν	ἐλευθερία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	verse=2:4
+11	ἡμῶν	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	13	obl	_	verse=2:4
+12	ἣν	ὅς	PRON	P-s---fa--	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	13	obj	_	verse=2:4
+13	ἔχομεν	ἔχω	VERB	V1ppia----	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	verse=2:4
+14	ἐν	ἐν	ADP	R---------	_	15	case	_	verse=2:4
+15	Χριστῷ	Χριστός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	verse=2:4
+16	Ἰησοῦ,	Ἰησοῦς	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	verse=2:4
+17	ἵνα	ἵνα	CCONJ	C---------	_	18	cc	_	verse=2:4
+18	ἡμᾶς	ἐγώ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	19	obj	_	verse=2:4
+19	⸀καταδουλώσουσιν—	καταδουλόω	VERB	V3pfia----	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	conj	_	verse=2:4
+
+# sent_id = Gal.2.5
+# text = οἷς οὐδὲ πρὸς ὥραν εἴξαμεν τῇ ὑποταγῇ, ἵνα ἡ ἀλήθεια τοῦ εὐαγγελίου διαμείνῃ πρὸς ὑμᾶς.
+1	οἷς	ὅς	PRON	P-p---md--	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	5	obl	_	verse=2:5
+2	οὐδὲ	οὐδέ	ADV	D---------	_	5	advmod	_	verse=2:5
+3	πρὸς	πρός	ADP	R---------	_	4	case	_	verse=2:5
+4	ὥραν	ὥρα	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	verse=2:5
+5	εἴξαμεν	εἴκω	VERB	V1paia----	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:5
+6	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	7	det	_	verse=2:5
+7	ὑποταγῇ,	ὑποταγή	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	verse=2:5
+8	ἵνα	ἵνα	CCONJ	C---------	_	9	cc	_	verse=2:5
+9	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	10	det	_	verse=2:5
+10	ἀλήθεια	ἀλήθεια	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	verse=2:5
+11	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	12	det	_	verse=2:5
+12	εὐαγγελίου	εὐαγγέλιον	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	verse=2:5
+13	διαμείνῃ	διαμένω	VERB	V3sasa----	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	verse=2:5
+14	πρὸς	πρός	ADP	R---------	_	15	case	_	verse=2:5
+15	ὑμᾶς.	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	13	obj	_	verse=2:5
+
+# sent_id = Gal.2.6
+# text = ἀπὸ δὲ τῶν δοκούντων εἶναί τι— ὁποῖοί ποτε ἦσαν οὐδέν μοι διαφέρει· πρόσωπον ⸀θεὸς ἀνθρώπου οὐ λαμβάνει— ἐμοὶ γὰρ οἱ δοκοῦντες οὐδὲν προσανέθεντο,
+1	ἀπὸ	ἀπό	ADP	R---------	_	6	case	_	verse=2:6
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=2:6
+3	τῶν	ὁ	DET	S-p---mg--	Case=Gen|Gender=Masc|Number=Plur	6	det	_	verse=2:6
+4	δοκούντων	δοκέω	VERB	V-pppamg--	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	verse=2:6
+5	εἶναί	εἰμί	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	verse=2:6
+6	τι—	τις	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	verse=2:6
+7	ὁποῖοί	ὁποῖος	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Int	9	nsubj	_	verse=2:6
+8	ποτε	ποτέ	ADV	D---------	_	9	advmod	_	verse=2:6
+9	ἦσαν	εἰμί	VERB	V3piia----	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=2:6
+10	οὐδέν	οὐδείς	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	verse=2:6
+11	μοι	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	12	obl	_	verse=2:6
+12	διαφέρει·	διαφέρω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	verse=2:6
+13	πρόσωπον	πρόσωπον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	verse=2:6
+14	⸀θεὸς	θεός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	verse=2:6
+15	ἀνθρώπου	ἄνθρωπος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	verse=2:6
+16	οὐ	οὐ	ADV	D---------	_	17	advmod	_	verse=2:6
+17	λαμβάνει—	λαμβάνω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	verse=2:6
+18	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	17	obl	_	verse=2:6
+19	γὰρ	γάρ	CCONJ	C---------	_	20	cc	_	verse=2:6
+20	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	22	det	_	verse=2:6
+21	δοκοῦντες	δοκέω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	verse=2:6
+22	οὐδὲν	οὐδείς	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	18	amod	_	verse=2:6
+23	προσανέθεντο,	προσανατίθημι	VERB	V3paim----	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	verse=2:6
+
+# sent_id = Gal.2.7
+# text = ἀλλὰ τοὐναντίον ἰδόντες ὅτι πεπίστευμαι τὸ εὐαγγέλιον τῆς ἀκροβυστίας καθὼς Πέτρος τῆς περιτομῆς,
+1	ἀλλὰ	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=2:7
+2	τοὐναντίον	τοὐναντίον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	verse=2:7
+3	ἰδόντες	ὁράω	VERB	V-papamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	verse=2:7
+4	ὅτι	ὅτι	CCONJ	C---------	_	5	cc	_	verse=2:7
+5	πεπίστευμαι	πιστεύω	VERB	V1srip----	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Pass	0	root	_	verse=2:7
+6	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	7	det	_	verse=2:7
+7	εὐαγγέλιον	εὐαγγέλιον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	verse=2:7
+8	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	det	_	verse=2:7
+9	ἀκροβυστίας	ἀκροβυστία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	verse=2:7
+10	καθὼς	καθώς	CCONJ	C---------	_	11	cc	_	verse=2:7
+11	Πέτρος	Πέτρος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	verse=2:7
+12	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	13	det	_	verse=2:7
+13	περιτομῆς,	περιτομή	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	verse=2:7
+
+# sent_id = Gal.2.8
+# text = ὁ γὰρ ἐνεργήσας Πέτρῳ εἰς ἀποστολὴν τῆς περιτομῆς ἐνήργησεν καὶ ἐμοὶ εἰς τὰ ἔθνη,
+1	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	det	_	verse=2:8
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=2:8
+3	ἐνεργήσας	ἐνεργέω	VERB	V-sapamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	verse=2:8
+4	Πέτρῳ	Πέτρος	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	verse=2:8
+5	εἰς	εἰς	ADP	R---------	_	6	case	_	verse=2:8
+6	ἀποστολὴν	ἀποστολή	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	verse=2:8
+7	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	8	det	_	verse=2:8
+8	περιτομῆς	περιτομή	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	verse=2:8
+9	ἐνήργησεν	ἐνεργέω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:8
+10	καὶ	καί	ADV	D---------	_	9	advmod	_	verse=2:8
+11	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	9	obl	_	verse=2:8
+12	εἰς	εἰς	ADP	R---------	_	14	case	_	verse=2:8
+13	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	14	det	_	verse=2:8
+14	ἔθνη,	ἔθνος	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	verse=2:8
+
+# sent_id = Gal.2.9
+# text = καὶ γνόντες τὴν χάριν τὴν δοθεῖσάν μοι, Ἰάκωβος καὶ Κηφᾶς καὶ Ἰωάννης, οἱ δοκοῦντες στῦλοι εἶναι, δεξιὰς ἔδωκαν ἐμοὶ καὶ Βαρναβᾷ κοινωνίας, ἵνα ⸀ἡμεῖς εἰς τὰ ἔθνη, αὐτοὶ δὲ εἰς τὴν περιτομήν·
+1	καὶ	καί	CCONJ	C---------	_	2	cc	_	verse=2:9
+2	γνόντες	γινώσκω	VERB	V-papamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	verse=2:9
+3	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	4	det	_	verse=2:9
+4	χάριν	χάρις	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	verse=2:9
+5	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	7	det	_	verse=2:9
+6	δοθεῖσάν	δίδωμι	VERB	V-sappfa--	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	advcl	_	verse=2:9
+7	μοι,	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	6	obl	_	verse=2:9
+8	Ἰάκωβος	Ἰάκωβος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	verse=2:9
+9	καὶ	καί	CCONJ	C---------	_	10	cc	_	verse=2:9
+10	Κηφᾶς	Κηφᾶς	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	verse=2:9
+11	καὶ	καί	CCONJ	C---------	_	12	cc	_	verse=2:9
+12	Ἰωάννης,	Ἰωάννης	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	verse=2:9
+13	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	15	det	_	verse=2:9
+14	δοκοῦντες	δοκέω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	advcl	_	verse=2:9
+15	στῦλοι	στῦλος	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	verse=2:9
+16	εἶναι,	εἰμί	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	18	xcomp	_	verse=2:9
+17	δεξιὰς	δεξιός	ADJ	A-p---fa--	Case=Acc|Gender=Fem|Number=Plur	19	amod	_	verse=2:9
+18	ἔδωκαν	δίδωμι	VERB	V3paia----	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:9
+19	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	18	obl	_	verse=2:9
+20	καὶ	καί	CCONJ	C---------	_	21	cc	_	verse=2:9
+21	Βαρναβᾷ	Βαρναβᾶς	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	verse=2:9
+22	κοινωνίας,	κοινωνία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	verse=2:9
+23	ἵνα	ἵνα	CCONJ	C---------	_	24	cc	_	verse=2:9
+24	⸀ἡμεῖς	ἐγώ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	18	nsubj	_	verse=2:9
+25	εἰς	εἰς	ADP	R---------	_	27	case	_	verse=2:9
+26	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	27	det	_	verse=2:9
+27	ἔθνη,	ἔθνος	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	18	obj	_	verse=2:9
+28	αὐτοὶ	αὐτός	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	18	nsubj	_	verse=2:9
+29	δὲ	δέ	CCONJ	C---------	_	30	cc	_	verse=2:9
+30	εἰς	εἰς	ADP	R---------	_	32	case	_	verse=2:9
+31	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	32	det	_	verse=2:9
+32	περιτομήν·	περιτομή	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	verse=2:9
+
+# sent_id = Gal.2.10
+# text = μόνον τῶν πτωχῶν ἵνα μνημονεύωμεν, ὃ καὶ ἐσπούδασα αὐτὸ τοῦτο ποιῆσαι.
+1	μόνον	μόνος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	verse=2:10
+2	τῶν	ὁ	DET	S-p---mg--	Case=Gen|Gender=Masc|Number=Plur	3	det	_	verse=2:10
+3	πτωχῶν	πτωχός	ADJ	A-p---mg--	Case=Gen|Gender=Masc|Number=Plur	6	amod	_	verse=2:10
+4	ἵνα	ἵνα	CCONJ	C---------	_	5	cc	_	verse=2:10
+5	μνημονεύωμεν,	μνημονεύω	VERB	V1ppsa----	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	verse=2:10
+6	ὃ	ὅς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	verse=2:10
+7	καὶ	καί	ADV	D---------	_	8	advmod	_	verse=2:10
+8	ἐσπούδασα	σπουδάζω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:10
+9	αὐτὸ	αὐτός	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	verse=2:10
+10	τοῦτο	οὗτος	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	verse=2:10
+11	ποιῆσαι.	ποιέω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	8	xcomp	_	verse=2:10
+
+# sent_id = Gal.2.11
+# text = Ὅτε δὲ ἦλθεν ⸀Κηφᾶς εἰς Ἀντιόχειαν, κατὰ πρόσωπον αὐτῷ ἀντέστην, ὅτι κατεγνωσμένος ἦν·
+1	Ὅτε	ὅτε	CCONJ	C---------	_	2	cc	_	verse=2:11
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=2:11
+3	ἦλθεν	ἔρχομαι	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:11
+4	⸀Κηφᾶς	Κηφᾶς	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=2:11
+5	εἰς	εἰς	ADP	R---------	_	6	case	_	verse=2:11
+6	Ἀντιόχειαν,	Ἀντιόχεια	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	verse=2:11
+7	κατὰ	κατά	ADP	R---------	_	8	case	_	verse=2:11
+8	πρόσωπον	πρόσωπον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	verse=2:11
+9	αὐτῷ	αὐτός	PRON	P-s---md--	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	10	obl	_	verse=2:11
+10	ἀντέστην,	ἀνθίστημι	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	verse=2:11
+11	ὅτι	ὅτι	CCONJ	C---------	_	12	cc	_	verse=2:11
+12	κατεγνωσμένος	καταγινώσκω	VERB	V-srppmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Perf|VerbForm=Part|Voice=Pass	3	advcl	_	verse=2:11
+13	ἦν·	εἰμί	VERB	V3siia----	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	3	conj	_	verse=2:11
+
+# sent_id = Gal.2.12
+# text = πρὸ τοῦ γὰρ ἐλθεῖν τινας ἀπὸ Ἰακώβου μετὰ τῶν ἐθνῶν συνήσθιεν· ὅτε δὲ ⸀ἦλθον, ὑπέστελλεν καὶ ἀφώριζεν ἑαυτόν, φοβούμενος τοὺς ἐκ περιτομῆς.
+1	πρὸ	πρό	ADP	R---------	_	5	case	_	verse=2:12
+2	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	5	det	_	verse=2:12
+3	γὰρ	γάρ	CCONJ	C---------	_	4	cc	_	verse=2:12
+4	ἐλθεῖν	ἔρχομαι	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	11	xcomp	_	verse=2:12
+5	τινας	τις	PRON	P-p---ma--	Case=Acc|Gender=Masc|Number=Plur|PronType=Int	4	obj	_	verse=2:12
+6	ἀπὸ	ἀπό	ADP	R---------	_	7	case	_	verse=2:12
+7	Ἰακώβου	Ἰάκωβος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	verse=2:12
+8	μετὰ	μετά	ADP	R---------	_	10	case	_	verse=2:12
+9	τῶν	ὁ	DET	S-p---ng--	Case=Gen|Gender=Neut|Number=Plur	10	det	_	verse=2:12
+10	ἐθνῶν	ἔθνος	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	verse=2:12
+11	συνήσθιεν·	συνεσθίω	VERB	V3siia----	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=2:12
+12	ὅτε	ὅτε	CCONJ	C---------	_	13	cc	_	verse=2:12
+13	δὲ	δέ	CCONJ	C---------	_	14	cc	_	verse=2:12
+14	⸀ἦλθον,	ἔρχομαι	VERB	V3paia----	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	verse=2:12
+15	ὑπέστελλεν	ὑποστέλλω	VERB	V3siia----	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	11	conj	_	verse=2:12
+16	καὶ	καί	CCONJ	C---------	_	17	cc	_	verse=2:12
+17	ἀφώριζεν	ἀφορίζω	VERB	V3siia----	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	11	conj	_	verse=2:12
+18	ἑαυτόν,	ἑαυτοῦ	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	17	obj	_	verse=2:12
+19	φοβούμενος	φοβέομαι	VERB	V-sppmmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	11	advcl	_	verse=2:12
+20	τοὺς	ὁ	DET	S-p---ma--	Case=Acc|Gender=Masc|Number=Plur	22	det	_	verse=2:12
+21	ἐκ	ἐκ	ADP	R---------	_	22	case	_	verse=2:12
+22	περιτομῆς.	περιτομή	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	verse=2:12
+
+# sent_id = Gal.2.13
+# text = καὶ συνυπεκρίθησαν αὐτῷ ⸀καὶ οἱ λοιποὶ Ἰουδαῖοι, ὥστε καὶ Βαρναβᾶς συναπήχθη αὐτῶν τῇ ὑποκρίσει.
+1	καὶ	καί	CCONJ	C---------	_	2	cc	_	verse=2:13
+2	συνυπεκρίθησαν	συνυποκρίνομαι	VERB	V3paip----	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=2:13
+3	αὐτῷ	αὐτός	PRON	P-s---md--	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	2	obl	_	verse=2:13
+4	⸀καὶ	καί	ADV	D---------	_	2	advmod	_	verse=2:13
+5	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	6	det	_	verse=2:13
+6	λοιποὶ	λοιπός	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	7	amod	_	verse=2:13
+7	Ἰουδαῖοι,	Ἰουδαῖος	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	10	amod	_	verse=2:13
+8	ὥστε	ὥστε	CCONJ	C---------	_	9	cc	_	verse=2:13
+9	καὶ	καί	ADV	D---------	_	11	advmod	_	verse=2:13
+10	Βαρναβᾶς	Βαρναβᾶς	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	verse=2:13
+11	συναπήχθη	συναπάγω	VERB	V3saip----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	verse=2:13
+12	αὐτῶν	αὐτός	PRON	P-p---mg--	Case=Gen|Gender=Masc|Number=Plur|PronType=Prs	11	obl	_	verse=2:13
+13	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	14	det	_	verse=2:13
+14	ὑποκρίσει.	ὑπόκρισις	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	11	obl	_	verse=2:13
+
+# sent_id = Gal.2.14
+# text = ἀλλ’ ὅτε εἶδον ὅτι οὐκ ὀρθοποδοῦσιν πρὸς τὴν ἀλήθειαν τοῦ εὐαγγελίου, εἶπον τῷ ⸀Κηφᾷ ἔμπροσθεν πάντων· Εἰ σὺ Ἰουδαῖος ὑπάρχων ἐθνικῶς ⸂καὶ ⸀οὐκ Ἰουδαϊκῶς ζῇς⸃, ⸀πῶς τὰ ἔθνη ἀναγκάζεις Ἰουδαΐζειν;
+1	ἀλλ’	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=2:14
+2	ὅτε	ὅτε	CCONJ	C---------	_	3	cc	_	verse=2:14
+3	εἶδον	ὁράω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:14
+4	ὅτι	ὅτι	CCONJ	C---------	_	5	cc	_	verse=2:14
+5	οὐκ	οὐ	ADV	D---------	_	6	advmod	_	verse=2:14
+6	ὀρθοποδοῦσιν	ὀρθοποδέω	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	verse=2:14
+7	πρὸς	πρός	ADP	R---------	_	9	case	_	verse=2:14
+8	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	9	det	_	verse=2:14
+9	ἀλήθειαν	ἀλήθεια	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	verse=2:14
+10	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	11	det	_	verse=2:14
+11	εὐαγγελίου,	εὐαγγέλιον	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	verse=2:14
+12	εἶπον	λέγω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	verse=2:14
+13	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	14	det	_	verse=2:14
+14	⸀Κηφᾷ	Κηφᾶς	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	verse=2:14
+15	ἔμπροσθεν	ἔμπροσθεν	ADP	R---------	_	16	case	_	verse=2:14
+16	πάντων·	πᾶς	ADJ	A-p---mg--	Case=Gen|Gender=Masc|Number=Plur	18	amod	_	verse=2:14
+17	Εἰ	εἰ	CCONJ	C---------	_	18	cc	_	verse=2:14
+18	σὺ	σύ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	3	nsubj	_	verse=2:14
+19	Ἰουδαῖος	Ἰουδαῖος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	14	amod	_	verse=2:14
+20	ὑπάρχων	ὑπάρχω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	verse=2:14
+21	ἐθνικῶς	ἐθνικῶς	ADV	D---------	_	20	advmod	_	verse=2:14
+22	⸂καὶ	καί	CCONJ	C---------	_	23	cc	_	verse=2:14
+23	⸀οὐκ	οὐ	ADV	D---------	_	25	advmod	_	verse=2:14
+24	Ἰουδαϊκῶς	Ἰουδαϊκῶς	ADV	D---------	_	25	advmod	_	verse=2:14
+25	ζῇς⸃,	ζάω	VERB	V2spia----	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	verse=2:14
+26	⸀πῶς	πῶς	ADV	D---------	_	25	advmod	_	verse=2:14
+27	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	28	det	_	verse=2:14
+28	ἔθνη	ἔθνος	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	29	obj	_	verse=2:14
+29	ἀναγκάζεις	ἀναγκάζω	VERB	V2spia----	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	verse=2:14
+30	Ἰουδαΐζειν;	ἰουδαΐζω	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	29	xcomp	_	verse=2:14
+
+# sent_id = Gal.2.15
+# text = Ἡμεῖς φύσει Ἰουδαῖοι καὶ οὐκ ἐξ ἐθνῶν ἁμαρτωλοί,
+1	Ἡμεῖς	ἐγώ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	0	root	_	verse=2:15
+2	φύσει	φύσις	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	verse=2:15
+3	Ἰουδαῖοι	Ἰουδαῖος	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	verse=2:15
+4	καὶ	καί	CCONJ	C---------	_	5	cc	_	verse=2:15
+5	οὐκ	οὐ	ADV	D---------	_	1	advmod	_	verse=2:15
+6	ἐξ	ἐκ	ADP	R---------	_	7	case	_	verse=2:15
+7	ἐθνῶν	ἔθνος	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	verse=2:15
+8	ἁμαρτωλοί,	ἁμαρτωλός	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	7	amod	_	verse=2:15
+
+# sent_id = Gal.2.16
+# text = εἰδότες ⸀δὲ ὅτι οὐ δικαιοῦται ἄνθρωπος ἐξ ἔργων νόμου ἐὰν μὴ διὰ πίστεως ⸂Ἰησοῦ Χριστοῦ⸃, καὶ ἡμεῖς εἰς Χριστὸν Ἰησοῦν ἐπιστεύσαμεν, ἵνα δικαιωθῶμεν ἐκ πίστεως Χριστοῦ καὶ οὐκ ἐξ ἔργων νόμου, ⸂ὅτι ἐξ ἔργων νόμου οὐ δικαιωθήσεται⸃ πᾶσα σάρξ.
+1	εἰδότες	οἶδα	VERB	V-prpamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Perf|VerbForm=Part|Voice=Act	5	advcl	_	verse=2:16
+2	⸀δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=2:16
+3	ὅτι	ὅτι	CCONJ	C---------	_	4	cc	_	verse=2:16
+4	οὐ	οὐ	ADV	D---------	_	5	advmod	_	verse=2:16
+5	δικαιοῦται	δικαιόω	VERB	V3spip----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	verse=2:16
+6	ἄνθρωπος	ἄνθρωπος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	verse=2:16
+7	ἐξ	ἐκ	ADP	R---------	_	8	case	_	verse=2:16
+8	ἔργων	ἔργον	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	verse=2:16
+9	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	verse=2:16
+10	ἐὰν	ἐάν	CCONJ	C---------	_	11	cc	_	verse=2:16
+11	μὴ	μή	ADV	D---------	_	5	advmod	_	verse=2:16
+12	διὰ	διά	ADP	R---------	_	13	case	_	verse=2:16
+13	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	verse=2:16
+14	⸂Ἰησοῦ	Ἰησοῦς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	verse=2:16
+15	Χριστοῦ⸃,	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	verse=2:16
+16	καὶ	καί	ADV	D---------	_	21	advmod	_	verse=2:16
+17	ἡμεῖς	ἐγώ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	5	nsubj	_	verse=2:16
+18	εἰς	εἰς	ADP	R---------	_	19	case	_	verse=2:16
+19	Χριστὸν	Χριστός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	21	obj	_	verse=2:16
+20	Ἰησοῦν	Ἰησοῦς	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	21	obj	_	verse=2:16
+21	ἐπιστεύσαμεν,	πιστεύω	VERB	V1paia----	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	verse=2:16
+22	ἵνα	ἵνα	CCONJ	C---------	_	23	cc	_	verse=2:16
+23	δικαιωθῶμεν	δικαιόω	VERB	V1pasp----	Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	5	conj	_	verse=2:16
+24	ἐκ	ἐκ	ADP	R---------	_	25	case	_	verse=2:16
+25	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	verse=2:16
+26	Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	verse=2:16
+27	καὶ	καί	CCONJ	C---------	_	28	cc	_	verse=2:16
+28	οὐκ	οὐ	ADV	D---------	_	23	advmod	_	verse=2:16
+29	ἐξ	ἐκ	ADP	R---------	_	30	case	_	verse=2:16
+30	ἔργων	ἔργον	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	verse=2:16
+31	νόμου,	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	verse=2:16
+32	⸂ὅτι	ὅτι	CCONJ	C---------	_	33	cc	_	verse=2:16
+33	ἐξ	ἐκ	ADP	R---------	_	34	case	_	verse=2:16
+34	ἔργων	ἔργον	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	31	nmod	_	verse=2:16
+35	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	verse=2:16
+36	οὐ	οὐ	ADV	D---------	_	37	advmod	_	verse=2:16
+37	δικαιωθήσεται⸃	δικαιόω	VERB	V3sfip----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	5	conj	_	verse=2:16
+38	πᾶσα	πᾶς	ADJ	A-s---fn--	Case=Nom|Gender=Fem|Number=Sing	39	amod	_	verse=2:16
+39	σάρξ.	σάρξ	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	verse=2:16
+
+# sent_id = Gal.2.17
+# text = εἰ δὲ ζητοῦντες δικαιωθῆναι ἐν Χριστῷ εὑρέθημεν καὶ αὐτοὶ ἁμαρτωλοί, ἆρα Χριστὸς ἁμαρτίας διάκονος; μὴ γένοιτο·
+1	εἰ	εἰ	CCONJ	C---------	_	2	cc	_	verse=2:17
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=2:17
+3	ζητοῦντες	ζητέω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	verse=2:17
+4	δικαιωθῆναι	δικαιόω	VERB	V--anp----	Tense=Past|VerbForm=Inf|Voice=Pass	3	xcomp	_	verse=2:17
+5	ἐν	ἐν	ADP	R---------	_	6	case	_	verse=2:17
+6	Χριστῷ	Χριστός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	verse=2:17
+7	εὑρέθημεν	εὑρίσκω	VERB	V1paip----	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=2:17
+8	καὶ	καί	ADV	D---------	_	7	advmod	_	verse=2:17
+9	αὐτοὶ	αὐτός	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	7	nsubj	_	verse=2:17
+10	ἁμαρτωλοί,	ἁμαρτωλός	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	12	amod	_	verse=2:17
+11	ἆρα	ἆρα	CCONJ	C---------	_	12	cc	_	verse=2:17
+12	Χριστὸς	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	verse=2:17
+13	ἁμαρτίας	ἁμαρτία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	verse=2:17
+14	διάκονος;	διάκονος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	verse=2:17
+15	μὴ	μή	ADV	D---------	_	16	advmod	_	verse=2:17
+16	γένοιτο·	γίνομαι	VERB	V3saom----	Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	verse=2:17
+
+# sent_id = Gal.2.18
+# text = εἰ γὰρ ἃ κατέλυσα ταῦτα πάλιν οἰκοδομῶ, παραβάτην ἐμαυτὸν ⸀συνιστάνω.
+1	εἰ	εἰ	CCONJ	C---------	_	2	cc	_	verse=2:18
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=2:18
+3	ἃ	ὅς	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	4	obj	_	verse=2:18
+4	κατέλυσα	καταλύω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:18
+5	ταῦτα	οὗτος	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	4	obj	_	verse=2:18
+6	πάλιν	πάλιν	ADV	D---------	_	7	advmod	_	verse=2:18
+7	οἰκοδομῶ,	οἰκοδομέω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=2:18
+8	παραβάτην	παραβάτης	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	verse=2:18
+9	ἐμαυτὸν	ἐμαυτοῦ	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	10	obj	_	verse=2:18
+10	⸀συνιστάνω.	συνιστάνω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=2:18
+
+# sent_id = Gal.2.19
+# text = ἐγὼ γὰρ διὰ νόμου νόμῳ ἀπέθανον ἵνα θεῷ ζήσω· Χριστῷ συνεσταύρωμαι·
+1	ἐγὼ	ἐγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	6	nsubj	_	verse=2:19
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=2:19
+3	διὰ	διά	ADP	R---------	_	4	case	_	verse=2:19
+4	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=2:19
+5	νόμῳ	νόμος	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	verse=2:19
+6	ἀπέθανον	ἀποθνῄσκω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=2:19
+7	ἵνα	ἵνα	CCONJ	C---------	_	8	cc	_	verse=2:19
+8	θεῷ	θεός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	verse=2:19
+9	ζήσω·	ζάω	VERB	V1sasa----	Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	verse=2:19
+10	Χριστῷ	Χριστός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	verse=2:19
+11	συνεσταύρωμαι·	συσταυρόομαι	VERB	V1srip----	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Pass	6	conj	_	verse=2:19
+
+# sent_id = Gal.2.20
+# text = ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός· ὃ δὲ νῦν ζῶ ἐν σαρκί, ἐν πίστει ζῶ τῇ τοῦ ⸂υἱοῦ τοῦ θεοῦ⸃ τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ.
+1	ζῶ	ζάω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=2:20
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=2:20
+3	οὐκέτι	οὐκέτι	ADV	D---------	_	1	advmod	_	verse=2:20
+4	ἐγώ,	ἐγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	1	nsubj	_	verse=2:20
+5	ζῇ	ζάω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=2:20
+6	δὲ	δέ	CCONJ	C---------	_	7	cc	_	verse=2:20
+7	ἐν	ἐν	ADP	R---------	_	8	case	_	verse=2:20
+8	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	5	obl	_	verse=2:20
+9	Χριστός·	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	verse=2:20
+10	ὃ	ὅς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obj	_	verse=2:20
+11	δὲ	δέ	CCONJ	C---------	_	12	cc	_	verse=2:20
+12	νῦν	νῦν	ADV	D---------	_	13	advmod	_	verse=2:20
+13	ζῶ	ζάω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=2:20
+14	ἐν	ἐν	ADP	R---------	_	15	case	_	verse=2:20
+15	σαρκί,	σάρξ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	verse=2:20
+16	ἐν	ἐν	ADP	R---------	_	17	case	_	verse=2:20
+17	πίστει	πίστις	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	18	obl	_	verse=2:20
+18	ζῶ	ζάω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=2:20
+19	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	21	det	_	verse=2:20
+20	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	21	det	_	verse=2:20
+21	⸂υἱοῦ	υἱός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	verse=2:20
+22	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	23	det	_	verse=2:20
+23	θεοῦ⸃	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	verse=2:20
+24	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	26	det	_	verse=2:20
+25	ἀγαπήσαντός	ἀγαπάω	VERB	V-sapamg--	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	verse=2:20
+26	με	ἐγώ	PRON	P-s----a--	Case=Acc|Number=Sing|PronType=Prs	25	obj	_	verse=2:20
+27	καὶ	καί	CCONJ	C---------	_	28	cc	_	verse=2:20
+28	παραδόντος	παραδίδωμι	VERB	V-sapamg--	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	verse=2:20
+29	ἑαυτὸν	ἑαυτοῦ	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	28	obj	_	verse=2:20
+30	ὑπὲρ	ὑπέρ	ADP	R---------	_	31	case	_	verse=2:20
+31	ἐμοῦ.	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	28	obl	_	verse=2:20
+
+# sent_id = Gal.2.21
+# text = οὐκ ἀθετῶ τὴν χάριν τοῦ θεοῦ· εἰ γὰρ διὰ νόμου δικαιοσύνη, ἄρα Χριστὸς δωρεὰν ἀπέθανεν.
+1	οὐκ	οὐ	ADV	D---------	_	2	advmod	_	verse=2:21
+2	ἀθετῶ	ἀθετέω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=2:21
+3	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	4	det	_	verse=2:21
+4	χάριν	χάρις	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	verse=2:21
+5	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	det	_	verse=2:21
+6	θεοῦ·	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	verse=2:21
+7	εἰ	εἰ	CCONJ	C---------	_	8	cc	_	verse=2:21
+8	γὰρ	γάρ	CCONJ	C---------	_	9	cc	_	verse=2:21
+9	διὰ	διά	ADP	R---------	_	10	case	_	verse=2:21
+10	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=2:21
+11	δικαιοσύνη,	δικαιοσύνη	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	verse=2:21
+12	ἄρα	ἄρα	CCONJ	C---------	_	13	cc	_	verse=2:21
+13	Χριστὸς	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	verse=2:21
+14	δωρεὰν	δωρεάν	ADV	D---------	_	15	advmod	_	verse=2:21
+15	ἀπέθανεν.	ἀποθνῄσκω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	verse=2:21
+
+# sent_id = Gal.3.1
+# text = Ὦ ἀνόητοι Γαλάται, τίς ὑμᾶς ⸀ἐβάσκανεν, οἷς κατ’ ὀφθαλμοὺς Ἰησοῦς Χριστὸς ⸀προεγράφη ἐσταυρωμένος;
+1	Ὦ	ὦ	PART	G---------	_	6	discourse	_	verse=3:1
+2	ἀνόητοι	ἀνόητος	ADJ	A-p---mv--	Case=Voc|Gender=Masc|Number=Plur	3	amod	_	verse=3:1
+3	Γαλάται,	Γαλάτης	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	6	vocative	_	verse=3:1
+4	τίς	τίς	PRON	P-s---mn--	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	6	nsubj	_	verse=3:1
+5	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	6	obj	_	verse=3:1
+6	⸀ἐβάσκανεν,	βασκαίνω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=3:1
+7	οἷς	ὅς	PRON	P-p---md--	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	6	obl	_	verse=3:1
+8	κατ’	κατά	ADP	R---------	_	9	case	_	verse=3:1
+9	ὀφθαλμοὺς	ὀφθαλμός	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	verse=3:1
+10	Ἰησοῦς	Ἰησοῦς	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	verse=3:1
+11	Χριστὸς	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	verse=3:1
+12	⸀προεγράφη	προγράφω	VERB	V3saip----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	conj	_	verse=3:1
+13	ἐσταυρωμένος;	σταυρόω	VERB	V-srppmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Perf|VerbForm=Part|Voice=Pass	6	advcl	_	verse=3:1
+
+# sent_id = Gal.3.2
+# text = τοῦτο μόνον θέλω μαθεῖν ἀφ’ ὑμῶν, ἐξ ἔργων νόμου τὸ πνεῦμα ἐλάβετε ἢ ἐξ ἀκοῆς πίστεως;
+1	τοῦτο	οὗτος	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	verse=3:2
+2	μόνον	μόνος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	6	amod	_	verse=3:2
+3	θέλω	θέλω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:2
+4	μαθεῖν	μανθάνω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	3	xcomp	_	verse=3:2
+5	ἀφ’	ἀπό	ADP	R---------	_	6	case	_	verse=3:2
+6	ὑμῶν,	σύ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	4	obl	_	verse=3:2
+7	ἐξ	ἐκ	ADP	R---------	_	8	case	_	verse=3:2
+8	ἔργων	ἔργον	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	verse=3:2
+9	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	verse=3:2
+10	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	11	det	_	verse=3:2
+11	πνεῦμα	πνεῦμα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	verse=3:2
+12	ἐλάβετε	λαμβάνω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	verse=3:2
+13	ἢ	ἤ	CCONJ	C---------	_	14	cc	_	verse=3:2
+14	ἐξ	ἐκ	ADP	R---------	_	15	case	_	verse=3:2
+15	ἀκοῆς	ἀκοή	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	verse=3:2
+16	πίστεως;	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	verse=3:2
+
+# sent_id = Gal.3.3
+# text = οὕτως ἀνόητοί ἐστε; ἐναρξάμενοι πνεύματι νῦν σαρκὶ ἐπιτελεῖσθε;
+1	οὕτως	οὕτω(ς)	ADV	D---------	_	3	advmod	_	verse=3:3
+2	ἀνόητοί	ἀνόητος	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	verse=3:3
+3	ἐστε;	εἰμί	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:3
+4	ἐναρξάμενοι	ἐνάρχομαι	VERB	V-papmmn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	3	advcl	_	verse=3:3
+5	πνεύματι	πνεῦμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	verse=3:3
+6	νῦν	νῦν	ADV	D---------	_	4	advmod	_	verse=3:3
+7	σαρκὶ	σάρξ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	verse=3:3
+8	ἐπιτελεῖσθε;	ἐπιτελέω	VERB	V2ppim----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	verse=3:3
+
+# sent_id = Gal.3.4
+# text = τοσαῦτα ἐπάθετε εἰκῇ; εἴ γε καὶ εἰκῇ.
+1	τοσαῦτα	τοσοῦτος	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	2	obj	_	verse=3:4
+2	ἐπάθετε	πάσχω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=3:4
+3	εἰκῇ;	εἰκῇ	ADV	D---------	_	2	advmod	_	verse=3:4
+4	εἴ	εἰ	CCONJ	C---------	_	5	cc	_	verse=3:4
+5	γε	γέ	PART	G---------	_	2	discourse	_	verse=3:4
+6	καὶ	καί	ADV	D---------	_	2	advmod	_	verse=3:4
+7	εἰκῇ.	εἰκῇ	ADV	D---------	_	2	advmod	_	verse=3:4
+
+# sent_id = Gal.3.5
+# text = ὁ οὖν ἐπιχορηγῶν ὑμῖν τὸ πνεῦμα καὶ ἐνεργῶν δυνάμεις ἐν ὑμῖν ἐξ ἔργων νόμου ἢ ἐξ ἀκοῆς πίστεως;
+1	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	det	_	verse=3:5
+2	οὖν	οὖν	CCONJ	C---------	_	3	cc	_	verse=3:5
+3	ἐπιχορηγῶν	ἐπιχορηγέω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	verse=3:5
+4	ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	3	obl	_	verse=3:5
+5	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	6	det	_	verse=3:5
+6	πνεῦμα	πνεῦμα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	verse=3:5
+7	καὶ	καί	CCONJ	C---------	_	8	cc	_	verse=3:5
+8	ἐνεργῶν	ἐνεργέω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	verse=3:5
+9	δυνάμεις	δύναμις	NOUN	N-p---fa--	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	verse=3:5
+10	ἐν	ἐν	ADP	R---------	_	11	case	_	verse=3:5
+11	ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	8	obl	_	verse=3:5
+12	ἐξ	ἐκ	ADP	R---------	_	13	case	_	verse=3:5
+13	ἔργων	ἔργον	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	verse=3:5
+14	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	verse=3:5
+15	ἢ	ἤ	CCONJ	C---------	_	16	cc	_	verse=3:5
+16	ἐξ	ἐκ	ADP	R---------	_	17	case	_	verse=3:5
+17	ἀκοῆς	ἀκοή	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	verse=3:5
+18	πίστεως;	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	verse=3:5
+
+# sent_id = Gal.3.6
+# text = καθὼς Ἀβραὰμ ἐπίστευσεν τῷ θεῷ, καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην.
+1	καθὼς	καθώς	CCONJ	C---------	_	2	cc	_	verse=3:6
+2	Ἀβραὰμ	Ἀβραάμ	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=3:6
+3	ἐπίστευσεν	πιστεύω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=3:6
+4	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	5	det	_	verse=3:6
+5	θεῷ,	θεός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	verse=3:6
+6	καὶ	καί	CCONJ	C---------	_	7	cc	_	verse=3:6
+7	ἐλογίσθη	λογίζομαι	VERB	V3saip----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	conj	_	verse=3:6
+8	αὐτῷ	αὐτός	PRON	P-s---md--	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	7	obl	_	verse=3:6
+9	εἰς	εἰς	ADP	R---------	_	10	case	_	verse=3:6
+10	δικαιοσύνην.	δικαιοσύνη	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	verse=3:6
+
+# sent_id = Gal.3.7
+# text = Γινώσκετε ἄρα ὅτι οἱ ἐκ πίστεως, οὗτοι ⸂υἱοί εἰσιν⸃ Ἀβραάμ.
+1	Γινώσκετε	γινώσκω	VERB	V2ppma----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	verse=3:7
+2	ἄρα	ἄρα	CCONJ	C---------	_	3	cc	_	verse=3:7
+3	ὅτι	ὅτι	CCONJ	C---------	_	4	cc	_	verse=3:7
+4	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	6	det	_	verse=3:7
+5	ἐκ	ἐκ	ADP	R---------	_	6	case	_	verse=3:7
+6	πίστεως,	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	verse=3:7
+7	οὗτοι	οὗτος	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	9	nsubj	_	verse=3:7
+8	⸂υἱοί	υἱός	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	verse=3:7
+9	εἰσιν⸃	εἰμί	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:7
+10	Ἀβραάμ.	Ἀβραάμ	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	verse=3:7
+
+# sent_id = Gal.3.8
+# text = προϊδοῦσα δὲ ἡ γραφὴ ὅτι ἐκ πίστεως δικαιοῖ τὰ ἔθνη ὁ θεὸς προευηγγελίσατο τῷ Ἀβραὰμ ὅτι Ἐνευλογηθήσονται ἐν σοὶ πάντα τὰ ἔθνη.
+1	προϊδοῦσα	προοράω	VERB	V-sapafn--	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	verse=3:8
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=3:8
+3	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	4	det	_	verse=3:8
+4	γραφὴ	γραφή	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	verse=3:8
+5	ὅτι	ὅτι	CCONJ	C---------	_	6	cc	_	verse=3:8
+6	ἐκ	ἐκ	ADP	R---------	_	7	case	_	verse=3:8
+7	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	verse=3:8
+8	δικαιοῖ	δικαιόω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:8
+9	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	10	det	_	verse=3:8
+10	ἔθνη	ἔθνος	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	verse=3:8
+11	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	12	det	_	verse=3:8
+12	θεὸς	θεός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	verse=3:8
+13	προευηγγελίσατο	προευαγγελίζομαι	VERB	V3saim----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	verse=3:8
+14	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	15	det	_	verse=3:8
+15	Ἀβραὰμ	Ἀβραάμ	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	verse=3:8
+16	ὅτι	ὅτι	CCONJ	C---------	_	17	cc	_	verse=3:8
+17	Ἐνευλογηθήσονται	ἐνευλογέω	VERB	V3pfip----	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	8	conj	_	verse=3:8
+18	ἐν	ἐν	ADP	R---------	_	19	case	_	verse=3:8
+19	σοὶ	σύ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	17	obl	_	verse=3:8
+20	πάντα	πᾶς	ADJ	A-p---nn--	Case=Nom|Gender=Neut|Number=Plur	22	amod	_	verse=3:8
+21	τὰ	ὁ	DET	S-p---nn--	Case=Nom|Gender=Neut|Number=Plur	22	det	_	verse=3:8
+22	ἔθνη.	ἔθνος	NOUN	N-p---nn--	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	verse=3:8
+
+# sent_id = Gal.3.9
+# text = ὥστε οἱ ἐκ πίστεως εὐλογοῦνται σὺν τῷ πιστῷ Ἀβραάμ.
+1	ὥστε	ὥστε	CCONJ	C---------	_	2	cc	_	verse=3:9
+2	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	4	det	_	verse=3:9
+3	ἐκ	ἐκ	ADP	R---------	_	4	case	_	verse=3:9
+4	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	verse=3:9
+5	εὐλογοῦνται	εὐλογέω	VERB	V3ppip----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	verse=3:9
+6	σὺν	σύν	ADP	R---------	_	8	case	_	verse=3:9
+7	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	8	det	_	verse=3:9
+8	πιστῷ	πιστός	ADJ	A-s---md--	Case=Dat|Gender=Masc|Number=Sing	9	amod	_	verse=3:9
+9	Ἀβραάμ.	Ἀβραάμ	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	verse=3:9
+
+# sent_id = Gal.3.10
+# text = Ὅσοι γὰρ ἐξ ἔργων νόμου εἰσὶν ὑπὸ κατάραν εἰσίν, γέγραπται γὰρ ⸀ὅτι Ἐπικατάρατος πᾶς ὃς οὐκ ⸀ἐμμένει πᾶσιν τοῖς γεγραμμένοις ἐν τῷ βιβλίῳ τοῦ νόμου τοῦ ποιῆσαι αὐτά.
+1	Ὅσοι	ὅσος	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	6	nsubj	_	verse=3:10
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=3:10
+3	ἐξ	ἐκ	ADP	R---------	_	4	case	_	verse=3:10
+4	ἔργων	ἔργον	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	verse=3:10
+5	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	verse=3:10
+6	εἰσὶν	εἰμί	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:10
+7	ὑπὸ	ὑπό	ADP	R---------	_	8	case	_	verse=3:10
+8	κατάραν	κατάρα	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	verse=3:10
+9	εἰσίν,	εἰμί	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	verse=3:10
+10	γέγραπται	γράφω	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	6	conj	_	verse=3:10
+11	γὰρ	γάρ	CCONJ	C---------	_	12	cc	_	verse=3:10
+12	⸀ὅτι	ὅτι	CCONJ	C---------	_	13	cc	_	verse=3:10
+13	Ἐπικατάρατος	ἐπικατάρατος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	14	amod	_	verse=3:10
+14	πᾶς	πᾶς	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	verse=3:10
+15	ὃς	ὅς	PRON	P-s---mn--	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	verse=3:10
+16	οὐκ	οὐ	ADV	D---------	_	17	advmod	_	verse=3:10
+17	⸀ἐμμένει	ἐμμένω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	verse=3:10
+18	πᾶσιν	πᾶς	ADJ	A-p---nd--	Case=Dat|Gender=Neut|Number=Plur	23	amod	_	verse=3:10
+19	τοῖς	ὁ	DET	S-p---nd--	Case=Dat|Gender=Neut|Number=Plur	23	det	_	verse=3:10
+20	γεγραμμένοις	γράφω	VERB	V-prppnd--	Case=Dat|Gender=Neut|Number=Plur|Tense=Perf|VerbForm=Part|Voice=Pass	6	advcl	_	verse=3:10
+21	ἐν	ἐν	ADP	R---------	_	23	case	_	verse=3:10
+22	τῷ	ὁ	DET	S-s---nd--	Case=Dat|Gender=Neut|Number=Sing	23	det	_	verse=3:10
+23	βιβλίῳ	βιβλίον	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	20	obl	_	verse=3:10
+24	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	25	det	_	verse=3:10
+25	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	verse=3:10
+26	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	28	det	_	verse=3:10
+27	ποιῆσαι	ποιέω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	20	xcomp	_	verse=3:10
+28	αὐτά.	αὐτός	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Prs	27	obj	_	verse=3:10
+
+# sent_id = Gal.3.11
+# text = ὅτι δὲ ἐν νόμῳ οὐδεὶς δικαιοῦται παρὰ τῷ θεῷ δῆλον, ὅτι Ὁ δίκαιος ἐκ πίστεως ζήσεται,
+1	ὅτι	ὅτι	CCONJ	C---------	_	2	cc	_	verse=3:11
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=3:11
+3	ἐν	ἐν	ADP	R---------	_	4	case	_	verse=3:11
+4	νόμῳ	νόμος	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	verse=3:11
+5	οὐδεὶς	οὐδείς	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	verse=3:11
+6	δικαιοῦται	δικαιόω	VERB	V3spip----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	verse=3:11
+7	παρὰ	παρά	ADP	R---------	_	9	case	_	verse=3:11
+8	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	9	det	_	verse=3:11
+9	θεῷ	θεός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	verse=3:11
+10	δῆλον,	δῆλος	ADJ	A-s---nn--	Case=Nom|Gender=Neut|Number=Sing	9	amod	_	verse=3:11
+11	ὅτι	ὅτι	CCONJ	C---------	_	12	cc	_	verse=3:11
+12	Ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	13	det	_	verse=3:11
+13	δίκαιος	δίκαιος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	verse=3:11
+14	ἐκ	ἐκ	ADP	R---------	_	15	case	_	verse=3:11
+15	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	verse=3:11
+16	ζήσεται,	ζάω	VERB	V3sfim----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	6	conj	_	verse=3:11
+
+# sent_id = Gal.3.12
+# text = ὁ δὲ νόμος οὐκ ἔστιν ἐκ πίστεως, ἀλλ’· Ὁ ποιήσας ⸀αὐτὰ ζήσεται ἐν αὐτοῖς.
+1	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	det	_	verse=3:12
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=3:12
+3	νόμος	νόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	verse=3:12
+4	οὐκ	οὐ	ADV	D---------	_	5	advmod	_	verse=3:12
+5	ἔστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:12
+6	ἐκ	ἐκ	ADP	R---------	_	7	case	_	verse=3:12
+7	πίστεως,	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	verse=3:12
+8	ἀλλ’·	ἀλλά	CCONJ	C---------	_	9	cc	_	verse=3:12
+9	Ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	11	det	_	verse=3:12
+10	ποιήσας	ποιέω	VERB	V-sapamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	verse=3:12
+11	⸀αὐτὰ	αὐτός	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Prs	10	obj	_	verse=3:12
+12	ζήσεται	ζάω	VERB	V3sfim----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	5	conj	_	verse=3:12
+13	ἐν	ἐν	ADP	R---------	_	14	case	_	verse=3:12
+14	αὐτοῖς.	αὐτός	PRON	P-p---nd--	Case=Dat|Gender=Neut|Number=Plur|PronType=Prs	12	obl	_	verse=3:12
+
+# sent_id = Gal.3.13
+# text = Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς κατάρας τοῦ νόμου γενόμενος ὑπὲρ ἡμῶν κατάρα, ⸂ὅτι γέγραπται⸃· Ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου,
+1	Χριστὸς	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=3:13
+2	ἡμᾶς	ἐγώ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	3	obj	_	verse=3:13
+3	ἐξηγόρασεν	ἐξαγοράζω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=3:13
+4	ἐκ	ἐκ	ADP	R---------	_	6	case	_	verse=3:13
+5	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	det	_	verse=3:13
+6	κατάρας	κατάρα	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	verse=3:13
+7	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	det	_	verse=3:13
+8	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=3:13
+9	γενόμενος	γίνομαι	VERB	V-sapmmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	3	advcl	_	verse=3:13
+10	ὑπὲρ	ὑπέρ	ADP	R---------	_	11	case	_	verse=3:13
+11	ἡμῶν	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	9	obl	_	verse=3:13
+12	κατάρα,	κατάρα	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	verse=3:13
+13	⸂ὅτι	ὅτι	CCONJ	C---------	_	14	cc	_	verse=3:13
+14	γέγραπται⸃·	γράφω	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	3	conj	_	verse=3:13
+15	Ἐπικατάρατος	ἐπικατάρατος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	16	amod	_	verse=3:13
+16	πᾶς	πᾶς	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	20	amod	_	verse=3:13
+17	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	20	det	_	verse=3:13
+18	κρεμάμενος	κρεμάννυμι	VERB	V-sapmmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	3	advcl	_	verse=3:13
+19	ἐπὶ	ἐπί	ADP	R---------	_	20	case	_	verse=3:13
+20	ξύλου,	ξύλον	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	verse=3:13
+
+# sent_id = Gal.3.14
+# text = ἵνα εἰς τὰ ἔθνη ἡ εὐλογία τοῦ Ἀβραὰμ γένηται ἐν ⸂Χριστῷ Ἰησοῦ⸃, ἵνα τὴν ἐπαγγελίαν τοῦ πνεύματος λάβωμεν διὰ τῆς πίστεως.
+1	ἵνα	ἵνα	CCONJ	C---------	_	2	cc	_	verse=3:14
+2	εἰς	εἰς	ADP	R---------	_	4	case	_	verse=3:14
+3	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	4	det	_	verse=3:14
+4	ἔθνη	ἔθνος	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	verse=3:14
+5	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	det	_	verse=3:14
+6	εὐλογία	εὐλογία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	verse=3:14
+7	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	det	_	verse=3:14
+8	Ἀβραὰμ	Ἀβραάμ	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=3:14
+9	γένηται	γίνομαι	VERB	V3sasm----	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	verse=3:14
+10	ἐν	ἐν	ADP	R---------	_	11	case	_	verse=3:14
+11	⸂Χριστῷ	Χριστός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	verse=3:14
+12	Ἰησοῦ⸃,	Ἰησοῦς	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	verse=3:14
+13	ἵνα	ἵνα	CCONJ	C---------	_	14	cc	_	verse=3:14
+14	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	15	det	_	verse=3:14
+15	ἐπαγγελίαν	ἐπαγγελία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	verse=3:14
+16	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	17	det	_	verse=3:14
+17	πνεύματος	πνεῦμα	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	verse=3:14
+18	λάβωμεν	λαμβάνω	VERB	V1pasa----	Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	verse=3:14
+19	διὰ	διά	ADP	R---------	_	21	case	_	verse=3:14
+20	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	21	det	_	verse=3:14
+21	πίστεως.	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	verse=3:14
+
+# sent_id = Gal.3.15
+# text = Ἀδελφοί, κατὰ ἄνθρωπον λέγω· ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς ἀθετεῖ ἢ ἐπιδιατάσσεται.
+1	Ἀδελφοί,	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	verse=3:15
+2	κατὰ	κατά	ADP	R---------	_	3	case	_	verse=3:15
+3	ἄνθρωπον	ἄνθρωπος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	verse=3:15
+4	λέγω·	λέγω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:15
+5	ὅμως	ὅμως	ADV	D---------	_	4	advmod	_	verse=3:15
+6	ἀνθρώπου	ἄνθρωπος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	verse=3:15
+7	κεκυρωμένην	κυρόω	VERB	V-srppfa--	Case=Acc|Gender=Fem|Number=Sing|Tense=Perf|VerbForm=Part|Voice=Pass	4	advcl	_	verse=3:15
+8	διαθήκην	διαθήκη	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	verse=3:15
+9	οὐδεὶς	οὐδείς	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	verse=3:15
+10	ἀθετεῖ	ἀθετέω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=3:15
+11	ἢ	ἤ	CCONJ	C---------	_	12	cc	_	verse=3:15
+12	ἐπιδιατάσσεται.	ἐπιδιατάσσομαι	VERB	V3spim----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	verse=3:15
+
+# sent_id = Gal.3.16
+# text = τῷ δὲ Ἀβραὰμ ἐρρέθησαν αἱ ἐπαγγελίαι καὶ τῷ σπέρματι αὐτοῦ· οὐ λέγει· Καὶ τοῖς σπέρμασιν, ὡς ἐπὶ πολλῶν, ἀλλ’ ὡς ἐφ’ ἑνός· Καὶ τῷ σπέρματί σου, ὅς ἐστιν Χριστός.
+1	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	3	det	_	verse=3:16
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=3:16
+3	Ἀβραὰμ	Ἀβραάμ	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	verse=3:16
+4	ἐρρέθησαν	λέγω	VERB	V3paip----	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=3:16
+5	αἱ	ὁ	DET	S-p---fn--	Case=Nom|Gender=Fem|Number=Plur	6	det	_	verse=3:16
+6	ἐπαγγελίαι	ἐπαγγελία	NOUN	N-p---fn--	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	verse=3:16
+7	καὶ	καί	CCONJ	C---------	_	8	cc	_	verse=3:16
+8	τῷ	ὁ	DET	S-s---nd--	Case=Dat|Gender=Neut|Number=Sing	9	det	_	verse=3:16
+9	σπέρματι	σπέρμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	12	obl	_	verse=3:16
+10	αὐτοῦ·	αὐτός	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	12	obl	_	verse=3:16
+11	οὐ	οὐ	ADV	D---------	_	12	advmod	_	verse=3:16
+12	λέγει·	λέγω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=3:16
+13	Καὶ	καί	CCONJ	C---------	_	14	cc	_	verse=3:16
+14	τοῖς	ὁ	DET	S-p---nd--	Case=Dat|Gender=Neut|Number=Plur	15	det	_	verse=3:16
+15	σπέρμασιν,	σπέρμα	NOUN	N-p---nd--	Case=Dat|Gender=Neut|Number=Plur	12	obl	_	verse=3:16
+16	ὡς	ὡς	CCONJ	C---------	_	17	cc	_	verse=3:16
+17	ἐπὶ	ἐπί	ADP	R---------	_	18	case	_	verse=3:16
+18	πολλῶν,	πολύς	ADJ	A-p---ng--	Case=Gen|Gender=Neut|Number=Plur	15	amod	_	verse=3:16
+19	ἀλλ’	ἀλλά	CCONJ	C---------	_	20	cc	_	verse=3:16
+20	ὡς	ὡς	CCONJ	C---------	_	21	cc	_	verse=3:16
+21	ἐφ’	ἐπί	ADP	R---------	_	22	case	_	verse=3:16
+22	ἑνός·	εἷς	ADJ	A-s---ng--	Case=Gen|Gender=Neut|Number=Sing	25	amod	_	verse=3:16
+23	Καὶ	καί	CCONJ	C---------	_	24	cc	_	verse=3:16
+24	τῷ	ὁ	DET	S-s---nd--	Case=Dat|Gender=Neut|Number=Sing	25	det	_	verse=3:16
+25	σπέρματί	σπέρμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	28	obl	_	verse=3:16
+26	σου,	σύ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	28	obl	_	verse=3:16
+27	ὅς	ὅς	PRON	P-s---mn--	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	verse=3:16
+28	ἐστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=3:16
+29	Χριστός.	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	verse=3:16
+
+# sent_id = Gal.3.17
+# text = τοῦτο δὲ λέγω· διαθήκην προκεκυρωμένην ὑπὸ τοῦ ⸀θεοῦ ὁ μετὰ ⸂τετρακόσια καὶ τριάκοντα ἔτη⸃ γεγονὼς νόμος οὐκ ἀκυροῖ, εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν.
+1	τοῦτο	οὗτος	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	verse=3:17
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=3:17
+3	λέγω·	λέγω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:17
+4	διαθήκην	διαθήκη	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	verse=3:17
+5	προκεκυρωμένην	προκυρόω	VERB	V-srppfa--	Case=Acc|Gender=Fem|Number=Sing|Tense=Perf|VerbForm=Part|Voice=Pass	3	advcl	_	verse=3:17
+6	ὑπὸ	ὑπό	ADP	R---------	_	8	case	_	verse=3:17
+7	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	det	_	verse=3:17
+8	⸀θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	verse=3:17
+9	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	11	det	_	verse=3:17
+10	μετὰ	μετά	ADP	R---------	_	11	case	_	verse=3:17
+11	⸂τετρακόσια	τετρακόσιοι	ADJ	A-p---na--	Case=Acc|Gender=Neut|Number=Plur	13	amod	_	verse=3:17
+12	καὶ	καί	CCONJ	C---------	_	13	cc	_	verse=3:17
+13	τριάκοντα	τριάκοντα	ADJ	A-p---na--	Case=Acc|Gender=Neut|Number=Plur	14	amod	_	verse=3:17
+14	ἔτη⸃	ἔτος	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	15	obj	_	verse=3:17
+15	γεγονὼς	γίνομαι	VERB	V-srpamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Perf|VerbForm=Part|Voice=Act	3	advcl	_	verse=3:17
+16	νόμος	νόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=3:17
+17	οὐκ	οὐ	ADV	D---------	_	18	advmod	_	verse=3:17
+18	ἀκυροῖ,	ἀκυρόω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	verse=3:17
+19	εἰς	εἰς	ADP	R---------	_	23	case	_	verse=3:17
+20	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	23	det	_	verse=3:17
+21	καταργῆσαι	καταργέω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	18	xcomp	_	verse=3:17
+22	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	23	det	_	verse=3:17
+23	ἐπαγγελίαν.	ἐπαγγελία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	verse=3:17
+
+# sent_id = Gal.3.18
+# text = εἰ γὰρ ἐκ νόμου ἡ κληρονομία, οὐκέτι ἐξ ἐπαγγελίας· τῷ δὲ Ἀβραὰμ δι’ ἐπαγγελίας κεχάρισται ὁ θεός.
+1	εἰ	εἰ	CCONJ	C---------	_	2	cc	_	verse=3:18
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=3:18
+3	ἐκ	ἐκ	ADP	R---------	_	4	case	_	verse=3:18
+4	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	verse=3:18
+5	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	det	_	verse=3:18
+6	κληρονομία,	κληρονομία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	verse=3:18
+7	οὐκέτι	οὐκέτι	ADV	D---------	_	15	advmod	_	verse=3:18
+8	ἐξ	ἐκ	ADP	R---------	_	9	case	_	verse=3:18
+9	ἐπαγγελίας·	ἐπαγγελία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	verse=3:18
+10	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	12	det	_	verse=3:18
+11	δὲ	δέ	CCONJ	C---------	_	12	cc	_	verse=3:18
+12	Ἀβραὰμ	Ἀβραάμ	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	15	obl	_	verse=3:18
+13	δι’	διά	ADP	R---------	_	14	case	_	verse=3:18
+14	ἐπαγγελίας	ἐπαγγελία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	verse=3:18
+15	κεχάρισται	χαρίζομαι	VERB	V3srim----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Mid	0	root	_	verse=3:18
+16	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	17	det	_	verse=3:18
+17	θεός.	θεός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	verse=3:18
+
+# sent_id = Gal.3.19
+# text = Τί οὖν ὁ νόμος; τῶν παραβάσεων χάριν προσετέθη, ἄχρις ⸀οὗ ἔλθῃ τὸ σπέρμα ᾧ ἐπήγγελται, διαταγεὶς δι’ ἀγγέλων ἐν χειρὶ μεσίτου·
+1	Τί	τίς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obj	_	verse=3:19
+2	οὖν	οὖν	CCONJ	C---------	_	3	cc	_	verse=3:19
+3	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	det	_	verse=3:19
+4	νόμος;	νόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	verse=3:19
+5	τῶν	ὁ	DET	S-p---fg--	Case=Gen|Gender=Fem|Number=Plur	6	det	_	verse=3:19
+6	παραβάσεων	παράβασις	NOUN	N-p---fg--	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	verse=3:19
+7	χάριν	χάριν	ADP	R---------	_	10	case	_	verse=3:19
+8	προσετέθη,	προστίθημι	VERB	V3saip----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=3:19
+9	ἄχρις	ἄχρις	ADP	R---------	_	10	case	_	verse=3:19
+10	⸀οὗ	ὅς	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	11	obl	_	verse=3:19
+11	ἔλθῃ	ἔρχομαι	VERB	V3sasa----	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	verse=3:19
+12	τὸ	ὁ	DET	S-s---nn--	Case=Nom|Gender=Neut|Number=Sing	13	det	_	verse=3:19
+13	σπέρμα	σπέρμα	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	verse=3:19
+14	ᾧ	ὅς	PRON	P-s---nd--	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	15	obl	_	verse=3:19
+15	ἐπήγγελται,	ἐπαγγέλλομαι	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	8	conj	_	verse=3:19
+16	διαταγεὶς	διατάσσω	VERB	V-sappmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	verse=3:19
+17	δι’	διά	ADP	R---------	_	18	case	_	verse=3:19
+18	ἀγγέλων	ἄγγελος	NOUN	N-p---mg--	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	verse=3:19
+19	ἐν	ἐν	ADP	R---------	_	20	case	_	verse=3:19
+20	χειρὶ	χείρ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	16	obl	_	verse=3:19
+21	μεσίτου·	μεσίτης	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	verse=3:19
+
+# sent_id = Gal.3.20
+# text = ὁ δὲ μεσίτης ἑνὸς οὐκ ἔστιν, ὁ δὲ θεὸς εἷς ἐστιν.
+1	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	det	_	verse=3:20
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=3:20
+3	μεσίτης	μεσίτης	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	verse=3:20
+4	ἑνὸς	εἷς	ADJ	A-s---mg--	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	verse=3:20
+5	οὐκ	οὐ	ADV	D---------	_	6	advmod	_	verse=3:20
+6	ἔστιν,	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:20
+7	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	9	det	_	verse=3:20
+8	δὲ	δέ	CCONJ	C---------	_	9	cc	_	verse=3:20
+9	θεὸς	θεός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	verse=3:20
+10	εἷς	εἷς	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	9	amod	_	verse=3:20
+11	ἐστιν.	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	verse=3:20
+
+# sent_id = Gal.3.21
+# text = Ὁ οὖν νόμος κατὰ τῶν ἐπαγγελιῶν τοῦ θεοῦ; μὴ γένοιτο· εἰ γὰρ ἐδόθη νόμος ὁ δυνάμενος ζῳοποιῆσαι, ὄντως ⸂ἐκ νόμου ἂν⸃ ἦν ἡ δικαιοσύνη.
+1	Ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	det	_	verse=3:21
+2	οὖν	οὖν	CCONJ	C---------	_	3	cc	_	verse=3:21
+3	νόμος	νόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	verse=3:21
+4	κατὰ	κατά	ADP	R---------	_	6	case	_	verse=3:21
+5	τῶν	ὁ	DET	S-p---fg--	Case=Gen|Gender=Fem|Number=Plur	6	det	_	verse=3:21
+6	ἐπαγγελιῶν	ἐπαγγελία	NOUN	N-p---fg--	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	verse=3:21
+7	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	8	det	_	verse=3:21
+8	θεοῦ;	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=3:21
+9	μὴ	μή	ADV	D---------	_	10	advmod	_	verse=3:21
+10	γένοιτο·	γίνομαι	VERB	V3saom----	Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	13	conj	_	verse=3:21
+11	εἰ	εἰ	CCONJ	C---------	_	12	cc	_	verse=3:21
+12	γὰρ	γάρ	CCONJ	C---------	_	13	cc	_	verse=3:21
+13	ἐδόθη	δίδωμι	VERB	V3saip----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=3:21
+14	νόμος	νόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	verse=3:21
+15	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	20	det	_	verse=3:21
+16	δυνάμενος	δύναμαι	VERB	V-sppmmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	13	advcl	_	verse=3:21
+17	ζῳοποιῆσαι,	ζῳοποιέω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	16	xcomp	_	verse=3:21
+18	ὄντως	ὄντως	ADV	D---------	_	17	advmod	_	verse=3:21
+19	⸂ἐκ	ἐκ	ADP	R---------	_	20	case	_	verse=3:21
+20	νόμου	νόμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	verse=3:21
+21	ἂν⸃	ἄν	PART	G---------	_	22	discourse	_	verse=3:21
+22	ἦν	εἰμί	VERB	V3siia----	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	conj	_	verse=3:21
+23	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	24	det	_	verse=3:21
+24	δικαιοσύνη.	δικαιοσύνη	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	verse=3:21
+
+# sent_id = Gal.3.22
+# text = ἀλλὰ συνέκλεισεν ἡ γραφὴ τὰ πάντα ὑπὸ ἁμαρτίαν ἵνα ἡ ἐπαγγελία ἐκ πίστεως Ἰησοῦ Χριστοῦ δοθῇ τοῖς πιστεύουσιν.
+1	ἀλλὰ	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=3:22
+2	συνέκλεισεν	συγκλείω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=3:22
+3	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	4	det	_	verse=3:22
+4	γραφὴ	γραφή	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	verse=3:22
+5	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	6	det	_	verse=3:22
+6	πάντα	πᾶς	ADJ	A-p---na--	Case=Acc|Gender=Neut|Number=Plur	8	amod	_	verse=3:22
+7	ὑπὸ	ὑπό	ADP	R---------	_	8	case	_	verse=3:22
+8	ἁμαρτίαν	ἁμαρτία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	verse=3:22
+9	ἵνα	ἵνα	CCONJ	C---------	_	10	cc	_	verse=3:22
+10	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	11	det	_	verse=3:22
+11	ἐπαγγελία	ἐπαγγελία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	verse=3:22
+12	ἐκ	ἐκ	ADP	R---------	_	13	case	_	verse=3:22
+13	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	verse=3:22
+14	Ἰησοῦ	Ἰησοῦς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	verse=3:22
+15	Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	verse=3:22
+16	δοθῇ	δίδωμι	VERB	V3sasp----	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	verse=3:22
+17	τοῖς	ὁ	DET	S-p---md--	Case=Dat|Gender=Masc|Number=Plur	15	det	_	verse=3:22
+18	πιστεύουσιν.	πιστεύω	VERB	V-pppamd--	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	verse=3:22
+
+# sent_id = Gal.3.23
+# text = Πρὸ τοῦ δὲ ἐλθεῖν τὴν πίστιν ὑπὸ νόμον ἐφρουρούμεθα ⸀συγκλειόμενοι εἰς τὴν μέλλουσαν πίστιν ἀποκαλυφθῆναι.
+1	Πρὸ	πρό	ADP	R---------	_	6	case	_	verse=3:23
+2	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	6	det	_	verse=3:23
+3	δὲ	δέ	CCONJ	C---------	_	4	cc	_	verse=3:23
+4	ἐλθεῖν	ἔρχομαι	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	9	xcomp	_	verse=3:23
+5	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	6	det	_	verse=3:23
+6	πίστιν	πίστις	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	verse=3:23
+7	ὑπὸ	ὑπό	ADP	R---------	_	8	case	_	verse=3:23
+8	νόμον	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	verse=3:23
+9	ἐφρουρούμεθα	φρουρέω	VERB	V1piip----	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	verse=3:23
+10	⸀συγκλειόμενοι	συγκλείω	VERB	V-ppppmn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	9	advcl	_	verse=3:23
+11	εἰς	εἰς	ADP	R---------	_	14	case	_	verse=3:23
+12	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	14	det	_	verse=3:23
+13	μέλλουσαν	μέλλω	VERB	V-sppafa--	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	verse=3:23
+14	πίστιν	πίστις	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	verse=3:23
+15	ἀποκαλυφθῆναι.	ἀποκαλύπτω	VERB	V--anp----	Tense=Past|VerbForm=Inf|Voice=Pass	13	xcomp	_	verse=3:23
+
+# sent_id = Gal.3.24
+# text = ὥστε ὁ νόμος παιδαγωγὸς ἡμῶν γέγονεν εἰς Χριστόν, ἵνα ἐκ πίστεως δικαιωθῶμεν·
+1	ὥστε	ὥστε	CCONJ	C---------	_	2	cc	_	verse=3:24
+2	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	det	_	verse=3:24
+3	νόμος	νόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	verse=3:24
+4	παιδαγωγὸς	παιδαγωγός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	verse=3:24
+5	ἡμῶν	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	6	obl	_	verse=3:24
+6	γέγονεν	γίνομαι	VERB	V3sria----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	0	root	_	verse=3:24
+7	εἰς	εἰς	ADP	R---------	_	8	case	_	verse=3:24
+8	Χριστόν,	Χριστός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	verse=3:24
+9	ἵνα	ἵνα	CCONJ	C---------	_	10	cc	_	verse=3:24
+10	ἐκ	ἐκ	ADP	R---------	_	11	case	_	verse=3:24
+11	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	verse=3:24
+12	δικαιωθῶμεν·	δικαιόω	VERB	V1pasp----	Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	6	conj	_	verse=3:24
+
+# sent_id = Gal.3.25
+# text = ἐλθούσης δὲ τῆς πίστεως οὐκέτι ὑπὸ παιδαγωγόν ἐσμεν.
+1	ἐλθούσης	ἔρχομαι	VERB	V-sapafg--	Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	verse=3:25
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=3:25
+3	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	4	det	_	verse=3:25
+4	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	verse=3:25
+5	οὐκέτι	οὐκέτι	ADV	D---------	_	8	advmod	_	verse=3:25
+6	ὑπὸ	ὑπό	ADP	R---------	_	7	case	_	verse=3:25
+7	παιδαγωγόν	παιδαγωγός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	verse=3:25
+8	ἐσμεν.	εἰμί	VERB	V1ppia----	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:25
+
+# sent_id = Gal.3.26
+# text = πάντες γὰρ υἱοὶ θεοῦ ἐστε διὰ τῆς πίστεως ἐν Χριστῷ Ἰησοῦ.
+1	πάντες	πᾶς	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	verse=3:26
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=3:26
+3	υἱοὶ	υἱός	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	verse=3:26
+4	θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	verse=3:26
+5	ἐστε	εἰμί	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:26
+6	διὰ	διά	ADP	R---------	_	8	case	_	verse=3:26
+7	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	8	det	_	verse=3:26
+8	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	verse=3:26
+9	ἐν	ἐν	ADP	R---------	_	10	case	_	verse=3:26
+10	Χριστῷ	Χριστός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	verse=3:26
+11	Ἰησοῦ.	Ἰησοῦς	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	verse=3:26
+
+# sent_id = Gal.3.27
+# text = ὅσοι γὰρ εἰς Χριστὸν ἐβαπτίσθητε, Χριστὸν ἐνεδύσασθε·
+1	ὅσοι	ὅσος	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	5	nsubj	_	verse=3:27
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=3:27
+3	εἰς	εἰς	ADP	R---------	_	4	case	_	verse=3:27
+4	Χριστὸν	Χριστός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	verse=3:27
+5	ἐβαπτίσθητε,	βαπτίζω	VERB	V2paip----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=3:27
+6	Χριστὸν	Χριστός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	verse=3:27
+7	ἐνεδύσασθε·	ἐνδύω	VERB	V2paim----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	verse=3:27
+
+# sent_id = Gal.3.28
+# text = οὐκ ἔνι Ἰουδαῖος οὐδὲ Ἕλλην, οὐκ ἔνι δοῦλος οὐδὲ ἐλεύθερος, οὐκ ἔνι ἄρσεν καὶ θῆλυ· ⸀πάντες γὰρ ὑμεῖς εἷς ἐστε ἐν Χριστῷ Ἰησοῦ.
+1	οὐκ	οὐ	ADV	D---------	_	2	advmod	_	verse=3:28
+2	ἔνι	ἔνι	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:28
+3	Ἰουδαῖος	Ἰουδαῖος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	verse=3:28
+4	οὐδὲ	οὐδέ	CCONJ	C---------	_	5	cc	_	verse=3:28
+5	Ἕλλην,	Ἕλλην	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	verse=3:28
+6	οὐκ	οὐ	ADV	D---------	_	7	advmod	_	verse=3:28
+7	ἔνι	ἔνι	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=3:28
+8	δοῦλος	δοῦλος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	verse=3:28
+9	οὐδὲ	οὐδέ	CCONJ	C---------	_	10	cc	_	verse=3:28
+10	ἐλεύθερος,	ἐλεύθερος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	verse=3:28
+11	οὐκ	οὐ	ADV	D---------	_	12	advmod	_	verse=3:28
+12	ἔνι	ἔνι	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=3:28
+13	ἄρσεν	ἄρσην	ADJ	A-s---nn--	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	verse=3:28
+14	καὶ	καί	CCONJ	C---------	_	15	cc	_	verse=3:28
+15	θῆλυ·	θῆλυς	ADJ	A-s---nn--	Case=Nom|Gender=Neut|Number=Sing	16	amod	_	verse=3:28
+16	⸀πάντες	πᾶς	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	18	amod	_	verse=3:28
+17	γὰρ	γάρ	CCONJ	C---------	_	18	cc	_	verse=3:28
+18	ὑμεῖς	σύ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	2	nsubj	_	verse=3:28
+19	εἷς	εἷς	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	22	amod	_	verse=3:28
+20	ἐστε	εἰμί	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=3:28
+21	ἐν	ἐν	ADP	R---------	_	22	case	_	verse=3:28
+22	Χριστῷ	Χριστός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	20	obl	_	verse=3:28
+23	Ἰησοῦ.	Ἰησοῦς	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	20	obl	_	verse=3:28
+
+# sent_id = Gal.3.29
+# text = εἰ δὲ ὑμεῖς Χριστοῦ, ἄρα τοῦ Ἀβραὰμ σπέρμα ἐστέ, ⸀κατ’ ἐπαγγελίαν κληρονόμοι.
+1	εἰ	εἰ	CCONJ	C---------	_	2	cc	_	verse=3:29
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=3:29
+3	ὑμεῖς	σύ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	9	nsubj	_	verse=3:29
+4	Χριστοῦ,	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	verse=3:29
+5	ἄρα	ἄρα	CCONJ	C---------	_	6	cc	_	verse=3:29
+6	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	7	det	_	verse=3:29
+7	Ἀβραὰμ	Ἀβραάμ	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	verse=3:29
+8	σπέρμα	σπέρμα	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	verse=3:29
+9	ἐστέ,	εἰμί	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=3:29
+10	⸀κατ’	κατά	ADP	R---------	_	11	case	_	verse=3:29
+11	ἐπαγγελίαν	ἐπαγγελία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	verse=3:29
+12	κληρονόμοι.	κληρονόμος	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	verse=3:29
+
+# sent_id = Gal.4.1
+# text = Λέγω δέ, ἐφ’ ὅσον χρόνον ὁ κληρονόμος νήπιός ἐστιν, οὐδὲν διαφέρει δούλου κύριος πάντων ὤν,
+1	Λέγω	λέγω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:1
+2	δέ,	δέ	CCONJ	C---------	_	3	cc	_	verse=4:1
+3	ἐφ’	ἐπί	ADP	R---------	_	4	case	_	verse=4:1
+4	ὅσον	ὅσος	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	1	obj	_	verse=4:1
+5	χρόνον	χρόνος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	verse=4:1
+6	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	7	det	_	verse=4:1
+7	κληρονόμος	κληρονόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	verse=4:1
+8	νήπιός	νήπιος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	verse=4:1
+9	ἐστιν,	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=4:1
+10	οὐδὲν	οὐδείς	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	12	amod	_	verse=4:1
+11	διαφέρει	διαφέρω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=4:1
+12	δούλου	δοῦλος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	verse=4:1
+13	κύριος	κύριος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	verse=4:1
+14	πάντων	πᾶς	ADJ	A-p---ng--	Case=Gen|Gender=Neut|Number=Plur	13	amod	_	verse=4:1
+15	ὤν,	εἰμί	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	verse=4:1
+
+# sent_id = Gal.4.2
+# text = ἀλλὰ ὑπὸ ἐπιτρόπους ἐστὶ καὶ οἰκονόμους ἄχρι τῆς προθεσμίας τοῦ πατρός.
+1	ἀλλὰ	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=4:2
+2	ὑπὸ	ὑπό	ADP	R---------	_	3	case	_	verse=4:2
+3	ἐπιτρόπους	ἐπίτροπος	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	verse=4:2
+4	ἐστὶ	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:2
+5	καὶ	καί	CCONJ	C---------	_	6	cc	_	verse=4:2
+6	οἰκονόμους	οἰκονόμος	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	verse=4:2
+7	ἄχρι	ἄχρι	ADP	R---------	_	9	case	_	verse=4:2
+8	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	det	_	verse=4:2
+9	προθεσμίας	προθεσμία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	verse=4:2
+10	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	det	_	verse=4:2
+11	πατρός.	πατήρ	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	verse=4:2
+
+# sent_id = Gal.4.3
+# text = οὕτως καὶ ἡμεῖς, ὅτε ἦμεν νήπιοι, ὑπὸ τὰ στοιχεῖα τοῦ κόσμου ⸀ἤμεθα δεδουλωμένοι·
+1	οὕτως	οὕτω(ς)	ADV	D---------	_	5	advmod	_	verse=4:3
+2	καὶ	καί	ADV	D---------	_	5	advmod	_	verse=4:3
+3	ἡμεῖς,	ἐγώ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	5	nsubj	_	verse=4:3
+4	ὅτε	ὅτε	CCONJ	C---------	_	5	cc	_	verse=4:3
+5	ἦμεν	εἰμί	VERB	V1piia----	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=4:3
+6	νήπιοι,	νήπιος	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	verse=4:3
+7	ὑπὸ	ὑπό	ADP	R---------	_	9	case	_	verse=4:3
+8	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	9	det	_	verse=4:3
+9	στοιχεῖα	στοιχεῖον	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	verse=4:3
+10	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	det	_	verse=4:3
+11	κόσμου	κόσμος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	verse=4:3
+12	⸀ἤμεθα	εἰμί	VERB	V1piim----	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|Voice=Mid	5	conj	_	verse=4:3
+13	δεδουλωμένοι·	δουλεύω	VERB	V-prppmn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Perf|VerbForm=Part|Voice=Pass	5	advcl	_	verse=4:3
+
+# sent_id = Gal.4.4
+# text = ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου, ἐξαπέστειλεν ὁ θεὸς τὸν υἱὸν αὐτοῦ, γενόμενον ἐκ γυναικός, γενόμενον ὑπὸ νόμον,
+1	ὅτε	ὅτε	CCONJ	C---------	_	2	cc	_	verse=4:4
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=4:4
+3	ἦλθεν	ἔρχομαι	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=4:4
+4	τὸ	ὁ	DET	S-s---nn--	Case=Nom|Gender=Neut|Number=Sing	5	det	_	verse=4:4
+5	πλήρωμα	πλήρωμα	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	verse=4:4
+6	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	7	det	_	verse=4:4
+7	χρόνου,	χρόνος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	verse=4:4
+8	ἐξαπέστειλεν	ἐξαποστέλλω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	verse=4:4
+9	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	10	det	_	verse=4:4
+10	θεὸς	θεός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=4:4
+11	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	12	det	_	verse=4:4
+12	υἱὸν	υἱός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	verse=4:4
+13	αὐτοῦ,	αὐτός	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	14	obl	_	verse=4:4
+14	γενόμενον	γίνομαι	VERB	V-sapmma--	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	3	advcl	_	verse=4:4
+15	ἐκ	ἐκ	ADP	R---------	_	16	case	_	verse=4:4
+16	γυναικός,	γυνή	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	verse=4:4
+17	γενόμενον	γίνομαι	VERB	V-sapmma--	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	3	advcl	_	verse=4:4
+18	ὑπὸ	ὑπό	ADP	R---------	_	19	case	_	verse=4:4
+19	νόμον,	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	verse=4:4
+
+# sent_id = Gal.4.5
+# text = ἵνα τοὺς ὑπὸ νόμον ἐξαγοράσῃ, ἵνα τὴν υἱοθεσίαν ἀπολάβωμεν.
+1	ἵνα	ἵνα	CCONJ	C---------	_	2	cc	_	verse=4:5
+2	τοὺς	ὁ	DET	S-p---ma--	Case=Acc|Gender=Masc|Number=Plur	4	det	_	verse=4:5
+3	ὑπὸ	ὑπό	ADP	R---------	_	4	case	_	verse=4:5
+4	νόμον	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	verse=4:5
+5	ἐξαγοράσῃ,	ἐξαγοράζω	VERB	V3sasa----	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=4:5
+6	ἵνα	ἵνα	CCONJ	C---------	_	7	cc	_	verse=4:5
+7	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	8	det	_	verse=4:5
+8	υἱοθεσίαν	υἱοθεσία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	verse=4:5
+9	ἀπολάβωμεν.	ἀπολαμβάνω	VERB	V1pasa----	Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	verse=4:5
+
+# sent_id = Gal.4.6
+# text = ὅτι δέ ἐστε υἱοί, ἐξαπέστειλεν ὁ θεὸς τὸ πνεῦμα τοῦ υἱοῦ αὐτοῦ εἰς τὰς καρδίας ⸀ἡμῶν, κρᾶζον· Αββα ὁ πατήρ.
+1	ὅτι	ὅτι	CCONJ	C---------	_	2	cc	_	verse=4:6
+2	δέ	δέ	CCONJ	C---------	_	3	cc	_	verse=4:6
+3	ἐστε	εἰμί	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:6
+4	υἱοί,	υἱός	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	verse=4:6
+5	ἐξαπέστειλεν	ἐξαποστέλλω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	verse=4:6
+6	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	7	det	_	verse=4:6
+7	θεὸς	θεός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=4:6
+8	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	9	det	_	verse=4:6
+9	πνεῦμα	πνεῦμα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	verse=4:6
+10	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	det	_	verse=4:6
+11	υἱοῦ	υἱός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	verse=4:6
+12	αὐτοῦ	αὐτός	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	17	obl	_	verse=4:6
+13	εἰς	εἰς	ADP	R---------	_	15	case	_	verse=4:6
+14	τὰς	ὁ	DET	S-p---fa--	Case=Acc|Gender=Fem|Number=Plur	15	det	_	verse=4:6
+15	καρδίας	καρδία	NOUN	N-p---fa--	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	verse=4:6
+16	⸀ἡμῶν,	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	17	obl	_	verse=4:6
+17	κρᾶζον·	κράζω	VERB	V-sppana--	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	verse=4:6
+18	Αββα	αββα	NOUN	N-s---mv--	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	verse=4:6
+19	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	20	det	_	verse=4:6
+20	πατήρ.	πατήρ	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=4:6
+
+# sent_id = Gal.4.7
+# text = ὥστε οὐκέτι εἶ δοῦλος ἀλλὰ υἱός· εἰ δὲ υἱός, καὶ κληρονόμος ⸂διὰ θεοῦ⸃.
+1	ὥστε	ὥστε	CCONJ	C---------	_	2	cc	_	verse=4:7
+2	οὐκέτι	οὐκέτι	ADV	D---------	_	3	advmod	_	verse=4:7
+3	εἶ	εἰμί	VERB	V2spia----	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:7
+4	δοῦλος	δοῦλος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=4:7
+5	ἀλλὰ	ἀλλά	CCONJ	C---------	_	6	cc	_	verse=4:7
+6	υἱός·	υἱός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=4:7
+7	εἰ	εἰ	CCONJ	C---------	_	8	cc	_	verse=4:7
+8	δὲ	δέ	CCONJ	C---------	_	9	cc	_	verse=4:7
+9	υἱός,	υἱός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=4:7
+10	καὶ	καί	ADV	D---------	_	3	advmod	_	verse=4:7
+11	κληρονόμος	κληρονόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=4:7
+12	⸂διὰ	διά	ADP	R---------	_	13	case	_	verse=4:7
+13	θεοῦ⸃.	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	verse=4:7
+
+# sent_id = Gal.4.8
+# text = Ἀλλὰ τότε μὲν οὐκ εἰδότες θεὸν ἐδουλεύσατε τοῖς ⸂φύσει μὴ⸃ οὖσι θεοῖς·
+1	Ἀλλὰ	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=4:8
+2	τότε	τότε	ADV	D---------	_	5	advmod	_	verse=4:8
+3	μὲν	μέν	CCONJ	C---------	_	4	cc	_	verse=4:8
+4	οὐκ	οὐ	ADV	D---------	_	5	advmod	_	verse=4:8
+5	εἰδότες	οἶδα	VERB	V-prpamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Perf|VerbForm=Part|Voice=Act	7	advcl	_	verse=4:8
+6	θεὸν	θεός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	verse=4:8
+7	ἐδουλεύσατε	δουλεύω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=4:8
+8	τοῖς	ὁ	DET	S-p---md--	Case=Dat|Gender=Masc|Number=Plur	9	det	_	verse=4:8
+9	⸂φύσει	φύσις	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	verse=4:8
+10	μὴ⸃	μή	ADV	D---------	_	11	advmod	_	verse=4:8
+11	οὖσι	εἰμί	VERB	V-pppamd--	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	verse=4:8
+12	θεοῖς·	θεός	NOUN	N-p---md--	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	verse=4:8
+
+# sent_id = Gal.4.9
+# text = νῦν δὲ γνόντες θεόν, μᾶλλον δὲ γνωσθέντες ὑπὸ θεοῦ, πῶς ἐπιστρέφετε πάλιν ἐπὶ τὰ ἀσθενῆ καὶ πτωχὰ στοιχεῖα, οἷς πάλιν ἄνωθεν ⸀δουλεύειν θέλετε;
+1	νῦν	νῦν	ADV	D---------	_	3	advmod	_	verse=4:9
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=4:9
+3	γνόντες	γινώσκω	VERB	V-papamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	verse=4:9
+4	θεόν,	θεός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	verse=4:9
+5	μᾶλλον	μᾶλλον	ADV	D---------	_	3	advmod	_	verse=4:9
+6	δὲ	δέ	CCONJ	C---------	_	7	cc	_	verse=4:9
+7	γνωσθέντες	γινώσκω	VERB	V-pappmn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	verse=4:9
+8	ὑπὸ	ὑπό	ADP	R---------	_	9	case	_	verse=4:9
+9	θεοῦ,	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	verse=4:9
+10	πῶς	πῶς	ADV	D---------	_	11	advmod	_	verse=4:9
+11	ἐπιστρέφετε	ἐπιστρέφω	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:9
+12	πάλιν	πάλιν	ADV	D---------	_	11	advmod	_	verse=4:9
+13	ἐπὶ	ἐπί	ADP	R---------	_	15	case	_	verse=4:9
+14	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	15	det	_	verse=4:9
+15	ἀσθενῆ	ἀσθενής	ADJ	A-p---na--	Case=Acc|Gender=Neut|Number=Plur	17	amod	_	verse=4:9
+16	καὶ	καί	CCONJ	C---------	_	17	cc	_	verse=4:9
+17	πτωχὰ	πτωχός	ADJ	A-p---na--	Case=Acc|Gender=Neut|Number=Plur	18	amod	_	verse=4:9
+18	στοιχεῖα,	στοιχεῖον	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	22	obj	_	verse=4:9
+19	οἷς	ὅς	PRON	P-p---nd--	Case=Dat|Gender=Neut|Number=Plur|PronType=Rel	22	obl	_	verse=4:9
+20	πάλιν	πάλιν	ADV	D---------	_	22	advmod	_	verse=4:9
+21	ἄνωθεν	ἄνωθεν	ADV	D---------	_	22	advmod	_	verse=4:9
+22	⸀δουλεύειν	δουλεύω	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	23	xcomp	_	verse=4:9
+23	θέλετε;	θέλω	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	verse=4:9
+
+# sent_id = Gal.4.10
+# text = ἡμέρας παρατηρεῖσθε καὶ μῆνας καὶ καιροὺς καὶ ἐνιαυτούς.
+1	ἡμέρας	ἡμέρα	NOUN	N-p---fa--	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	verse=4:10
+2	παρατηρεῖσθε	παρατηρέω	VERB	V2ppim----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	verse=4:10
+3	καὶ	καί	CCONJ	C---------	_	4	cc	_	verse=4:10
+4	μῆνας	μήν	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	verse=4:10
+5	καὶ	καί	CCONJ	C---------	_	6	cc	_	verse=4:10
+6	καιροὺς	καιρός	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	verse=4:10
+7	καὶ	καί	CCONJ	C---------	_	8	cc	_	verse=4:10
+8	ἐνιαυτούς.	ἐνιαυτός	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	verse=4:10
+
+# sent_id = Gal.4.11
+# text = φοβοῦμαι ὑμᾶς μή πως εἰκῇ κεκοπίακα εἰς ὑμᾶς.
+1	φοβοῦμαι	φοβέομαι	VERB	V1spim----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	verse=4:11
+2	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	1	obj	_	verse=4:11
+3	μή	μή	CCONJ	C---------	_	4	cc	_	verse=4:11
+4	πως	πώς	ADV	D---------	_	6	advmod	_	verse=4:11
+5	εἰκῇ	εἰκῇ	ADV	D---------	_	6	advmod	_	verse=4:11
+6	κεκοπίακα	κοπιάω	VERB	V1sria----	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	1	conj	_	verse=4:11
+7	εἰς	εἰς	ADP	R---------	_	8	case	_	verse=4:11
+8	ὑμᾶς.	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	6	obj	_	verse=4:11
+
+# sent_id = Gal.4.12
+# text = Γίνεσθε ὡς ἐγώ, ὅτι κἀγὼ ὡς ὑμεῖς, ἀδελφοί, δέομαι ὑμῶν. οὐδέν με ἠδικήσατε·
+1	Γίνεσθε	γίνομαι	VERB	V2ppmm----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	verse=4:12
+2	ὡς	ὡς	CCONJ	C---------	_	3	cc	_	verse=4:12
+3	ἐγώ,	ἐγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	9	nsubj	_	verse=4:12
+4	ὅτι	ὅτι	CCONJ	C---------	_	5	cc	_	verse=4:12
+5	κἀγὼ	κἀγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	9	nsubj	_	verse=4:12
+6	ὡς	ὡς	CCONJ	C---------	_	7	cc	_	verse=4:12
+7	ὑμεῖς,	σύ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	9	nsubj	_	verse=4:12
+8	ἀδελφοί,	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	verse=4:12
+9	δέομαι	δέομαι	VERB	V1spim----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	verse=4:12
+10	ὑμῶν.	σύ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	9	obl	_	verse=4:12
+11	οὐδέν	οὐδείς	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	12	amod	_	verse=4:12
+12	με	ἐγώ	PRON	P-s----a--	Case=Acc|Number=Sing|PronType=Prs	13	obj	_	verse=4:12
+13	ἠδικήσατε·	ἀδικέω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	verse=4:12
+
+# sent_id = Gal.4.13
+# text = οἴδατε δὲ ὅτι δι’ ἀσθένειαν τῆς σαρκὸς εὐηγγελισάμην ὑμῖν τὸ πρότερον,
+1	οἴδατε	οἶδα	VERB	V2pria----	Mood=Ind|Number=Plur|Person=2|Tense=Perf|VerbForm=Fin|Voice=Act	0	root	_	verse=4:13
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=4:13
+3	ὅτι	ὅτι	CCONJ	C---------	_	4	cc	_	verse=4:13
+4	δι’	διά	ADP	R---------	_	5	case	_	verse=4:13
+5	ἀσθένειαν	ἀσθένεια	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	verse=4:13
+6	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	7	det	_	verse=4:13
+7	σαρκὸς	σάρξ	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	verse=4:13
+8	εὐηγγελισάμην	εὐαγγελίζω	VERB	V1saim----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	verse=4:13
+9	ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	8	obl	_	verse=4:13
+10	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	11	det	_	verse=4:13
+11	πρότερον,	πρότερος	ADJ	A-s---nac-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	9	amod	_	verse=4:13
+
+# sent_id = Gal.4.14
+# text = καὶ τὸν πειρασμὸν ⸀ὑμῶν ἐν τῇ σαρκί μου οὐκ ἐξουθενήσατε οὐδὲ ἐξεπτύσατε, ἀλλὰ ὡς ἄγγελον θεοῦ ἐδέξασθέ με, ὡς Χριστὸν Ἰησοῦν.
+1	καὶ	καί	CCONJ	C---------	_	2	cc	_	verse=4:14
+2	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	3	det	_	verse=4:14
+3	πειρασμὸν	πειρασμός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	verse=4:14
+4	⸀ὑμῶν	σύ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	10	obl	_	verse=4:14
+5	ἐν	ἐν	ADP	R---------	_	7	case	_	verse=4:14
+6	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	7	det	_	verse=4:14
+7	σαρκί	σάρξ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	verse=4:14
+8	μου	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	10	obl	_	verse=4:14
+9	οὐκ	οὐ	ADV	D---------	_	10	advmod	_	verse=4:14
+10	ἐξουθενήσατε	ἐξουθενέω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=4:14
+11	οὐδὲ	οὐδέ	CCONJ	C---------	_	12	cc	_	verse=4:14
+12	ἐξεπτύσατε,	ἐκπτύω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	verse=4:14
+13	ἀλλὰ	ἀλλά	CCONJ	C---------	_	14	cc	_	verse=4:14
+14	ὡς	ὡς	CCONJ	C---------	_	15	cc	_	verse=4:14
+15	ἄγγελον	ἄγγελος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	verse=4:14
+16	θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	verse=4:14
+17	ἐδέξασθέ	δέχομαι	VERB	V2paim----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	verse=4:14
+18	με,	ἐγώ	PRON	P-s----a--	Case=Acc|Number=Sing|PronType=Prs	17	obj	_	verse=4:14
+19	ὡς	ὡς	CCONJ	C---------	_	20	cc	_	verse=4:14
+20	Χριστὸν	Χριστός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	verse=4:14
+21	Ἰησοῦν.	Ἰησοῦς	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	verse=4:14
+
+# sent_id = Gal.4.15
+# text = ⸀ποῦ ⸀οὖν ὁ μακαρισμὸς ὑμῶν; μαρτυρῶ γὰρ ὑμῖν ὅτι εἰ δυνατὸν τοὺς ὀφθαλμοὺς ὑμῶν ⸀ἐξορύξαντες ἐδώκατέ μοι.
+1	⸀ποῦ	ποῦ	ADV	D---------	_	6	advmod	_	verse=4:15
+2	⸀οὖν	οὖν	CCONJ	C---------	_	3	cc	_	verse=4:15
+3	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	det	_	verse=4:15
+4	μακαρισμὸς	μακαρισμός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	verse=4:15
+5	ὑμῶν;	σύ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	6	obl	_	verse=4:15
+6	μαρτυρῶ	μαρτυρέω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:15
+7	γὰρ	γάρ	CCONJ	C---------	_	8	cc	_	verse=4:15
+8	ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	6	obl	_	verse=4:15
+9	ὅτι	ὅτι	CCONJ	C---------	_	10	cc	_	verse=4:15
+10	εἰ	εἰ	CCONJ	C---------	_	11	cc	_	verse=4:15
+11	δυνατὸν	δυνατός	ADJ	A-s---nn--	Case=Nom|Gender=Neut|Number=Sing	13	amod	_	verse=4:15
+12	τοὺς	ὁ	DET	S-p---ma--	Case=Acc|Gender=Masc|Number=Plur	13	det	_	verse=4:15
+13	ὀφθαλμοὺς	ὀφθαλμός	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	15	obj	_	verse=4:15
+14	ὑμῶν	σύ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	15	obl	_	verse=4:15
+15	⸀ἐξορύξαντες	ἐξορύσσω	VERB	V-papamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	verse=4:15
+16	ἐδώκατέ	δίδωμι	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	verse=4:15
+17	μοι.	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	16	obl	_	verse=4:15
+
+# sent_id = Gal.4.16
+# text = ὥστε ἐχθρὸς ὑμῶν γέγονα ἀληθεύων ὑμῖν;
+1	ὥστε	ὥστε	CCONJ	C---------	_	2	cc	_	verse=4:16
+2	ἐχθρὸς	ἐχθρός	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	verse=4:16
+3	ὑμῶν	σύ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	4	obl	_	verse=4:16
+4	γέγονα	γίνομαι	VERB	V1sria----	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	0	root	_	verse=4:16
+5	ἀληθεύων	ἀληθεύω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	verse=4:16
+6	ὑμῖν;	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	5	obl	_	verse=4:16
+
+# sent_id = Gal.4.17
+# text = ζηλοῦσιν ὑμᾶς οὐ καλῶς, ἀλλὰ ἐκκλεῖσαι ὑμᾶς θέλουσιν, ἵνα αὐτοὺς ζηλοῦτε.
+1	ζηλοῦσιν	ζηλόω	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:17
+2	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	1	obj	_	verse=4:17
+3	οὐ	οὐ	ADV	D---------	_	1	advmod	_	verse=4:17
+4	καλῶς,	καλῶς	ADV	D---------	_	6	advmod	_	verse=4:17
+5	ἀλλὰ	ἀλλά	CCONJ	C---------	_	6	cc	_	verse=4:17
+6	ἐκκλεῖσαι	ἐκκλείω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	8	xcomp	_	verse=4:17
+7	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	6	obj	_	verse=4:17
+8	θέλουσιν,	θέλω	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=4:17
+9	ἵνα	ἵνα	CCONJ	C---------	_	10	cc	_	verse=4:17
+10	αὐτοὺς	αὐτός	PRON	P-p---ma--	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	11	obj	_	verse=4:17
+11	ζηλοῦτε.	ζηλόω	VERB	V2ppsa----	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=4:17
+
+# sent_id = Gal.4.18
+# text = καλὸν ⸀δὲ ζηλοῦσθαι ἐν καλῷ πάντοτε, καὶ μὴ μόνον ἐν τῷ παρεῖναί με πρὸς ὑμᾶς,
+1	καλὸν	καλός	ADJ	A-s---nn--	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	verse=4:18
+2	⸀δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=4:18
+3	ζηλοῦσθαι	ζηλόω	VERB	V--pnm----	Tense=Pres|VerbForm=Inf|Voice=Mid	0	root	_	verse=4:18
+4	ἐν	ἐν	ADP	R---------	_	5	case	_	verse=4:18
+5	καλῷ	καλός	ADJ	A-s---nd--	Case=Dat|Gender=Neut|Number=Sing	9	amod	_	verse=4:18
+6	πάντοτε,	πάντοτε	ADV	D---------	_	3	advmod	_	verse=4:18
+7	καὶ	καί	CCONJ	C---------	_	8	cc	_	verse=4:18
+8	μὴ	μή	ADV	D---------	_	12	advmod	_	verse=4:18
+9	μόνον	μόνος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	verse=4:18
+10	ἐν	ἐν	ADP	R---------	_	13	case	_	verse=4:18
+11	τῷ	ὁ	DET	S-s---nd--	Case=Dat|Gender=Neut|Number=Sing	13	det	_	verse=4:18
+12	παρεῖναί	πάρειμι	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	verse=4:18
+13	με	ἐγώ	PRON	P-s----a--	Case=Acc|Number=Sing|PronType=Prs	12	obj	_	verse=4:18
+14	πρὸς	πρός	ADP	R---------	_	15	case	_	verse=4:18
+15	ὑμᾶς,	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	12	obj	_	verse=4:18
+
+# sent_id = Gal.4.19
+# text = ⸀τέκνα μου, οὓς πάλιν ὠδίνω ⸀μέχρις οὗ μορφωθῇ Χριστὸς ἐν ὑμῖν·
+1	⸀τέκνα	τέκνον	NOUN	N-p---nv--	Case=Voc|Gender=Neut|Number=Plur	5	vocative	_	verse=4:19
+2	μου,	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	5	obl	_	verse=4:19
+3	οὓς	ὅς	PRON	P-p---ma--	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	5	obj	_	verse=4:19
+4	πάλιν	πάλιν	ADV	D---------	_	5	advmod	_	verse=4:19
+5	ὠδίνω	ὠδίνω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:19
+6	⸀μέχρις	μέχρι(ς)	ADP	R---------	_	7	case	_	verse=4:19
+7	οὗ	ὅς	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	8	obl	_	verse=4:19
+8	μορφωθῇ	μορφόω	VERB	V3sasp----	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	conj	_	verse=4:19
+9	Χριστὸς	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	verse=4:19
+10	ἐν	ἐν	ADP	R---------	_	11	case	_	verse=4:19
+11	ὑμῖν·	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	8	obl	_	verse=4:19
+
+# sent_id = Gal.4.20
+# text = ἤθελον δὲ παρεῖναι πρὸς ὑμᾶς ἄρτι, καὶ ἀλλάξαι τὴν φωνήν μου, ὅτι ἀποροῦμαι ἐν ὑμῖν.
+1	ἤθελον	θέλω	VERB	V1siia----	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=4:20
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=4:20
+3	παρεῖναι	πάρειμι	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	verse=4:20
+4	πρὸς	πρός	ADP	R---------	_	5	case	_	verse=4:20
+5	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	3	obj	_	verse=4:20
+6	ἄρτι,	ἄρτι	ADV	D---------	_	8	advmod	_	verse=4:20
+7	καὶ	καί	CCONJ	C---------	_	8	cc	_	verse=4:20
+8	ἀλλάξαι	ἀλλάσσω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	3	xcomp	_	verse=4:20
+9	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	10	det	_	verse=4:20
+10	φωνήν	φωνή	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	verse=4:20
+11	μου,	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	13	obl	_	verse=4:20
+12	ὅτι	ὅτι	CCONJ	C---------	_	13	cc	_	verse=4:20
+13	ἀποροῦμαι	ἀπορέω	VERB	V1spim----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	verse=4:20
+14	ἐν	ἐν	ADP	R---------	_	15	case	_	verse=4:20
+15	ὑμῖν.	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	13	obl	_	verse=4:20
+
+# sent_id = Gal.4.21
+# text = Λέγετέ μοι, οἱ ὑπὸ νόμον θέλοντες εἶναι, τὸν νόμον οὐκ ἀκούετε;
+1	Λέγετέ	λέγω	VERB	V2ppma----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	verse=4:21
+2	μοι,	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	1	obl	_	verse=4:21
+3	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	5	det	_	verse=4:21
+4	ὑπὸ	ὑπό	ADP	R---------	_	5	case	_	verse=4:21
+5	νόμον	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	verse=4:21
+6	θέλοντες	θέλω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	verse=4:21
+7	εἶναι,	εἰμί	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	verse=4:21
+8	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	9	det	_	verse=4:21
+9	νόμον	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	verse=4:21
+10	οὐκ	οὐ	ADV	D---------	_	11	advmod	_	verse=4:21
+11	ἀκούετε;	ἀκούω	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:21
+
+# sent_id = Gal.4.22
+# text = γέγραπται γὰρ ὅτι Ἀβραὰμ δύο υἱοὺς ἔσχεν, ἕνα ἐκ τῆς παιδίσκης καὶ ἕνα ἐκ τῆς ἐλευθέρας·
+1	γέγραπται	γράφω	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	0	root	_	verse=4:22
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=4:22
+3	ὅτι	ὅτι	CCONJ	C---------	_	4	cc	_	verse=4:22
+4	Ἀβραὰμ	Ἀβραάμ	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	verse=4:22
+5	δύο	δύο	ADJ	A-p---ma--	Case=Acc|Gender=Masc|Number=Plur	6	amod	_	verse=4:22
+6	υἱοὺς	υἱός	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	verse=4:22
+7	ἔσχεν,	ἔχω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	verse=4:22
+8	ἕνα	εἷς	ADJ	A-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	verse=4:22
+9	ἐκ	ἐκ	ADP	R---------	_	11	case	_	verse=4:22
+10	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	11	det	_	verse=4:22
+11	παιδίσκης	παιδίσκη	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	verse=4:22
+12	καὶ	καί	CCONJ	C---------	_	13	cc	_	verse=4:22
+13	ἕνα	εἷς	ADJ	A-s---ma--	Case=Acc|Gender=Masc|Number=Sing	11	amod	_	verse=4:22
+14	ἐκ	ἐκ	ADP	R---------	_	16	case	_	verse=4:22
+15	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	16	det	_	verse=4:22
+16	ἐλευθέρας·	ἐλεύθερος	ADJ	A-s---fg--	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	verse=4:22
+
+# sent_id = Gal.4.23
+# text = ἀλλ’ ὁ μὲν ἐκ τῆς παιδίσκης κατὰ σάρκα γεγέννηται, ὁ δὲ ἐκ τῆς ἐλευθέρας ⸀δι’ ἐπαγγελίας.
+1	ἀλλ’	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=4:23
+2	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	det	_	verse=4:23
+3	μὲν	μέν	CCONJ	C---------	_	4	cc	_	verse=4:23
+4	ἐκ	ἐκ	ADP	R---------	_	6	case	_	verse=4:23
+5	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	det	_	verse=4:23
+6	παιδίσκης	παιδίσκη	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	verse=4:23
+7	κατὰ	κατά	ADP	R---------	_	8	case	_	verse=4:23
+8	σάρκα	σάρξ	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	verse=4:23
+9	γεγέννηται,	γεννάω	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	0	root	_	verse=4:23
+10	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	14	det	_	verse=4:23
+11	δὲ	δέ	CCONJ	C---------	_	12	cc	_	verse=4:23
+12	ἐκ	ἐκ	ADP	R---------	_	14	case	_	verse=4:23
+13	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	14	det	_	verse=4:23
+14	ἐλευθέρας	ἐλεύθερος	ADJ	A-s---fg--	Case=Gen|Gender=Fem|Number=Sing	16	amod	_	verse=4:23
+15	⸀δι’	διά	ADP	R---------	_	16	case	_	verse=4:23
+16	ἐπαγγελίας.	ἐπαγγελία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	verse=4:23
+
+# sent_id = Gal.4.24
+# text = ἅτινά ἐστιν ἀλληγορούμενα· αὗται γάρ εἰσιν δύο διαθῆκαι, μία μὲν ἀπὸ ὄρους Σινᾶ, εἰς δουλείαν γεννῶσα, ἥτις ἐστὶν Ἁγάρ,
+1	ἅτινά	ὅστις	PRON	P-p---nn--	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	2	nsubj	_	verse=4:24
+2	ἐστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:24
+3	ἀλληγορούμενα·	ἀλληγορέω	VERB	V-ppppnn--	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	2	advcl	_	verse=4:24
+4	αὗται	οὗτος	PRON	P-p---fn--	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	2	nsubj	_	verse=4:24
+5	γάρ	γάρ	CCONJ	C---------	_	6	cc	_	verse=4:24
+6	εἰσιν	εἰμί	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=4:24
+7	δύο	δύο	ADJ	A-p---fn--	Case=Nom|Gender=Fem|Number=Plur	8	amod	_	verse=4:24
+8	διαθῆκαι,	διαθήκη	NOUN	N-p---fn--	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	verse=4:24
+9	μία	εἷς	ADJ	A-s---fn--	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	verse=4:24
+10	μὲν	μέν	CCONJ	C---------	_	11	cc	_	verse=4:24
+11	ἀπὸ	ἀπό	ADP	R---------	_	12	case	_	verse=4:24
+12	ὄρους	ὄρος	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	verse=4:24
+13	Σινᾶ,	Σινᾶ	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	verse=4:24
+14	εἰς	εἰς	ADP	R---------	_	15	case	_	verse=4:24
+15	δουλείαν	δουλεία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	verse=4:24
+16	γεννῶσα,	γεννάω	VERB	V-sppafn--	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	verse=4:24
+17	ἥτις	ὅστις	PRON	P-s---fn--	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	2	nsubj	_	verse=4:24
+18	ἐστὶν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=4:24
+19	Ἁγάρ,	Ἁγάρ	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	verse=4:24
+
+# sent_id = Gal.4.25
+# text = τὸ ⸀δὲ Ἁγὰρ Σινᾶ ὄρος ἐστὶν ἐν τῇ Ἀραβίᾳ, συστοιχεῖ δὲ τῇ νῦν Ἰερουσαλήμ, δουλεύει ⸀γὰρ μετὰ τῶν τέκνων αὐτῆς·
+1	τὸ	ὁ	DET	S-s---nn--	Case=Nom|Gender=Neut|Number=Sing	3	det	_	verse=4:25
+2	⸀δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=4:25
+3	Ἁγὰρ	Ἁγάρ	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=4:25
+4	Σινᾶ	Σινᾶ	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	verse=4:25
+5	ὄρος	ὄρος	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	verse=4:25
+6	ἐστὶν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:25
+7	ἐν	ἐν	ADP	R---------	_	9	case	_	verse=4:25
+8	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	9	det	_	verse=4:25
+9	Ἀραβίᾳ,	Ἀραβία	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	verse=4:25
+10	συστοιχεῖ	συστοιχέω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	verse=4:25
+11	δὲ	δέ	CCONJ	C---------	_	12	cc	_	verse=4:25
+12	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	14	det	_	verse=4:25
+13	νῦν	νῦν	ADV	D---------	_	15	advmod	_	verse=4:25
+14	Ἰερουσαλήμ,	Ἰερουσαλήμ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	verse=4:25
+15	δουλεύει	δουλεύω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	verse=4:25
+16	⸀γὰρ	γάρ	CCONJ	C---------	_	17	cc	_	verse=4:25
+17	μετὰ	μετά	ADP	R---------	_	19	case	_	verse=4:25
+18	τῶν	ὁ	DET	S-p---ng--	Case=Gen|Gender=Neut|Number=Plur	19	det	_	verse=4:25
+19	τέκνων	τέκνον	NOUN	N-p---ng--	Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	verse=4:25
+20	αὐτῆς·	αὐτός	PRON	P-s---fg--	Case=Gen|Gender=Fem|Number=Sing|PronType=Prs	15	obl	_	verse=4:25
+
+# sent_id = Gal.4.26
+# text = ἡ δὲ ἄνω Ἰερουσαλὴμ ἐλευθέρα ἐστίν, ἥτις ἐστὶν ⸀μήτηρ ἡμῶν·
+1	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	4	det	_	verse=4:26
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=4:26
+3	ἄνω	ἄνω	ADV	D---------	_	6	advmod	_	verse=4:26
+4	Ἰερουσαλὴμ	Ἰερουσαλήμ	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=4:26
+5	ἐλευθέρα	ἐλεύθερος	ADJ	A-s---fn--	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	verse=4:26
+6	ἐστίν,	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:26
+7	ἥτις	ὅστις	PRON	P-s---fn--	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	6	nsubj	_	verse=4:26
+8	ἐστὶν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	verse=4:26
+9	⸀μήτηρ	μήτηρ	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=4:26
+10	ἡμῶν·	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	8	obl	_	verse=4:26
+
+# sent_id = Gal.4.27
+# text = γέγραπται γάρ· Εὐφράνθητι, στεῖρα ἡ οὐ τίκτουσα, ῥῆξον καὶ βόησον, ἡ οὐκ ὠδίνουσα· ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα.
+1	γέγραπται	γράφω	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	0	root	_	verse=4:27
+2	γάρ·	γάρ	CCONJ	C---------	_	3	cc	_	verse=4:27
+3	Εὐφράνθητι,	εὐφραίνω	VERB	V2samp----	Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	verse=4:27
+4	στεῖρα	στεῖρα	ADJ	A-s---fv--	Case=Voc|Gender=Fem|Number=Sing	15	amod	_	verse=4:27
+5	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	15	det	_	verse=4:27
+6	οὐ	οὐ	ADV	D---------	_	7	advmod	_	verse=4:27
+7	τίκτουσα,	τίκτω	VERB	V-sppafn--	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	verse=4:27
+8	ῥῆξον	ῥήγνυμι	VERB	V2sama----	Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	verse=4:27
+9	καὶ	καί	CCONJ	C---------	_	10	cc	_	verse=4:27
+10	βόησον,	βοάω	VERB	V2sama----	Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	verse=4:27
+11	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	15	det	_	verse=4:27
+12	οὐκ	οὐ	ADV	D---------	_	13	advmod	_	verse=4:27
+13	ὠδίνουσα·	ὠδίνω	VERB	V-sppafn--	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	verse=4:27
+14	ὅτι	ὅτι	CCONJ	C---------	_	15	cc	_	verse=4:27
+15	πολλὰ	πολύς	ADJ	A-p---nn--	Case=Nom|Gender=Neut|Number=Plur	17	amod	_	verse=4:27
+16	τὰ	ὁ	DET	S-p---nn--	Case=Nom|Gender=Neut|Number=Plur	17	det	_	verse=4:27
+17	τέκνα	τέκνον	NOUN	N-p---nn--	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	verse=4:27
+18	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	19	det	_	verse=4:27
+19	ἐρήμου	ἔρημος	ADJ	A-s---fg--	Case=Gen|Gender=Fem|Number=Sing	17	amod	_	verse=4:27
+20	μᾶλλον	μᾶλλον	ADV	D---------	_	23	advmod	_	verse=4:27
+21	ἢ	ἤ	CCONJ	C---------	_	22	cc	_	verse=4:27
+22	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	25	det	_	verse=4:27
+23	ἐχούσης	ἔχω	VERB	V-sppafg--	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	verse=4:27
+24	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	25	det	_	verse=4:27
+25	ἄνδρα.	ἀνήρ	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	verse=4:27
+
+# sent_id = Gal.4.28
+# text = ⸂ὑμεῖς δέ, ἀδελφοί, κατὰ Ἰσαὰκ ἐπαγγελίας τέκνα ἐστέ⸃·
+1	⸂ὑμεῖς	σύ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	8	nsubj	_	verse=4:28
+2	δέ,	δέ	CCONJ	C---------	_	3	cc	_	verse=4:28
+3	ἀδελφοί,	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	verse=4:28
+4	κατὰ	κατά	ADP	R---------	_	5	case	_	verse=4:28
+5	Ἰσαὰκ	Ἰσαάκ	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	verse=4:28
+6	ἐπαγγελίας	ἐπαγγελία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	verse=4:28
+7	τέκνα	τέκνον	NOUN	N-p---nn--	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	verse=4:28
+8	ἐστέ⸃·	εἰμί	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:28
+
+# sent_id = Gal.4.29
+# text = ἀλλ’ ὥσπερ τότε ὁ κατὰ σάρκα γεννηθεὶς ἐδίωκε τὸν κατὰ πνεῦμα, οὕτως καὶ νῦν.
+1	ἀλλ’	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=4:29
+2	ὥσπερ	ὥσπερ	CCONJ	C---------	_	3	cc	_	verse=4:29
+3	τότε	τότε	ADV	D---------	_	7	advmod	_	verse=4:29
+4	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	det	_	verse=4:29
+5	κατὰ	κατά	ADP	R---------	_	6	case	_	verse=4:29
+6	σάρκα	σάρξ	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	verse=4:29
+7	γεννηθεὶς	γεννάω	VERB	V-sappmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	verse=4:29
+8	ἐδίωκε	διώκω	VERB	V3siia----	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=4:29
+9	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	11	det	_	verse=4:29
+10	κατὰ	κατά	ADP	R---------	_	11	case	_	verse=4:29
+11	πνεῦμα,	πνεῦμα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	verse=4:29
+12	οὕτως	οὕτω(ς)	ADV	D---------	_	8	advmod	_	verse=4:29
+13	καὶ	καί	ADV	D---------	_	8	advmod	_	verse=4:29
+14	νῦν.	νῦν	ADV	D---------	_	8	advmod	_	verse=4:29
+
+# sent_id = Gal.4.30
+# text = ἀλλὰ τί λέγει ἡ γραφή; Ἔκβαλε τὴν παιδίσκην καὶ τὸν υἱὸν αὐτῆς, οὐ γὰρ μὴ ⸀κληρονομήσει ὁ υἱὸς τῆς παιδίσκης μετὰ τοῦ υἱοῦ τῆς ἐλευθέρας.
+1	ἀλλὰ	ἀλλά	CCONJ	C---------	_	2	cc	_	verse=4:30
+2	τί	τίς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	verse=4:30
+3	λέγει	λέγω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:30
+4	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	5	det	_	verse=4:30
+5	γραφή;	γραφή	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	verse=4:30
+6	Ἔκβαλε	ἐκβάλλω	VERB	V2sama----	Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	verse=4:30
+7	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	8	det	_	verse=4:30
+8	παιδίσκην	παιδίσκη	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	verse=4:30
+9	καὶ	καί	CCONJ	C---------	_	10	cc	_	verse=4:30
+10	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	11	det	_	verse=4:30
+11	υἱὸν	υἱός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	verse=4:30
+12	αὐτῆς,	αὐτός	PRON	P-s---fg--	Case=Gen|Gender=Fem|Number=Sing|PronType=Prs	16	obl	_	verse=4:30
+13	οὐ	οὐ	ADV	D---------	_	16	advmod	_	verse=4:30
+14	γὰρ	γάρ	CCONJ	C---------	_	15	cc	_	verse=4:30
+15	μὴ	μή	ADV	D---------	_	16	advmod	_	verse=4:30
+16	⸀κληρονομήσει	κληρονομέω	VERB	V3sfia----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	verse=4:30
+17	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	18	det	_	verse=4:30
+18	υἱὸς	υἱός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	verse=4:30
+19	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	20	det	_	verse=4:30
+20	παιδίσκης	παιδίσκη	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	verse=4:30
+21	μετὰ	μετά	ADP	R---------	_	23	case	_	verse=4:30
+22	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	23	det	_	verse=4:30
+23	υἱοῦ	υἱός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	verse=4:30
+24	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	25	det	_	verse=4:30
+25	ἐλευθέρας.	ἐλεύθερος	ADJ	A-s---fg--	Case=Gen|Gender=Fem|Number=Sing	23	amod	_	verse=4:30
+
+# sent_id = Gal.4.31
+# text = ⸀διό, ἀδελφοί, οὐκ ἐσμὲν παιδίσκης τέκνα ἀλλὰ τῆς ἐλευθέρας.
+1	⸀διό,	διό	CCONJ	C---------	_	2	cc	_	verse=4:31
+2	ἀδελφοί,	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	verse=4:31
+3	οὐκ	οὐ	ADV	D---------	_	4	advmod	_	verse=4:31
+4	ἐσμὲν	εἰμί	VERB	V1ppia----	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=4:31
+5	παιδίσκης	παιδίσκη	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	verse=4:31
+6	τέκνα	τέκνον	NOUN	N-p---nn--	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	verse=4:31
+7	ἀλλὰ	ἀλλά	CCONJ	C---------	_	8	cc	_	verse=4:31
+8	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	det	_	verse=4:31
+9	ἐλευθέρας.	ἐλεύθερος	ADJ	A-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	amod	_	verse=4:31
+
+# sent_id = Gal.5.1
+# text = τῇ ἐλευθερίᾳ ⸂ἡμᾶς Χριστὸς ἠλευθέρωσεν· στήκετε οὖν⸃ καὶ μὴ πάλιν ζυγῷ δουλείας ἐνέχεσθε.
+1	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	2	det	_	verse=5:1
+2	ἐλευθερίᾳ	ἐλευθερία	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	verse=5:1
+3	⸂ἡμᾶς	ἐγώ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	5	obj	_	verse=5:1
+4	Χριστὸς	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	verse=5:1
+5	ἠλευθέρωσεν·	ἐλευθερόω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=5:1
+6	στήκετε	στήκω	VERB	V2ppma----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	verse=5:1
+7	οὖν⸃	οὖν	CCONJ	C---------	_	8	cc	_	verse=5:1
+8	καὶ	καί	CCONJ	C---------	_	9	cc	_	verse=5:1
+9	μὴ	μή	ADV	D---------	_	6	advmod	_	verse=5:1
+10	πάλιν	πάλιν	ADV	D---------	_	13	advmod	_	verse=5:1
+11	ζυγῷ	ζυγός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	verse=5:1
+12	δουλείας	δουλεία	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	verse=5:1
+13	ἐνέχεσθε.	ἐνέχω	VERB	V2ppmp----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	verse=5:1
+
+# sent_id = Gal.5.2
+# text = Ἴδε ἐγὼ Παῦλος λέγω ὑμῖν ὅτι ἐὰν περιτέμνησθε Χριστὸς ὑμᾶς οὐδὲν ὠφελήσει.
+1	Ἴδε	ἴδε	PART	G---------	_	4	discourse	_	verse=5:2
+2	ἐγὼ	ἐγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	4	nsubj	_	verse=5:2
+3	Παῦλος	Παῦλος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	verse=5:2
+4	λέγω	λέγω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:2
+5	ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	4	obl	_	verse=5:2
+6	ὅτι	ὅτι	CCONJ	C---------	_	7	cc	_	verse=5:2
+7	ἐὰν	ἐάν	CCONJ	C---------	_	8	cc	_	verse=5:2
+8	περιτέμνησθε	περιτέμνω	VERB	V2ppsp----	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	verse=5:2
+9	Χριστὸς	Χριστός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	verse=5:2
+10	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	8	obj	_	verse=5:2
+11	οὐδὲν	οὐδείς	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	verse=5:2
+12	ὠφελήσει.	ὠφελέω	VERB	V3sfia----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	verse=5:2
+
+# sent_id = Gal.5.3
+# text = μαρτύρομαι δὲ πάλιν παντὶ ἀνθρώπῳ περιτεμνομένῳ ὅτι ὀφειλέτης ἐστὶν ὅλον τὸν νόμον ποιῆσαι.
+1	μαρτύρομαι	μαρτύρομαι	VERB	V1spim----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	verse=5:3
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=5:3
+3	πάλιν	πάλιν	ADV	D---------	_	1	advmod	_	verse=5:3
+4	παντὶ	πᾶς	ADJ	A-s---md--	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	verse=5:3
+5	ἀνθρώπῳ	ἄνθρωπος	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	verse=5:3
+6	περιτεμνομένῳ	περιτέμνω	VERB	V-spppmd--	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	verse=5:3
+7	ὅτι	ὅτι	CCONJ	C---------	_	8	cc	_	verse=5:3
+8	ὀφειλέτης	ὀφειλέτης	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	verse=5:3
+9	ἐστὶν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=5:3
+10	ὅλον	ὅλος	ADJ	A-s---ma--	Case=Acc|Gender=Masc|Number=Sing	12	amod	_	verse=5:3
+11	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	12	det	_	verse=5:3
+12	νόμον	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	verse=5:3
+13	ποιῆσαι.	ποιέω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	9	xcomp	_	verse=5:3
+
+# sent_id = Gal.5.4
+# text = κατηργήθητε ⸀ἀπὸ Χριστοῦ οἵτινες ἐν νόμῳ δικαιοῦσθε, τῆς χάριτος ἐξεπέσατε.
+1	κατηργήθητε	καταργέω	VERB	V2paip----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=5:4
+2	⸀ἀπὸ	ἀπό	ADP	R---------	_	3	case	_	verse=5:4
+3	Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	verse=5:4
+4	οἵτινες	ὅστις	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	1	nsubj	_	verse=5:4
+5	ἐν	ἐν	ADP	R---------	_	6	case	_	verse=5:4
+6	νόμῳ	νόμος	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	verse=5:4
+7	δικαιοῦσθε,	δικαιόω	VERB	V2ppip----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	1	conj	_	verse=5:4
+8	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	9	det	_	verse=5:4
+9	χάριτος	χάρις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	verse=5:4
+10	ἐξεπέσατε.	ἐκπίπτω	VERB	V2paia----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	verse=5:4
+
+# sent_id = Gal.5.5
+# text = ἡμεῖς γὰρ πνεύματι ἐκ πίστεως ἐλπίδα δικαιοσύνης ἀπεκδεχόμεθα.
+1	ἡμεῖς	ἐγώ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	8	nsubj	_	verse=5:5
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=5:5
+3	πνεύματι	πνεῦμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	verse=5:5
+4	ἐκ	ἐκ	ADP	R---------	_	5	case	_	verse=5:5
+5	πίστεως	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	verse=5:5
+6	ἐλπίδα	ἐλπίς	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	verse=5:5
+7	δικαιοσύνης	δικαιοσύνη	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	verse=5:5
+8	ἀπεκδεχόμεθα.	ἀπεκδέχομαι	VERB	V1ppim----	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	verse=5:5
+
+# sent_id = Gal.5.6
+# text = ἐν γὰρ Χριστῷ Ἰησοῦ οὔτε περιτομή τι ἰσχύει οὔτε ἀκροβυστία, ἀλλὰ πίστις δι’ ἀγάπης ἐνεργουμένη.
+1	ἐν	ἐν	ADP	R---------	_	3	case	_	verse=5:6
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=5:6
+3	Χριστῷ	Χριστός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	verse=5:6
+4	Ἰησοῦ	Ἰησοῦς	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	verse=5:6
+5	οὔτε	οὔτε	CCONJ	C---------	_	6	cc	_	verse=5:6
+6	περιτομή	περιτομή	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	verse=5:6
+7	τι	τις	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obj	_	verse=5:6
+8	ἰσχύει	ἰσχύω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:6
+9	οὔτε	οὔτε	CCONJ	C---------	_	10	cc	_	verse=5:6
+10	ἀκροβυστία,	ἀκροβυστία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	verse=5:6
+11	ἀλλὰ	ἀλλά	CCONJ	C---------	_	12	cc	_	verse=5:6
+12	πίστις	πίστις	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	verse=5:6
+13	δι’	διά	ADP	R---------	_	14	case	_	verse=5:6
+14	ἀγάπης	ἀγάπη	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	verse=5:6
+15	ἐνεργουμένη.	ἐνεργέω	VERB	V-sppmfn--	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	8	advcl	_	verse=5:6
+
+# sent_id = Gal.5.7
+# text = Ἐτρέχετε καλῶς· τίς ὑμᾶς ἐνέκοψεν ⸀τῇ ἀληθείᾳ μὴ πείθεσθαι;
+1	Ἐτρέχετε	τρέχω	VERB	V2piia----	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	verse=5:7
+2	καλῶς·	καλῶς	ADV	D---------	_	1	advmod	_	verse=5:7
+3	τίς	τίς	PRON	P-s---mn--	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	1	nsubj	_	verse=5:7
+4	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	5	obj	_	verse=5:7
+5	ἐνέκοψεν	ἐγκόπτω	VERB	V3saia----	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	verse=5:7
+6	⸀τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	7	det	_	verse=5:7
+7	ἀληθείᾳ	ἀλήθεια	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	verse=5:7
+8	μὴ	μή	ADV	D---------	_	9	advmod	_	verse=5:7
+9	πείθεσθαι;	πείθω	VERB	V--pnp----	Tense=Pres|VerbForm=Inf|Voice=Pass	5	xcomp	_	verse=5:7
+
+# sent_id = Gal.5.8
+# text = ἡ πεισμονὴ οὐκ ἐκ τοῦ καλοῦντος ὑμᾶς.
+1	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	2	det	_	verse=5:8
+2	πεισμονὴ	πεισμονή	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:8
+3	οὐκ	οὐ	ADV	D---------	_	6	advmod	_	verse=5:8
+4	ἐκ	ἐκ	ADP	R---------	_	7	case	_	verse=5:8
+5	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	7	det	_	verse=5:8
+6	καλοῦντος	καλέω	VERB	V-sppamg--	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	verse=5:8
+7	ὑμᾶς.	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	6	obj	_	verse=5:8
+
+# sent_id = Gal.5.9
+# text = μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ.
+1	μικρὰ	μικρός	ADJ	A-s---fn--	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	verse=5:9
+2	ζύμη	ζύμη	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:9
+3	ὅλον	ὅλος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	verse=5:9
+4	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	5	det	_	verse=5:9
+5	φύραμα	φύραμα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	verse=5:9
+6	ζυμοῖ.	ζυμόω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:9
+
+# sent_id = Gal.5.10
+# text = ἐγὼ πέποιθα εἰς ὑμᾶς ἐν κυρίῳ ὅτι οὐδὲν ἄλλο φρονήσετε· ὁ δὲ ταράσσων ὑμᾶς βαστάσει τὸ κρίμα, ὅστις ⸀ἐὰν ᾖ.
+1	ἐγὼ	ἐγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	2	nsubj	_	verse=5:10
+2	πέποιθα	πείθω	VERB	V1sria----	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	0	root	_	verse=5:10
+3	εἰς	εἰς	ADP	R---------	_	4	case	_	verse=5:10
+4	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	2	obj	_	verse=5:10
+5	ἐν	ἐν	ADP	R---------	_	6	case	_	verse=5:10
+6	κυρίῳ	κύριος	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	verse=5:10
+7	ὅτι	ὅτι	CCONJ	C---------	_	8	cc	_	verse=5:10
+8	οὐδὲν	οὐδείς	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	verse=5:10
+9	ἄλλο	ἄλλος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	6	amod	_	verse=5:10
+10	φρονήσετε·	φρονέω	VERB	V2pfia----	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	verse=5:10
+11	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	14	det	_	verse=5:10
+12	δὲ	δέ	CCONJ	C---------	_	13	cc	_	verse=5:10
+13	ταράσσων	ταράσσω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	verse=5:10
+14	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	13	obj	_	verse=5:10
+15	βαστάσει	βαστάζω	VERB	V3sfia----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	verse=5:10
+16	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	17	det	_	verse=5:10
+17	κρίμα,	κρίμα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	verse=5:10
+18	ὅστις	ὅστις	PRON	P-s---mn--	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	2	nsubj	_	verse=5:10
+19	⸀ἐὰν	ἐάν	PART	G---------	_	20	discourse	_	verse=5:10
+20	ᾖ.	εἰμί	VERB	V3spsa----	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=5:10
+
+# sent_id = Gal.5.11
+# text = ἐγὼ δέ, ἀδελφοί, εἰ περιτομὴν ἔτι κηρύσσω, τί ἔτι διώκομαι; ἄρα κατήργηται τὸ σκάνδαλον τοῦ σταυροῦ.
+1	ἐγὼ	ἐγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	7	nsubj	_	verse=5:11
+2	δέ,	δέ	CCONJ	C---------	_	3	cc	_	verse=5:11
+3	ἀδελφοί,	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	verse=5:11
+4	εἰ	εἰ	CCONJ	C---------	_	5	cc	_	verse=5:11
+5	περιτομὴν	περιτομή	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	verse=5:11
+6	ἔτι	ἔτι	ADV	D---------	_	7	advmod	_	verse=5:11
+7	κηρύσσω,	κηρύσσω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:11
+8	τί	τίς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	7	obj	_	verse=5:11
+9	ἔτι	ἔτι	ADV	D---------	_	10	advmod	_	verse=5:11
+10	διώκομαι;	διώκω	VERB	V1spip----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	7	conj	_	verse=5:11
+11	ἄρα	ἄρα	CCONJ	C---------	_	12	cc	_	verse=5:11
+12	κατήργηται	καταργέω	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	7	conj	_	verse=5:11
+13	τὸ	ὁ	DET	S-s---nn--	Case=Nom|Gender=Neut|Number=Sing	14	det	_	verse=5:11
+14	σκάνδαλον	σκάνδαλον	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	verse=5:11
+15	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	16	det	_	verse=5:11
+16	σταυροῦ.	σταυρός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	verse=5:11
+
+# sent_id = Gal.5.12
+# text = ὄφελον καὶ ἀποκόψονται οἱ ἀναστατοῦντες ὑμᾶς.
+1	ὄφελον	ὄφελον	PART	G---------	_	3	discourse	_	verse=5:12
+2	καὶ	καί	ADV	D---------	_	3	advmod	_	verse=5:12
+3	ἀποκόψονται	ἀποκόπτω	VERB	V3pfim----	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	verse=5:12
+4	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	6	det	_	verse=5:12
+5	ἀναστατοῦντες	ἀναστατόω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	verse=5:12
+6	ὑμᾶς.	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	5	obj	_	verse=5:12
+
+# sent_id = Gal.5.13
+# text = Ὑμεῖς γὰρ ἐπ’ ἐλευθερίᾳ ἐκλήθητε, ἀδελφοί· μόνον μὴ τὴν ἐλευθερίαν εἰς ἀφορμὴν τῇ σαρκί, ἀλλὰ διὰ τῆς ἀγάπης δουλεύετε ἀλλήλοις·
+1	Ὑμεῖς	σύ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	5	nsubj	_	verse=5:13
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=5:13
+3	ἐπ’	ἐπί	ADP	R---------	_	4	case	_	verse=5:13
+4	ἐλευθερίᾳ	ἐλευθερία	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	verse=5:13
+5	ἐκλήθητε,	καλέω	VERB	V2paip----	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=5:13
+6	ἀδελφοί·	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	verse=5:13
+7	μόνον	μόνος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	6	amod	_	verse=5:13
+8	μὴ	μή	ADV	D---------	_	5	advmod	_	verse=5:13
+9	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	10	det	_	verse=5:13
+10	ἐλευθερίαν	ἐλευθερία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	verse=5:13
+11	εἰς	εἰς	ADP	R---------	_	12	case	_	verse=5:13
+12	ἀφορμὴν	ἀφορμή	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	verse=5:13
+13	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	14	det	_	verse=5:13
+14	σαρκί,	σάρξ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	19	obl	_	verse=5:13
+15	ἀλλὰ	ἀλλά	CCONJ	C---------	_	16	cc	_	verse=5:13
+16	διὰ	διά	ADP	R---------	_	18	case	_	verse=5:13
+17	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	18	det	_	verse=5:13
+18	ἀγάπης	ἀγάπη	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	verse=5:13
+19	δουλεύετε	δουλεύω	VERB	V2ppma----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	verse=5:13
+20	ἀλλήλοις·	ἀλλήλων	PRON	P-p---md--	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	19	obl	_	verse=5:13
+
+# sent_id = Gal.5.14
+# text = ὁ γὰρ πᾶς νόμος ἐν ἑνὶ λόγῳ ⸀πεπλήρωται, ἐν τῷ· Ἀγαπήσεις τὸν πλησίον σου ὡς ⸀σεαυτόν.
+1	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	det	_	verse=5:14
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=5:14
+3	πᾶς	πᾶς	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	verse=5:14
+4	νόμος	νόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	verse=5:14
+5	ἐν	ἐν	ADP	R---------	_	6	case	_	verse=5:14
+6	ἑνὶ	εἷς	ADJ	A-s---md--	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	verse=5:14
+7	λόγῳ	λόγος	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	verse=5:14
+8	⸀πεπλήρωται,	πληρόω	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	0	root	_	verse=5:14
+9	ἐν	ἐν	ADP	R---------	_	14	case	_	verse=5:14
+10	τῷ·	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	14	det	_	verse=5:14
+11	Ἀγαπήσεις	ἀγαπάω	VERB	V2sfia----	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	8	conj	_	verse=5:14
+12	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	14	det	_	verse=5:14
+13	πλησίον	πλησίον	ADV	D---------	_	11	advmod	_	verse=5:14
+14	σου	σύ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	11	obl	_	verse=5:14
+15	ὡς	ὡς	CCONJ	C---------	_	16	cc	_	verse=5:14
+16	⸀σεαυτόν.	σεαυτοῦ	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	11	obj	_	verse=5:14
+
+# sent_id = Gal.5.15
+# text = εἰ δὲ ἀλλήλους δάκνετε καὶ κατεσθίετε, βλέπετε μὴ ὑπ’ ἀλλήλων ἀναλωθῆτε.
+1	εἰ	εἰ	CCONJ	C---------	_	2	cc	_	verse=5:15
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=5:15
+3	ἀλλήλους	ἀλλήλων	PRON	P-p---ma--	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	4	obj	_	verse=5:15
+4	δάκνετε	δάκνω	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:15
+5	καὶ	καί	CCONJ	C---------	_	6	cc	_	verse=5:15
+6	κατεσθίετε,	κατεσθίω	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=5:15
+7	βλέπετε	βλέπω	VERB	V2ppma----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=5:15
+8	μὴ	μή	CCONJ	C---------	_	9	cc	_	verse=5:15
+9	ὑπ’	ὑπό	ADP	R---------	_	10	case	_	verse=5:15
+10	ἀλλήλων	ἀλλήλων	PRON	P-p---mg--	Case=Gen|Gender=Masc|Number=Plur|PronType=Prs	11	obl	_	verse=5:15
+11	ἀναλωθῆτε.	ἀναλίσκω	VERB	V2pasp----	Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	4	conj	_	verse=5:15
+
+# sent_id = Gal.5.16
+# text = Λέγω δέ, πνεύματι περιπατεῖτε καὶ ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε.
+1	Λέγω	λέγω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:16
+2	δέ,	δέ	CCONJ	C---------	_	3	cc	_	verse=5:16
+3	πνεύματι	πνεῦμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	verse=5:16
+4	περιπατεῖτε	περιπατέω	VERB	V2ppma----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	verse=5:16
+5	καὶ	καί	CCONJ	C---------	_	6	cc	_	verse=5:16
+6	ἐπιθυμίαν	ἐπιθυμία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	verse=5:16
+7	σαρκὸς	σάρξ	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	verse=5:16
+8	οὐ	οὐ	ADV	D---------	_	10	advmod	_	verse=5:16
+9	μὴ	μή	ADV	D---------	_	10	advmod	_	verse=5:16
+10	τελέσητε.	τελέω	VERB	V2pasa----	Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	verse=5:16
+
+# sent_id = Gal.5.17
+# text = ἡ γὰρ σὰρξ ἐπιθυμεῖ κατὰ τοῦ πνεύματος, τὸ δὲ πνεῦμα κατὰ τῆς σαρκός, ταῦτα ⸀γὰρ ⸂ἀλλήλοις ἀντίκειται⸃, ἵνα μὴ ἃ ⸀ἐὰν θέλητε ταῦτα ποιῆτε.
+1	ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	3	det	_	verse=5:17
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=5:17
+3	σὰρξ	σάρξ	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	verse=5:17
+4	ἐπιθυμεῖ	ἐπιθυμέω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:17
+5	κατὰ	κατά	ADP	R---------	_	7	case	_	verse=5:17
+6	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	7	det	_	verse=5:17
+7	πνεύματος,	πνεῦμα	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	verse=5:17
+8	τὸ	ὁ	DET	S-s---nn--	Case=Nom|Gender=Neut|Number=Sing	10	det	_	verse=5:17
+9	δὲ	δέ	CCONJ	C---------	_	10	cc	_	verse=5:17
+10	πνεῦμα	πνεῦμα	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	verse=5:17
+11	κατὰ	κατά	ADP	R---------	_	13	case	_	verse=5:17
+12	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	13	det	_	verse=5:17
+13	σαρκός,	σάρξ	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	verse=5:17
+14	ταῦτα	οὗτος	PRON	P-p---nn--	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	4	nsubj	_	verse=5:17
+15	⸀γὰρ	γάρ	CCONJ	C---------	_	16	cc	_	verse=5:17
+16	⸂ἀλλήλοις	ἀλλήλων	PRON	P-p---nd--	Case=Dat|Gender=Neut|Number=Plur|PronType=Prs	17	obl	_	verse=5:17
+17	ἀντίκειται⸃,	ἀντίκειμαι	VERB	V3spim----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	verse=5:17
+18	ἵνα	ἵνα	CCONJ	C---------	_	19	cc	_	verse=5:17
+19	μὴ	μή	ADV	D---------	_	17	advmod	_	verse=5:17
+20	ἃ	ὅς	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	22	obj	_	verse=5:17
+21	⸀ἐὰν	ἐάν	PART	G---------	_	22	discourse	_	verse=5:17
+22	θέλητε	θέλω	VERB	V2ppsa----	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=5:17
+23	ταῦτα	οὗτος	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	22	obj	_	verse=5:17
+24	ποιῆτε.	ποιέω	VERB	V2ppsa----	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=5:17
+
+# sent_id = Gal.5.18
+# text = εἰ δὲ πνεύματι ἄγεσθε, οὐκ ἐστὲ ὑπὸ νόμον.
+1	εἰ	εἰ	CCONJ	C---------	_	2	cc	_	verse=5:18
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=5:18
+3	πνεύματι	πνεῦμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	verse=5:18
+4	ἄγεσθε,	ἄγω	VERB	V2ppip----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	verse=5:18
+5	οὐκ	οὐ	ADV	D---------	_	4	advmod	_	verse=5:18
+6	ἐστὲ	εἰμί	VERB	V2ppia----	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=5:18
+7	ὑπὸ	ὑπό	ADP	R---------	_	8	case	_	verse=5:18
+8	νόμον.	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	verse=5:18
+
+# sent_id = Gal.5.19
+# text = φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ⸀ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια,
+1	φανερὰ	φανερός	ADJ	A-p---nn--	Case=Nom|Gender=Neut|Number=Plur	5	amod	_	verse=5:19
+2	δέ	δέ	CCONJ	C---------	_	3	cc	_	verse=5:19
+3	ἐστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:19
+4	τὰ	ὁ	DET	S-p---nn--	Case=Nom|Gender=Neut|Number=Plur	5	det	_	verse=5:19
+5	ἔργα	ἔργον	NOUN	N-p---nn--	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	verse=5:19
+6	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	7	det	_	verse=5:19
+7	σαρκός,	σάρξ	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	verse=5:19
+8	ἅτινά	ὅστις	PRON	P-p---nn--	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	3	nsubj	_	verse=5:19
+9	⸀ἐστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	verse=5:19
+10	πορνεία,	πορνεία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	verse=5:19
+11	ἀκαθαρσία,	ἀκαθαρσία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	verse=5:19
+12	ἀσέλγεια,	ἀσέλγεια	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	verse=5:19
+
+# sent_id = Gal.5.20
+# text = εἰδωλολατρία, φαρμακεία, ἔχθραι, ⸂ἔρις, ζῆλος⸃, θυμοί, ἐριθεῖαι, διχοστασίαι, αἱρέσεις,
+1	εἰδωλολατρία,	εἰδωλολατρία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	0	root	_	verse=5:20
+2	φαρμακεία,	φαρμακεία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	verse=5:20
+3	ἔχθραι,	ἔχθρα	NOUN	N-p---fn--	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	verse=5:20
+4	⸂ἔρις,	ἔρις	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	verse=5:20
+5	ζῆλος⸃,	ζῆλος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	verse=5:20
+6	θυμοί,	θυμός	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	verse=5:20
+7	ἐριθεῖαι,	ἐριθεία	NOUN	N-p---fn--	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	verse=5:20
+8	διχοστασίαι,	διχοστασία	NOUN	N-p---fn--	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	verse=5:20
+9	αἱρέσεις,	αἵρεσις	NOUN	N-p---fn--	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	verse=5:20
+
+# sent_id = Gal.5.21
+# text = ⸀φθόνοι, μέθαι, κῶμοι, καὶ τὰ ὅμοια τούτοις, ἃ προλέγω ὑμῖν ⸀καθὼς προεῖπον ὅτι οἱ τὰ τοιαῦτα πράσσοντες βασιλείαν θεοῦ οὐ κληρονομήσουσιν.
+1	⸀φθόνοι,	φθόνος	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	verse=5:21
+2	μέθαι,	μέθη	NOUN	N-p---fn--	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	verse=5:21
+3	κῶμοι,	κῶμος	NOUN	N-p---mn--	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	verse=5:21
+4	καὶ	καί	CCONJ	C---------	_	5	cc	_	verse=5:21
+5	τὰ	ὁ	DET	S-p---nn--	Case=Nom|Gender=Neut|Number=Plur	6	det	_	verse=5:21
+6	ὅμοια	ὅμοιος	ADJ	A-p---nn--	Case=Nom|Gender=Neut|Number=Plur	7	amod	_	verse=5:21
+7	τούτοις,	οὗτος	PRON	P-p---nd--	Case=Dat|Gender=Neut|Number=Plur|PronType=Dem	9	obl	_	verse=5:21
+8	ἃ	ὅς	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	9	obj	_	verse=5:21
+9	προλέγω	προλέγω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:21
+10	ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	9	obl	_	verse=5:21
+11	⸀καθὼς	καθώς	CCONJ	C---------	_	12	cc	_	verse=5:21
+12	προεῖπον	προλέγω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	verse=5:21
+13	ὅτι	ὅτι	CCONJ	C---------	_	14	cc	_	verse=5:21
+14	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	16	det	_	verse=5:21
+15	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	16	det	_	verse=5:21
+16	τοιαῦτα	τοιοῦτος	PRON	P-p---na--	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	17	obj	_	verse=5:21
+17	πράσσοντες	πράσσω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	verse=5:21
+18	βασιλείαν	βασιλεία	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	verse=5:21
+19	θεοῦ	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	verse=5:21
+20	οὐ	οὐ	ADV	D---------	_	21	advmod	_	verse=5:21
+21	κληρονομήσουσιν.	κληρονομέω	VERB	V3pfia----	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	conj	_	verse=5:21
+
+# sent_id = Gal.5.22
+# text = Ὁ δὲ καρπὸς τοῦ πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίστις,
+1	Ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	det	_	verse=5:22
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=5:22
+3	καρπὸς	καρπός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	verse=5:22
+4	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	5	det	_	verse=5:22
+5	πνεύματός	πνεῦμα	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	verse=5:22
+6	ἐστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:22
+7	ἀγάπη,	ἀγάπη	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:22
+8	χαρά,	χαρά	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:22
+9	εἰρήνη,	εἰρήνη	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:22
+10	μακροθυμία,	μακροθυμία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:22
+11	χρηστότης,	χρηστότης	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:22
+12	ἀγαθωσύνη,	ἀγαθωσύνη	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:22
+13	πίστις,	πίστις	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=5:22
+
+# sent_id = Gal.5.23
+# text = πραΰτης, ἐγκράτεια· κατὰ τῶν τοιούτων οὐκ ἔστιν νόμος.
+1	πραΰτης,	πραΰτης	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	verse=5:23
+2	ἐγκράτεια·	ἐγκράτεια	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	verse=5:23
+3	κατὰ	κατά	ADP	R---------	_	5	case	_	verse=5:23
+4	τῶν	ὁ	DET	S-p---ng--	Case=Gen|Gender=Neut|Number=Plur	5	det	_	verse=5:23
+5	τοιούτων	τοιοῦτος	PRON	P-p---ng--	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	7	obl	_	verse=5:23
+6	οὐκ	οὐ	ADV	D---------	_	7	advmod	_	verse=5:23
+7	ἔστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:23
+8	νόμος.	νόμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	verse=5:23
+
+# sent_id = Gal.5.24
+# text = οἱ δὲ τοῦ ⸀Χριστοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις.
+1	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	4	det	_	verse=5:24
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=5:24
+3	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	det	_	verse=5:24
+4	⸀Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	verse=5:24
+5	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	6	det	_	verse=5:24
+6	σάρκα	σάρξ	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	verse=5:24
+7	ἐσταύρωσαν	σταυρόω	VERB	V3paia----	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=5:24
+8	σὺν	σύν	ADP	R---------	_	10	case	_	verse=5:24
+9	τοῖς	ὁ	DET	S-p---nd--	Case=Dat|Gender=Neut|Number=Plur	10	det	_	verse=5:24
+10	παθήμασιν	πάθημα	NOUN	N-p---nd--	Case=Dat|Gender=Neut|Number=Plur	7	obl	_	verse=5:24
+11	καὶ	καί	CCONJ	C---------	_	12	cc	_	verse=5:24
+12	ταῖς	ὁ	DET	S-p---fd--	Case=Dat|Gender=Fem|Number=Plur	13	det	_	verse=5:24
+13	ἐπιθυμίαις.	ἐπιθυμία	NOUN	N-p---fd--	Case=Dat|Gender=Fem|Number=Plur	7	obl	_	verse=5:24
+
+# sent_id = Gal.5.25
+# text = εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν.
+1	εἰ	εἰ	CCONJ	C---------	_	2	cc	_	verse=5:25
+2	ζῶμεν	ζάω	VERB	V1ppia----	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=5:25
+3	πνεύματι,	πνεῦμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	verse=5:25
+4	πνεύματι	πνεῦμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	verse=5:25
+5	καὶ	καί	ADV	D---------	_	6	advmod	_	verse=5:25
+6	στοιχῶμεν.	στοιχέω	VERB	V1ppsa----	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=5:25
+
+# sent_id = Gal.5.26
+# text = μὴ γινώμεθα κενόδοξοι, ἀλλήλους προκαλούμενοι, ἀλλήλοις φθονοῦντες.
+1	μὴ	μή	ADV	D---------	_	2	advmod	_	verse=5:26
+2	γινώμεθα	γίνομαι	VERB	V1ppsm----	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	verse=5:26
+3	κενόδοξοι,	κενόδοξος	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	verse=5:26
+4	ἀλλήλους	ἀλλήλων	PRON	P-p---ma--	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	5	obj	_	verse=5:26
+5	προκαλούμενοι,	προκαλέομαι	VERB	V-pppmmn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	2	advcl	_	verse=5:26
+6	ἀλλήλοις	ἀλλήλων	PRON	P-p---md--	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	5	obl	_	verse=5:26
+7	φθονοῦντες.	φθονέω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	verse=5:26
+
+# sent_id = Gal.6.1
+# text = Ἀδελφοί, ἐὰν καὶ προλημφθῇ ἄνθρωπος ἔν τινι παραπτώματι, ὑμεῖς οἱ πνευματικοὶ καταρτίζετε τὸν τοιοῦτον ἐν πνεύματι πραΰτητος, σκοπῶν σεαυτόν, μὴ καὶ σὺ πειρασθῇς.
+1	Ἀδελφοί,	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	verse=6:1
+2	ἐὰν	ἐάν	CCONJ	C---------	_	3	cc	_	verse=6:1
+3	καὶ	καί	ADV	D---------	_	4	advmod	_	verse=6:1
+4	προλημφθῇ	προλαμβάνω	VERB	V3sasp----	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	verse=6:1
+5	ἄνθρωπος	ἄνθρωπος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	verse=6:1
+6	ἔν	ἐν	ADP	R---------	_	7	case	_	verse=6:1
+7	τινι	τις	PRON	P-s---nd--	Case=Dat|Gender=Neut|Number=Sing|PronType=Int	4	obl	_	verse=6:1
+8	παραπτώματι,	παράπτωμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	verse=6:1
+9	ὑμεῖς	σύ	PRON	P-p----n--	Case=Nom|Number=Plur|PronType=Prs	4	nsubj	_	verse=6:1
+10	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	11	det	_	verse=6:1
+11	πνευματικοὶ	πνευματικός	ADJ	A-p---mn--	Case=Nom|Gender=Masc|Number=Plur	14	amod	_	verse=6:1
+12	καταρτίζετε	καταρτίζω	VERB	V2ppma----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	verse=6:1
+13	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	14	det	_	verse=6:1
+14	τοιοῦτον	τοιοῦτος	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	12	obj	_	verse=6:1
+15	ἐν	ἐν	ADP	R---------	_	16	case	_	verse=6:1
+16	πνεύματι	πνεῦμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	18	obl	_	verse=6:1
+17	πραΰτητος,	πραΰτης	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	verse=6:1
+18	σκοπῶν	σκοπέω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	verse=6:1
+19	σεαυτόν,	σεαυτοῦ	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	18	obj	_	verse=6:1
+20	μὴ	μή	CCONJ	C---------	_	21	cc	_	verse=6:1
+21	καὶ	καί	ADV	D---------	_	23	advmod	_	verse=6:1
+22	σὺ	σύ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	4	nsubj	_	verse=6:1
+23	πειρασθῇς.	πειράζω	VERB	V2sasp----	Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	4	conj	_	verse=6:1
+
+# sent_id = Gal.6.2
+# text = ἀλλήλων τὰ βάρη βαστάζετε, καὶ οὕτως ⸀ἀναπληρώσετε τὸν νόμον τοῦ Χριστοῦ.
+1	ἀλλήλων	ἀλλήλων	PRON	P-p---mg--	Case=Gen|Gender=Masc|Number=Plur|PronType=Prs	4	obl	_	verse=6:2
+2	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	3	det	_	verse=6:2
+3	βάρη	βάρος	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	verse=6:2
+4	βαστάζετε,	βαστάζω	VERB	V2ppma----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	verse=6:2
+5	καὶ	καί	CCONJ	C---------	_	6	cc	_	verse=6:2
+6	οὕτως	οὕτω(ς)	ADV	D---------	_	7	advmod	_	verse=6:2
+7	⸀ἀναπληρώσετε	ἀναπληρόω	VERB	V2pfia----	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	verse=6:2
+8	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	9	det	_	verse=6:2
+9	νόμον	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	verse=6:2
+10	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	11	det	_	verse=6:2
+11	Χριστοῦ.	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	verse=6:2
+
+# sent_id = Gal.6.3
+# text = εἰ γὰρ δοκεῖ τις εἶναί τι μηδὲν ὤν, ⸂φρεναπατᾷ ἑαυτόν⸃·
+1	εἰ	εἰ	CCONJ	C---------	_	2	cc	_	verse=6:3
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=6:3
+3	δοκεῖ	δοκέω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=6:3
+4	τις	τις	PRON	P-s---mn--	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	nsubj	_	verse=6:3
+5	εἶναί	εἰμί	VERB	V--pna----	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	verse=6:3
+6	τι	τις	PRON	P-s---nn--	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	verse=6:3
+7	μηδὲν	μηδείς	ADJ	A-s---nn--	Case=Nom|Gender=Neut|Number=Sing	10	amod	_	verse=6:3
+8	ὤν,	εἰμί	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	verse=6:3
+9	⸂φρεναπατᾷ	φρεναπατάω	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	verse=6:3
+10	ἑαυτόν⸃·	ἑαυτοῦ	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	9	obj	_	verse=6:3
+
+# sent_id = Gal.6.4
+# text = τὸ δὲ ἔργον ἑαυτοῦ δοκιμαζέτω ἕκαστος, καὶ τότε εἰς ἑαυτὸν μόνον τὸ καύχημα ἕξει καὶ οὐκ εἰς τὸν ἕτερον,
+1	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	3	det	_	verse=6:4
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=6:4
+3	ἔργον	ἔργον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	verse=6:4
+4	ἑαυτοῦ	ἑαυτοῦ	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	5	obl	_	verse=6:4
+5	δοκιμαζέτω	δοκιμάζω	VERB	V3spma----	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	verse=6:4
+6	ἕκαστος,	ἕκαστος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	verse=6:4
+7	καὶ	καί	CCONJ	C---------	_	8	cc	_	verse=6:4
+8	τότε	τότε	ADV	D---------	_	5	advmod	_	verse=6:4
+9	εἰς	εἰς	ADP	R---------	_	10	case	_	verse=6:4
+10	ἑαυτὸν	ἑαυτοῦ	PRON	P-s---ma--	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	14	obj	_	verse=6:4
+11	μόνον	μόνος	ADJ	A-s---ma--	Case=Acc|Gender=Masc|Number=Sing	13	amod	_	verse=6:4
+12	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	13	det	_	verse=6:4
+13	καύχημα	καύχημα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	verse=6:4
+14	ἕξει	ἔχω	VERB	V3sfia----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	verse=6:4
+15	καὶ	καί	CCONJ	C---------	_	16	cc	_	verse=6:4
+16	οὐκ	οὐ	ADV	D---------	_	14	advmod	_	verse=6:4
+17	εἰς	εἰς	ADP	R---------	_	19	case	_	verse=6:4
+18	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	19	det	_	verse=6:4
+19	ἕτερον,	ἕτερος	ADJ	A-s---ma--	Case=Acc|Gender=Masc|Number=Sing	13	amod	_	verse=6:4
+
+# sent_id = Gal.6.5
+# text = ἕκαστος γὰρ τὸ ἴδιον φορτίον βαστάσει.
+1	ἕκαστος	ἕκαστος	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	verse=6:5
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=6:5
+3	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	4	det	_	verse=6:5
+4	ἴδιον	ἴδιος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	5	amod	_	verse=6:5
+5	φορτίον	φορτίον	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	verse=6:5
+6	βαστάσει.	βαστάζω	VERB	V3sfia----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	verse=6:5
+
+# sent_id = Gal.6.6
+# text = Κοινωνείτω δὲ ὁ κατηχούμενος τὸν λόγον τῷ κατηχοῦντι ἐν πᾶσιν ἀγαθοῖς.
+1	Κοινωνείτω	κοινωνέω	VERB	V3spma----	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=6:6
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=6:6
+3	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	det	_	verse=6:6
+4	κατηχούμενος	κατηχέω	VERB	V-spppmn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	verse=6:6
+5	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	det	_	verse=6:6
+6	λόγον	λόγος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	verse=6:6
+7	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	10	det	_	verse=6:6
+8	κατηχοῦντι	κατηχέω	VERB	V-sppamd--	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	verse=6:6
+9	ἐν	ἐν	ADP	R---------	_	10	case	_	verse=6:6
+10	πᾶσιν	πᾶς	ADJ	A-p---nd--	Case=Dat|Gender=Neut|Number=Plur	11	amod	_	verse=6:6
+11	ἀγαθοῖς.	ἀγαθός	ADJ	A-p---nd--	Case=Dat|Gender=Neut|Number=Plur	10	amod	_	verse=6:6
+
+# sent_id = Gal.6.7
+# text = μὴ πλανᾶσθε, θεὸς οὐ μυκτηρίζεται· ὃ γὰρ ⸀ἐὰν σπείρῃ ἄνθρωπος, τοῦτο καὶ θερίσει·
+1	μὴ	μή	ADV	D---------	_	2	advmod	_	verse=6:7
+2	πλανᾶσθε,	πλανάω	VERB	V2ppmp----	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	verse=6:7
+3	θεὸς	θεός	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	verse=6:7
+4	οὐ	οὐ	ADV	D---------	_	5	advmod	_	verse=6:7
+5	μυκτηρίζεται·	μυκτηρίζω	VERB	V3spip----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	verse=6:7
+6	ὃ	ὅς	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	verse=6:7
+7	γὰρ	γάρ	CCONJ	C---------	_	8	cc	_	verse=6:7
+8	⸀ἐὰν	ἐάν	PART	G---------	_	9	discourse	_	verse=6:7
+9	σπείρῃ	σπείρω	VERB	V3spsa----	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	verse=6:7
+10	ἄνθρωπος,	ἄνθρωπος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	verse=6:7
+11	τοῦτο	οὗτος	PRON	P-s---na--	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	verse=6:7
+12	καὶ	καί	ADV	D---------	_	13	advmod	_	verse=6:7
+13	θερίσει·	θερίζω	VERB	V3sfia----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	conj	_	verse=6:7
+
+# sent_id = Gal.6.8
+# text = ὅτι ὁ σπείρων εἰς τὴν σάρκα ἑαυτοῦ ἐκ τῆς σαρκὸς θερίσει φθοράν, ὁ δὲ σπείρων εἰς τὸ πνεῦμα ἐκ τοῦ πνεύματος θερίσει ζωὴν αἰώνιον.
+1	ὅτι	ὅτι	CCONJ	C---------	_	2	cc	_	verse=6:8
+2	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	6	det	_	verse=6:8
+3	σπείρων	σπείρω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	verse=6:8
+4	εἰς	εἰς	ADP	R---------	_	6	case	_	verse=6:8
+5	τὴν	ὁ	DET	S-s---fa--	Case=Acc|Gender=Fem|Number=Sing	6	det	_	verse=6:8
+6	σάρκα	σάρξ	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	verse=6:8
+7	ἑαυτοῦ	ἑαυτοῦ	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	11	obl	_	verse=6:8
+8	ἐκ	ἐκ	ADP	R---------	_	10	case	_	verse=6:8
+9	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	10	det	_	verse=6:8
+10	σαρκὸς	σάρξ	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	verse=6:8
+11	θερίσει	θερίζω	VERB	V3sfia----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	verse=6:8
+12	φθοράν,	φθορά	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	verse=6:8
+13	ὁ	ὁ	DET	S-s---mn--	Case=Nom|Gender=Masc|Number=Sing	18	det	_	verse=6:8
+14	δὲ	δέ	CCONJ	C---------	_	15	cc	_	verse=6:8
+15	σπείρων	σπείρω	VERB	V-sppamn--	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	verse=6:8
+16	εἰς	εἰς	ADP	R---------	_	18	case	_	verse=6:8
+17	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	18	det	_	verse=6:8
+18	πνεῦμα	πνεῦμα	NOUN	N-s---na--	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	verse=6:8
+19	ἐκ	ἐκ	ADP	R---------	_	21	case	_	verse=6:8
+20	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	21	det	_	verse=6:8
+21	πνεύματος	πνεῦμα	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	verse=6:8
+22	θερίσει	θερίζω	VERB	V3sfia----	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	conj	_	verse=6:8
+23	ζωὴν	ζωή	NOUN	N-s---fa--	Case=Acc|Gender=Fem|Number=Sing	22	obj	_	verse=6:8
+24	αἰώνιον.	αἰώνιος	ADJ	A-s---fa--	Case=Acc|Gender=Fem|Number=Sing	23	amod	_	verse=6:8
+
+# sent_id = Gal.6.9
+# text = τὸ δὲ καλὸν ποιοῦντες μὴ ⸀ἐγκακῶμεν, καιρῷ γὰρ ἰδίῳ θερίσομεν μὴ ἐκλυόμενοι.
+1	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	3	det	_	verse=6:9
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=6:9
+3	καλὸν	καλός	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	7	amod	_	verse=6:9
+4	ποιοῦντες	ποιέω	VERB	V-pppamn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	verse=6:9
+5	μὴ	μή	ADV	D---------	_	4	advmod	_	verse=6:9
+6	⸀ἐγκακῶμεν,	ἐγκακέω	VERB	V1ppsa----	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	verse=6:9
+7	καιρῷ	καιρός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	verse=6:9
+8	γὰρ	γάρ	CCONJ	C---------	_	9	cc	_	verse=6:9
+9	ἰδίῳ	ἴδιος	ADJ	A-s---md--	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	verse=6:9
+10	θερίσομεν	θερίζω	VERB	V1pfia----	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	verse=6:9
+11	μὴ	μή	ADV	D---------	_	10	advmod	_	verse=6:9
+12	ἐκλυόμενοι.	ἐκλύομαι	VERB	V-ppppmn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	10	advcl	_	verse=6:9
+
+# sent_id = Gal.6.10
+# text = ἄρα οὖν ὡς καιρὸν ⸀ἔχομεν, ἐργαζώμεθα τὸ ἀγαθὸν πρὸς πάντας, μάλιστα δὲ πρὸς τοὺς οἰκείους τῆς πίστεως.
+1	ἄρα	ἄρα	CCONJ	C---------	_	2	cc	_	verse=6:10
+2	οὖν	οὖν	CCONJ	C---------	_	3	cc	_	verse=6:10
+3	ὡς	ὡς	CCONJ	C---------	_	4	cc	_	verse=6:10
+4	καιρὸν	καιρός	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	verse=6:10
+5	⸀ἔχομεν,	ἔχω	VERB	V1ppia----	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=6:10
+6	ἐργαζώμεθα	ἐργάζομαι	VERB	V1ppsm----	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	5	conj	_	verse=6:10
+7	τὸ	ὁ	DET	S-s---na--	Case=Acc|Gender=Neut|Number=Sing	8	det	_	verse=6:10
+8	ἀγαθὸν	ἀγαθός	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	verse=6:10
+9	πρὸς	πρός	ADP	R---------	_	10	case	_	verse=6:10
+10	πάντας,	πᾶς	ADJ	A-p---ma--	Case=Acc|Gender=Masc|Number=Plur	15	amod	_	verse=6:10
+11	μάλιστα	μάλιστα	ADV	D---------	_	6	advmod	_	verse=6:10
+12	δὲ	δέ	CCONJ	C---------	_	13	cc	_	verse=6:10
+13	πρὸς	πρός	ADP	R---------	_	15	case	_	verse=6:10
+14	τοὺς	ὁ	DET	S-p---ma--	Case=Acc|Gender=Masc|Number=Plur	15	det	_	verse=6:10
+15	οἰκείους	οἰκεῖος	ADJ	A-p---ma--	Case=Acc|Gender=Masc|Number=Plur	17	amod	_	verse=6:10
+16	τῆς	ὁ	DET	S-s---fg--	Case=Gen|Gender=Fem|Number=Sing	17	det	_	verse=6:10
+17	πίστεως.	πίστις	NOUN	N-s---fg--	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	verse=6:10
+
+# sent_id = Gal.6.11
+# text = Ἴδετε πηλίκοις ὑμῖν γράμμασιν ἔγραψα τῇ ἐμῇ χειρί.
+1	Ἴδετε	ὁράω	VERB	V2pama----	Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	verse=6:11
+2	πηλίκοις	πηλίκος	PRON	P-p---nd--	Case=Dat|Gender=Neut|Number=Plur|PronType=Int	1	obl	_	verse=6:11
+3	ὑμῖν	σύ	PRON	P-p----d--	Case=Dat|Number=Plur|PronType=Prs	5	obl	_	verse=6:11
+4	γράμμασιν	γράμμα	NOUN	N-p---nd--	Case=Dat|Gender=Neut|Number=Plur	5	obl	_	verse=6:11
+5	ἔγραψα	γράφω	VERB	V1saia----	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	verse=6:11
+6	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	7	det	_	verse=6:11
+7	ἐμῇ	ἐμός	ADJ	A-s---fd--	Case=Dat|Gender=Fem|Number=Sing	8	amod	_	verse=6:11
+8	χειρί.	χείρ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	verse=6:11
+
+# sent_id = Gal.6.12
+# text = ὅσοι θέλουσιν εὐπροσωπῆσαι ἐν σαρκί, οὗτοι ἀναγκάζουσιν ὑμᾶς περιτέμνεσθαι, μόνον ⸀ἵνα τῷ σταυρῷ τοῦ ⸀Χριστοῦ ⸀μὴ διώκωνται·
+1	ὅσοι	ὅσος	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	2	nsubj	_	verse=6:12
+2	θέλουσιν	θέλω	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=6:12
+3	εὐπροσωπῆσαι	εὐπροσωπέω	VERB	V--ana----	Tense=Past|VerbForm=Inf|Voice=Act	2	xcomp	_	verse=6:12
+4	ἐν	ἐν	ADP	R---------	_	5	case	_	verse=6:12
+5	σαρκί,	σάρξ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	verse=6:12
+6	οὗτοι	οὗτος	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	nsubj	_	verse=6:12
+7	ἀναγκάζουσιν	ἀναγκάζω	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	verse=6:12
+8	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	7	obj	_	verse=6:12
+9	περιτέμνεσθαι,	περιτέμνω	VERB	V--pnp----	Tense=Pres|VerbForm=Inf|Voice=Pass	7	xcomp	_	verse=6:12
+10	μόνον	μόνος	ADJ	A-s---na--	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	verse=6:12
+11	⸀ἵνα	ἵνα	CCONJ	C---------	_	12	cc	_	verse=6:12
+12	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	13	det	_	verse=6:12
+13	σταυρῷ	σταυρός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	verse=6:12
+14	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	15	det	_	verse=6:12
+15	⸀Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	verse=6:12
+16	⸀μὴ	μή	ADV	D---------	_	17	advmod	_	verse=6:12
+17	διώκωνται·	διώκω	VERB	V3ppsp----	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	verse=6:12
+
+# sent_id = Gal.6.13
+# text = οὐδὲ γὰρ οἱ ⸀περιτεμνόμενοι αὐτοὶ νόμον φυλάσσουσιν, ἀλλὰ θέλουσιν ὑμᾶς περιτέμνεσθαι ἵνα ἐν τῇ ὑμετέρᾳ σαρκὶ καυχήσωνται.
+1	οὐδὲ	οὐδέ	ADV	D---------	_	4	advmod	_	verse=6:13
+2	γὰρ	γάρ	CCONJ	C---------	_	3	cc	_	verse=6:13
+3	οἱ	ὁ	DET	S-p---mn--	Case=Nom|Gender=Masc|Number=Plur	5	det	_	verse=6:13
+4	⸀περιτεμνόμενοι	περιτέμνω	VERB	V-ppppmn--	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	7	advcl	_	verse=6:13
+5	αὐτοὶ	αὐτός	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	7	nsubj	_	verse=6:13
+6	νόμον	νόμος	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	verse=6:13
+7	φυλάσσουσιν,	φυλάσσω	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=6:13
+8	ἀλλὰ	ἀλλά	CCONJ	C---------	_	9	cc	_	verse=6:13
+9	θέλουσιν	θέλω	VERB	V3ppia----	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	verse=6:13
+10	ὑμᾶς	σύ	PRON	P-p----a--	Case=Acc|Number=Plur|PronType=Prs	9	obj	_	verse=6:13
+11	περιτέμνεσθαι	περιτέμνω	VERB	V--pnp----	Tense=Pres|VerbForm=Inf|Voice=Pass	9	xcomp	_	verse=6:13
+12	ἵνα	ἵνα	CCONJ	C---------	_	13	cc	_	verse=6:13
+13	ἐν	ἐν	ADP	R---------	_	15	case	_	verse=6:13
+14	τῇ	ὁ	DET	S-s---fd--	Case=Dat|Gender=Fem|Number=Sing	15	det	_	verse=6:13
+15	ὑμετέρᾳ	ὑμέτερος	ADJ	A-s---fd--	Case=Dat|Gender=Fem|Number=Sing	16	amod	_	verse=6:13
+16	σαρκὶ	σάρξ	NOUN	N-s---fd--	Case=Dat|Gender=Fem|Number=Sing	17	obl	_	verse=6:13
+17	καυχήσωνται.	καυχάομαι	VERB	V3pasm----	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	verse=6:13
+
+# sent_id = Gal.6.14
+# text = ἐμοὶ δὲ μὴ γένοιτο καυχᾶσθαι εἰ μὴ ἐν τῷ σταυρῷ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, δι’ οὗ ἐμοὶ κόσμος ἐσταύρωται ⸀κἀγὼ κόσμῳ.
+1	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	4	obl	_	verse=6:14
+2	δὲ	δέ	CCONJ	C---------	_	3	cc	_	verse=6:14
+3	μὴ	μή	ADV	D---------	_	4	advmod	_	verse=6:14
+4	γένοιτο	γίνομαι	VERB	V3saom----	Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	20	conj	_	verse=6:14
+5	καυχᾶσθαι	καυχάομαι	VERB	V--pnm----	Tense=Pres|VerbForm=Inf|Voice=Mid	4	xcomp	_	verse=6:14
+6	εἰ	εἰ	CCONJ	C---------	_	7	cc	_	verse=6:14
+7	μὴ	μή	ADV	D---------	_	5	advmod	_	verse=6:14
+8	ἐν	ἐν	ADP	R---------	_	10	case	_	verse=6:14
+9	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	10	det	_	verse=6:14
+10	σταυρῷ	σταυρός	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	verse=6:14
+11	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	12	det	_	verse=6:14
+12	κυρίου	κύριος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	verse=6:14
+13	ἡμῶν	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	20	obl	_	verse=6:14
+14	Ἰησοῦ	Ἰησοῦς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	verse=6:14
+15	Χριστοῦ,	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	verse=6:14
+16	δι’	διά	ADP	R---------	_	17	case	_	verse=6:14
+17	οὗ	ὅς	PRON	P-s---mg--	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	20	obl	_	verse=6:14
+18	ἐμοὶ	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	20	obl	_	verse=6:14
+19	κόσμος	κόσμος	NOUN	N-s---mn--	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	verse=6:14
+20	ἐσταύρωται	σταυρόω	VERB	V3srip----	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Pass	0	root	_	verse=6:14
+21	⸀κἀγὼ	κἀγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	20	nsubj	_	verse=6:14
+22	κόσμῳ.	κόσμος	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	20	obl	_	verse=6:14
+
+# sent_id = Gal.6.15
+# text = ⸂οὔτε γὰρ⸃ περιτομή τί ⸀ἐστιν οὔτε ἀκροβυστία, ἀλλὰ καινὴ κτίσις.
+1	⸂οὔτε	οὔτε	CCONJ	C---------	_	2	cc	_	verse=6:15
+2	γὰρ⸃	γάρ	CCONJ	C---------	_	3	cc	_	verse=6:15
+3	περιτομή	περιτομή	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	verse=6:15
+4	τί	τις	PRON	P-s---nn--	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	verse=6:15
+5	⸀ἐστιν	εἰμί	VERB	V3spia----	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=6:15
+6	οὔτε	οὔτε	CCONJ	C---------	_	7	cc	_	verse=6:15
+7	ἀκροβυστία,	ἀκροβυστία	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	verse=6:15
+8	ἀλλὰ	ἀλλά	CCONJ	C---------	_	9	cc	_	verse=6:15
+9	καινὴ	καινός	ADJ	A-s---fn--	Case=Nom|Gender=Fem|Number=Sing	10	amod	_	verse=6:15
+10	κτίσις.	κτίσις	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	verse=6:15
+
+# sent_id = Gal.6.16
+# text = καὶ ὅσοι τῷ κανόνι τούτῳ στοιχήσουσιν, εἰρήνη ἐπ’ αὐτοὺς καὶ ἔλεος, καὶ ἐπὶ τὸν Ἰσραὴλ τοῦ θεοῦ.
+1	καὶ	καί	CCONJ	C---------	_	2	cc	_	verse=6:16
+2	ὅσοι	ὅσος	PRON	P-p---mn--	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	6	nsubj	_	verse=6:16
+3	τῷ	ὁ	DET	S-s---md--	Case=Dat|Gender=Masc|Number=Sing	4	det	_	verse=6:16
+4	κανόνι	κανών	NOUN	N-s---md--	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	verse=6:16
+5	τούτῳ	οὗτος	PRON	P-s---md--	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	verse=6:16
+6	στοιχήσουσιν,	στοιχέω	VERB	V3pfia----	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	verse=6:16
+7	εἰρήνη	εἰρήνη	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	verse=6:16
+8	ἐπ’	ἐπί	ADP	R---------	_	9	case	_	verse=6:16
+9	αὐτοὺς	αὐτός	PRON	P-p---ma--	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	6	obj	_	verse=6:16
+10	καὶ	καί	CCONJ	C---------	_	11	cc	_	verse=6:16
+11	ἔλεος,	ἔλεος	NOUN	N-s---nn--	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	verse=6:16
+12	καὶ	καί	CCONJ	C---------	_	13	cc	_	verse=6:16
+13	ἐπὶ	ἐπί	ADP	R---------	_	15	case	_	verse=6:16
+14	τὸν	ὁ	DET	S-s---ma--	Case=Acc|Gender=Masc|Number=Sing	15	det	_	verse=6:16
+15	Ἰσραὴλ	Ἰσραήλ	NOUN	N-s---ma--	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	verse=6:16
+16	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	17	det	_	verse=6:16
+17	θεοῦ.	θεός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	verse=6:16
+
+# sent_id = Gal.6.17
+# text = Τοῦ λοιποῦ κόπους μοι μηδεὶς παρεχέτω, ἐγὼ γὰρ τὰ στίγματα ⸀τοῦ Ἰησοῦ ἐν τῷ σώματί μου βαστάζω.
+1	Τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	2	det	_	verse=6:17
+2	λοιποῦ	λοιπός	ADJ	A-s---ng--	Case=Gen|Gender=Neut|Number=Sing	3	amod	_	verse=6:17
+3	κόπους	κόπος	NOUN	N-p---ma--	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	verse=6:17
+4	μοι	ἐγώ	PRON	P-s----d--	Case=Dat|Number=Sing|PronType=Prs	6	obl	_	verse=6:17
+5	μηδεὶς	μηδείς	ADJ	A-s---mn--	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	verse=6:17
+6	παρεχέτω,	παρέχω	VERB	V3spma----	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	verse=6:17
+7	ἐγὼ	ἐγώ	PRON	P-s----n--	Case=Nom|Number=Sing|PronType=Prs	17	nsubj	_	verse=6:17
+8	γὰρ	γάρ	CCONJ	C---------	_	9	cc	_	verse=6:17
+9	τὰ	ὁ	DET	S-p---na--	Case=Acc|Gender=Neut|Number=Plur	10	det	_	verse=6:17
+10	στίγματα	στίγμα	NOUN	N-p---na--	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	verse=6:17
+11	⸀τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	12	det	_	verse=6:17
+12	Ἰησοῦ	Ἰησοῦς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	verse=6:17
+13	ἐν	ἐν	ADP	R---------	_	15	case	_	verse=6:17
+14	τῷ	ὁ	DET	S-s---nd--	Case=Dat|Gender=Neut|Number=Sing	15	det	_	verse=6:17
+15	σώματί	σῶμα	NOUN	N-s---nd--	Case=Dat|Gender=Neut|Number=Sing	17	obl	_	verse=6:17
+16	μου	ἐγώ	PRON	P-s----g--	Case=Gen|Number=Sing|PronType=Prs	17	obl	_	verse=6:17
+17	βαστάζω.	βαστάζω	VERB	V1spia----	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	verse=6:17
+
+# sent_id = Gal.6.18
+# text = Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν, ἀδελφοί· ἀμήν.
+1	Ἡ	ὁ	DET	S-s---fn--	Case=Nom|Gender=Fem|Number=Sing	2	det	_	verse=6:18
+2	χάρις	χάρις	NOUN	N-s---fn--	Case=Nom|Gender=Fem|Number=Sing	0	root	_	verse=6:18
+3	τοῦ	ὁ	DET	S-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	det	_	verse=6:18
+4	κυρίου	κύριος	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	verse=6:18
+5	ἡμῶν	ἐγώ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	2	obl	_	verse=6:18
+6	Ἰησοῦ	Ἰησοῦς	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	verse=6:18
+7	Χριστοῦ	Χριστός	NOUN	N-s---mg--	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	verse=6:18
+8	μετὰ	μετά	ADP	R---------	_	10	case	_	verse=6:18
+9	τοῦ	ὁ	DET	S-s---ng--	Case=Gen|Gender=Neut|Number=Sing	10	det	_	verse=6:18
+10	πνεύματος	πνεῦμα	NOUN	N-s---ng--	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	verse=6:18
+11	ὑμῶν,	σύ	PRON	P-p----g--	Case=Gen|Number=Plur|PronType=Prs	2	obl	_	verse=6:18
+12	ἀδελφοί·	ἀδελφός	NOUN	N-p---mv--	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	verse=6:18
+13	ἀμήν.	ἀμήν	PART	G---------	_	2	discourse	_	verse=6:18

@@ -1,0 +1,16 @@
+================================================================================
+  Catholic G→J: Summary
+================================================================================
+
+  Total clauses analyzed:  107
+  Scorable:               102
+  Fully editorial:        5
+  Tradition flips:        27
+  Flip rate:              26.5%
+
+  Robustness:
+    ROBUST:  0
+    RARE:    1
+    FRAGILE: 26
+
+  Robust flips:

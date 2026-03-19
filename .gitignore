@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+venv/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.vs/
+
+# Extracted corpus (keep only the .tar.gz)
+Corpus/jewish/
+Corpus/gentile/

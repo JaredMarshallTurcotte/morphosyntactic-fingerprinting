@@ -1,0 +1,54 @@
+====================================================================================================
+  REDACTION ANALYSIS: Per-Book Summaries
+====================================================================================================
+
+  Book                    Jewish  Markers  Flips    Rate  FullEd  MeanDelta
+  ---------------------- ------- -------- ------ ------- ------- ----------
+  Matthew                     55       55      3   5.5%      19    +0.012
+  Mark                        23       23      0   0.0%      10    -0.007
+  Luke                        27       27      1   3.7%      12    +0.020
+  John                        47       47      2   4.3%      25    -0.007
+  Acts                        15       15      0   0.0%       4    +0.016
+  Romans                      45       45      2   4.4%      17    +0.041
+  1 Corinthians               20       20      1   5.0%      10    +0.096
+  2 Corinthians               16       16      5  31.2%       0    +0.058
+  Galatians                   17       17      0   0.0%       1    +0.031
+  Ephesians                   13       13      0   0.0%       0    +0.022
+  Philippians                 15       15      2  13.3%       1    +0.074
+  Colossians                  10       10      1  10.0%       0    +0.012
+  1 Thessalonians              7        7      2  28.6%       0    +0.112
+  2 Thessalonians              8        8      0   0.0%       0    +0.046
+  1 Timothy                    5        5      0   0.0%       0    +0.087
+  2 Timothy                    9        9      1  11.1%       0    +0.057
+  Titus                        3        3      0   0.0%       0    +0.018
+  Philemon                     2        2      0   0.0%       0    +0.030
+  Hebrews                     17       17      1   5.9%       1    +0.003
+  James                        5        5      1  20.0%       0    +0.129
+  1 Peter                      8        8      0   0.0%       0    -0.012
+  2 Peter                      3        3      0   0.0%       0    +0.003
+  1 John                      11       11      1   9.1%       1    +0.036
+  2 John                       4        4      1  25.0%       0    +0.129
+  3 John                       1        1      0   0.0%       1    +0.000
+  Jude                         3        3      0   0.0%       0    +0.015
+  Revelation                  13       13      0   0.0%       1    +0.024
+
+
+====================================================================================================
+  Per-Category Flip Drivers (individual category strips that cause flips)
+====================================================================================================
+
+  Matthew                christological=3, kyrios=1
+  Mark                   christological=1
+  Luke                   christological=1
+  John                   christological=2
+  Romans                 christological=1, torah_law=1
+  1 Corinthians          christological=1, scripture_citation=1
+  2 Corinthians          christological=4, kyrios=1
+  Philippians            christological=1, kyrios=1, scripture_citation=1, torah_law=1
+  Colossians             christological=1
+  1 Thessalonians        christological=1, kyrios=1
+  2 Timothy              christological=1
+  Hebrews                kyrios=1
+  James                  kyrios=1
+  1 John                 torah_law=1
+  2 John                 torah_law=1

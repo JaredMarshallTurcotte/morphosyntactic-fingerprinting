@@ -1,0 +1,30 @@
+====================================================================================================
+  REDACTION DETECTION: Summary Statistics
+====================================================================================================
+
+  Total Jewish clauses analyzed:        402
+  Clauses with editorial markers:       402 (100.0%)
+  Tradition flips (all-strip):           24 (6.0% of marked)
+  Fully editorial (<3 tokens left):     103
+
+  Flip deltas:  mean=+0.209  median=+0.165  max=+0.486
+
+
+  Book Category        Jewish Cls  Flips    Rate
+  -------------------- ---------- ------ -------
+  Gospel                      152      6   3.9%
+  KnownPauline                122     12   9.8%
+  UncertainPaul                31      1   3.2%
+  Disputed                     49      2   4.1%
+  Catholic                     35      3   8.6%
+  Apocalyptic                  13      0   0.0%
+
+
+  Editorial Category      Tested  Flips    Rate  Mean Delta
+  ---------------------- ------- ------ ------- -----------
+  christological             240     17   7.1%     +0.029
+  kyrios                     117      6   5.1%     +0.035
+  patriarchal                 44      0   0.0%     +0.004
+  scripture_citation          35      2   5.7%     +0.028
+  prophetic                   13      0   0.0%     +0.014
+  torah_law                   24      4  16.7%     +0.095

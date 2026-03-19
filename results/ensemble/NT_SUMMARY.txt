@@ -1,0 +1,105 @@
+==========================================================================================
+  NEW TESTAMENT - DEEP ENSEMBLE GRAMMAR TRADITION ANALYSIS
+  10x MorphTagTransformer (seeds 42-51), averaged softmax + uncertainty
+  Corpus: PrunedCorpus (no Septuagint, genre-balanced Gentile)
+==========================================================================================
+
+
+  GOSPELS
+  --------------------------------------------------------------------------------
+  Book                  Clauses  Mean P(J)    Unc        J/G  %Jewish    Signal
+  Matthew                  1612      0.782  0.105   1433/179    88.9%    JEWISH
+  Mark                      998      0.792  0.100    894/104    89.6%    JEWISH
+  Luke                     1642      0.787  0.102   1465/177    89.2%    JEWISH
+  John                     1445      0.800  0.110   1329/116    92.0%    JEWISH
+  AVERAGE                            0.790  0.104
+
+  KNOWN PAULINE
+  --------------------------------------------------------------------------------
+  Book                  Clauses  Mean P(J)    Unc        J/G  %Jewish    Signal
+  Romans                    490      0.743  0.112     406/84    82.9%    JEWISH
+  1 Corinthians             543      0.663  0.131    415/128    76.4%    JEWISH
+  2 Corinthians             262      0.743  0.115     222/40    84.7%    JEWISH
+  Galatians                 159      0.722  0.125     130/29    81.8%    JEWISH
+  Philippians                79      0.713  0.112      66/13    83.5%    JEWISH
+  1 Thessalonians            66      0.713  0.132      50/16    75.8%    JEWISH
+  Philemon                   17      0.859  0.098       16/1    94.1%    JEWISH
+  AVERAGE                            0.737  0.118
+
+  UNCERTAIN PAULINE
+  --------------------------------------------------------------------------------
+  Book                  Clauses  Mean P(J)    Unc        J/G  %Jewish    Signal
+  Ephesians                  80      0.816  0.088      70/10    87.5%    JEWISH
+  Colossians                 68      0.796  0.104      57/11    83.8%    JEWISH
+  2 Thessalonians            33      0.840  0.080       28/5    84.8%    JEWISH
+  AVERAGE                            0.817  0.091
+
+  DISPUTED ATTRIBUTION
+  --------------------------------------------------------------------------------
+  Book                  Clauses  Mean P(J)    Unc        J/G  %Jewish    Signal
+  Acts                     1156      0.811  0.095    1068/88    92.4%    JEWISH
+  1 Timothy                  92      0.747  0.109      80/12    87.0%    JEWISH
+  2 Timothy                  76      0.798  0.110       72/4    94.7%    JEWISH
+  Titus                      33      0.755  0.112       27/6    81.8%    JEWISH
+  Hebrews                   282      0.755  0.107     249/33    88.3%    JEWISH
+  AVERAGE                            0.773  0.107
+
+  CATHOLIC EPISTLES
+  --------------------------------------------------------------------------------
+  Book                  Clauses  Mean P(J)    Unc        J/G  %Jewish    Signal
+  James                     145      0.713  0.119     122/23    84.1%    JEWISH
+  1 Peter                    92      0.733  0.121      78/14    84.8%    JEWISH
+  2 Peter                    47      0.815  0.085       41/6    87.2%    JEWISH
+  1 John                    140      0.823  0.105     128/12    91.4%    JEWISH
+  2 John                     15      0.935  0.056       15/0   100.0%    JEWISH
+  3 John                     19      0.656  0.141       14/5    73.7%    JEWISH
+  Jude                       22      0.791  0.109       20/2    90.9%    JEWISH
+  AVERAGE                            0.781  0.105
+
+  APOCALYPTIC
+  --------------------------------------------------------------------------------
+  Book                  Clauses  Mean P(J)    Unc        J/G  %Jewish    Signal
+  Revelation                534      0.861  0.076     500/34    93.6%    JEWISH
+  AVERAGE                            0.861  0.076
+
+
+==========================================================================================
+  OVERALL NT STATISTICS
+==========================================================================================
+  Total clauses analyzed: 10147
+  Mean P(Jewish): 0.781 +/- 0.105
+  Jewish clauses: 8995/10147 (88.6%)
+  Gentile clauses: 1152/10147 (11.4%)
+  High-confidence Jewish (P>0.7, unc<0.05): 2772
+  High-confidence Gentile (P<0.3, unc<0.05): 10
+
+
+  BOOKS RANKED BY P(JEWISH)
+  --------------------------------------------------------------------------------
+   1. 2 John               [████████████████████████████░░] 0.935 +/-0.056  (Catholic)
+   2. Revelation           [█████████████████████████░░░░░] 0.861 +/-0.076  (Apocalyptic)
+   3. Philemon             [█████████████████████████░░░░░] 0.859 +/-0.098  (KnownPauline)
+   4. 2 Thessalonians      [█████████████████████████░░░░░] 0.840 +/-0.080  (UncertainPaul)
+   5. 1 John               [████████████████████████░░░░░░] 0.823 +/-0.105  (Catholic)
+   6. Ephesians            [████████████████████████░░░░░░] 0.816 +/-0.088  (UncertainPaul)
+   7. 2 Peter              [████████████████████████░░░░░░] 0.815 +/-0.085  (Catholic)
+   8. Acts                 [████████████████████████░░░░░░] 0.811 +/-0.095  (Disputed)
+   9. John                 [███████████████████████░░░░░░░] 0.800 +/-0.110  (Gospel)
+  10. 2 Timothy            [███████████████████████░░░░░░░] 0.798 +/-0.110  (Disputed)
+  11. Colossians           [███████████████████████░░░░░░░] 0.796 +/-0.104  (UncertainPaul)
+  12. Mark                 [███████████████████████░░░░░░░] 0.792 +/-0.100  (Gospel)
+  13. Jude                 [███████████████████████░░░░░░░] 0.791 +/-0.109  (Catholic)
+  14. Luke                 [███████████████████████░░░░░░░] 0.787 +/-0.102  (Gospel)
+  15. Matthew              [███████████████████████░░░░░░░] 0.782 +/-0.105  (Gospel)
+  16. Hebrews              [██████████████████████░░░░░░░░] 0.755 +/-0.107  (Disputed)
+  17. Titus                [██████████████████████░░░░░░░░] 0.755 +/-0.112  (Disputed)
+  18. 1 Timothy            [██████████████████████░░░░░░░░] 0.747 +/-0.109  (Disputed)
+  19. 2 Corinthians        [██████████████████████░░░░░░░░] 0.743 +/-0.115  (KnownPauline)
+  20. Romans               [██████████████████████░░░░░░░░] 0.743 +/-0.112  (KnownPauline)
+  21. 1 Peter              [█████████████████████░░░░░░░░░] 0.733 +/-0.121  (Catholic)
+  22. Galatians            [█████████████████████░░░░░░░░░] 0.722 +/-0.125  (KnownPauline)
+  23. James                [█████████████████████░░░░░░░░░] 0.713 +/-0.119  (Catholic)
+  24. 1 Thessalonians      [█████████████████████░░░░░░░░░] 0.713 +/-0.132  (KnownPauline)
+  25. Philippians          [█████████████████████░░░░░░░░░] 0.713 +/-0.112  (KnownPauline)
+  26. 1 Corinthians        [███████████████████░░░░░░░░░░░] 0.663 +/-0.131  (KnownPauline)
+  27. 3 John               [███████████████████░░░░░░░░░░░] 0.656 +/-0.141  (Catholic)
